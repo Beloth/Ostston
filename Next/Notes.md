@@ -1,0 +1,11 @@
+The watchtower is about 3 stories tall with what appears to be an unlight signaal fire at the highest point of the tower. Surrounded by a wooden wall with a single gate. No guards on the wall or at the gate. As you approach the gate you can hear the sounds of someone snoring.. DC sneak check of 10 to make it to the gate undetected. The gate is slightly open. Pearing through the gate you can just about see a single guard sitting on a chair with its back to the wall, sleeping, with what appears to be a flagon of something almost falling out of his hand.
+
+If they take time to inspect the gurad. Appears to be the same uniform as the guards but Koby notices that there are sutble diffences and the insignier badges don't appear to be correct for this watchtower.
+
+If they question the guard. Not many left here. Waiting for the last couple of bands then we were to leave. Another few days according to the boss (Dagarion). He's the leader of the mercenary band, I'm not a member, I was just hired to fill out the numbers, just waear the uniform and hang around, maybe to some heavy lifting ot guarding of prisoners. He's in the tower. Please don't kill me. I only took the job to feed my family. DC check of 12 for more information. Most of the band has left and only Dagarion left plus more people like him. 
+
+Several wooden buildings between the gate an the tower. No activity. Almost seems to be dead. Before moving out a perception check DC14 to see if they notice that there are people on the top of the tower, lookouts. If they notice they can make a sneak attempt between the buildings (3) to make it to the tower against the perception of the look outs with advantage. If they don't notice the lookout gets the advantage.
+
+If alarm goes off people are aware of them.. Depending when when spotted the lookouts will get 1 shot at them as they try to make it to the tower. 1 shot per building per lookout. 1st time only 1 look out. After that 3 lookouts. Alarm sounded and all guards in tower aware of them.
+
+If no alarm goes off they make it to the tower door. Again slightly ajar. Not well disciplined.
