@@ -1,27 +1,32 @@
-While the party rested Lieutenant Jeffery questioned the Gatekeeper Len. He confirmed that the man in the Captain's uniform is Delgarion. He was the person who hired him and several others to pretend to be guards. They that finished their part and left a few days ago. The last lot of goods and people left at the same time He was the last one left and was due to leave in a a day or so. He will be escorted to Ostston to testify to the Grand Marshall. If you could also go to testify about what you have found that would be most useful and you would be well rewarded.
-
-The tattoo was found on all the bodies within the tower but not on Len. They also checked the tribesman bodies but none seemed to have the tattoo.
-
-He's sent a patrol to Easthaven as well as starting the usual patrols from the tower. He'll be manning the tower till a relief force is sent from Ostston, after which he and his men will return to Highcastle.
-
-If go to Easthaven - Village is devestated. Burnt out building, the temple ransacked as is the town hall.  The Guards are busy burying the dead. Investigation DC. 10+ Tracks leading to the fort. 15+ not many bodies compared to the size of the village. Missing fishing boats 
-
 Enter the Woods, encounter with Hell Hounds.
 
-Trace the tracks 3 DC 14 Survial checks. 
+Trace the tracks 3 DC 14 Survial checks. (2 Done rquires 1 more)
 - Fails lead to clearings with encounters. 
 - Success leads to a Standing Circle and they end there. There is an opressive feel to the area. Air is heavy with magic. 8 foot tall stones 5-6 metres in diameter. 
 	
 Need Wisdom saving throw of 15.
 
 - Fail "you eyes skim the stones nothing important there. You start to move away from the stone" 
-- Success "you feel something external making you want to turn away from the stone circle. You fortify your self and with a shake of you head you brush off the suggestion"
+- Success "you feel something external making you want to turn away from the stone circle. You fortify your self and with a shake of you head you brush off the suggestion. You see the stones but for some reasonyou can see what's inside."
 	
-In the centre of the stone circle lies an altar, bare except for a clear crystal on it. The crystal slowly pulses with a dim white light, almost like a heart beat. As you move closer the light gets brighter as does the pace of the beats. If you touch the crystal you hear a booming voice in your head... "You are not one of mine". The crystal turns red and there is bright red flash and an arcane explosion. 2D4 damage Acrobatics save DC 10 to half the damage.
+In the centre of the stone circle lies an altar, bare except for a large crystal glowing with a red light. The crystal slowly pulses, almost like a heart beat. By the altar there seems to be a large portal into which several people are slowly shuffling through they all have a blank look on their faces. Around are 5 people dress in guard uniforms. There's 1 either side of the portal as well as 1 with his hand on the crystal. As they see you they push the final 3 people through before turning to face you. The one holding the crystal takes his hand away and the portal closes. The crystal loses its red tint. Its now a pulsing with a sfot white light. He yells "In Charion's name" and they attack.
+
+4 will fight to the death. Sargent yell "Talget we must leave" Mage will open new portal on other side and he flees through leaving the Sargent behind. If captured they will refuse to speak. If forced they will start before collapsing and threashing on the floor grabing the arm that has the tattoo before a buring starts from the tattoo incinerating them. 
+
+Behind the alter there is a backpack containing 
+- A cloak of Protection
+- 2 Potions of Healing
+- Ring of Mind Shielding
+- 75 Gold
+- A pouch with 4 Jasper gems
+
+as well a Staff of the Python.
+
+If you touch the crystal you hear a booming voice in your head... "You are not one of mine". The crystal turns red and there is bright red flash and an arcane explosion. 2D4 damage Acrobatics save DC 10 to half the damage. 
 	
-Above the now red crystal forms a red mist and within that mist an indistict form appears. "Well what do we have here... More tributes perhaps.. no none of you are mine, well that's not entirely true is it." Mal you can feel a feeling of kinship towards the being. "now what to do with you..."
+Above the now red crystal forms a red mist and within that mist an indistict form appears. "Well what do we have here... More tributes perhaps.. no none of you are mine, well that's not entirely true is it." Mal you can feel a feeling of kinship towards the being. "now what to do with you..." "Perhaps you have something to offer me for letting you live?"
 	
-"No I think not. I can't have you interupting my plans." With that the crystals begins to pulse even faster and brighter. Those of a magical pursuasion feel a pull from their core.
+"No I think not. I can't have you interupting my plans." With that the crystals begins to pulse even faster and brighter. All of you feel something probing your minds.
 	
 Arcana check DC 10 - Its calling something to come to this place
 	
