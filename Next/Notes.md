@@ -16,7 +16,6 @@ In the centre of the stone circle lies an altar, bare except for a large crystal
 Behind the alter there is a backpack containing 
 - A cloak of Protection
 - 2 Potions of Healing
-- Ring of Mind Shielding
 - 75 Gold
 - A pouch with 4 Jasper gems
 
