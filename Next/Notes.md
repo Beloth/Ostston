@@ -14,12 +14,11 @@ In the centre of the stone circle lies an altar, bare except for a large crystal
 4 will fight to the death. Sargent yell "Talget we must leave" Mage will open new portal on other side and he flees through leaving the Sargent behind. If captured they will refuse to speak. If forced they will start before collapsing and threashing on the floor grabing the arm that has the tattoo before a buring starts from the tattoo incinerating them. 
 
 Behind the alter there is a backpack containing 
-- A cloak of Protection
-- 2 Potions of Healing
+- Elixir of Health
+- Scroll of Protection from Fiends
 - 75 Gold
 - A pouch with 4 Jasper gems
 
-as well a Staff of the Python.
 
 If you touch the crystal you hear a booming voice in your head... "You are not one of mine". The crystal turns red and there is bright red flash and an arcane explosion. 2D4 damage Acrobatics save DC 10 to half the damage. 
 	
