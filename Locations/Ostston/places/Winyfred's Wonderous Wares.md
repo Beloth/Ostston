@@ -11,7 +11,8 @@ Stone walled building filled with various items. Bookshelves, display cabinets, 
 500gp
 
 #####Magic Items
-|Number|Name|Cost|
+Number | Name | Cost
+-------|------|-----
 |1|Bag of holding|4000gp|
 |1|Boots of Striding and Springing|5000gp|
 |1|Brooch of Shielding|75000gp|
@@ -33,7 +34,8 @@ Geography of Hestal
 Ostston Ruling family
 
 #####Potion Ingredients
-|Number|Potion|Cost|
+Number | Name | Cost
+-------|------|-----
 |10|of Healing|25gp|
 |8|of Greater Healing|100gp|
 |5|of Superior Healing|350gp|
@@ -41,7 +43,8 @@ Ostston Ruling family
 |2|of Fire Breath|100gp|
 
 #####Tools
-|Number|Type|Cost|
+Number | Name | Cost
+-------|------|-----
 |4|Alchemist's Supplies|50gp|
 |2|Cartographer's tools|15gp|
 |2|Jeweler's  tools|25gp|
