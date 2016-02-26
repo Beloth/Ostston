@@ -48,7 +48,21 @@ Lady G
 Felarn walks you out and takes a pouch from the clerks desk. "Follow me." He takes you to what is obviously his office. Gives you the pouch (holds a further 500gp)
 "I had hoped the council will allow me to boost the number of guards due to your testimony but Tanafrey obviously has the ear of Lady G at the moment and has blocked that. I can't afford to go directly against him at this time." "If you are interested I may have jobs for you in the future, but I will need to wait a while otherwise it would be too obvious. That is if you are interested?"
 
-"In the mean time if you are looking for work you could head to the Order of the Anvil. Grand Master Bannor is an old friend. Here I'll right you an introductory note".
+"In the mean time if you are looking for work you could head to the Order of the Anvil. I'll write you an introductory note which will get you a meeting with Roszana who is incharge of the handing out the contracts.
+
+####Exploring the Merchant Quarter
+If the prosperity of a city can be determine by the amount and varity of the goods sold by it merchants that by all accounts Ostston is a very prosperous place. There are merchants here selling everything from spices to furniture to magic items.
+
+Perceptions check 
+* 10+ the is a subtle undercurrent of worry
+* 15+ Though there still appears to be many things on sale there does seem to be a number of empty shelves
+
+After a time exploring
+
+Angus make a perception check
+
+* 10+ You think you saw somthing important but you don't know what or why
+* 15+ You saw something in one of the shop windows that bugs you. Thinking back and using your keen mind you recall the shop selling wooden items, chairs, tables, musical insturments, wait, there it is, the whistle, exactly the same style as Eli's.
 
 
 ####Winyfred's Wonderous Wares
@@ -74,4 +88,8 @@ See if party does anything
 
 There is a bell ring from the back of the shop After a time the gnome reappears "Right well I've sent the identification cystal to Winyfred's however Junior Lecturer MacDonnach you to return to the University." With that she hands off the mirror to a middle aged male human. "This senior investigator Ronon. There are issues with the investigation into the necromancer. You are to return to answer questions. You have 2 days. I will inform The Ostston Library to expect you" With that the connection closes down
 
+####Order of the Anvil
 
+As you approch it is less of a guild hall and more of a massive stone fortification 3 stories high. 2 heavily armed guards stand at the side of the thick open wooden doors. You can see several guards standing on the roof looking down.
+
+You enter a large central hall which is busy with people. Several desks are at the sides manned by clerks with queues of people waiting to talk to them. Many large notice boards are scattered around the hall with what appears to be little notes pinned to them.
