@@ -34,8 +34,8 @@ Can only be done for magics the user knows of or has the designs for
 ###Success table
 Roll|Result|Effect Imbuement|Effect Inscription
 ----|------|----------------|------------------
-*1 | Critical Failure Explosion | Take 2*D6*Spell Level explosive damage| Take 1/2 *D6*Spell Level explosive damage
-1-4| Bad failure |  Take D6*Spell Level explosive damage| Take 1/4 *D6*Spell Level explosive damage
+*1 | Critical Failure Explosion | Take 2 x D6 x Spell Level explosive damage| Take 1/2 x D6 x Spell Level explosive damage
+1-4| Bad failure |  Take D6 x Spell Level explosive damage| Take 1/4 x D6 x Spell Level explosive damage
 5-8 | Failure | Lose all material | Lose all material 
 9-16 | Success | Item created as expected | Item created as expected
 17-20 | Great success |+2 to wild magic roll | +1 to the spell level
