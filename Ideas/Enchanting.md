@@ -45,26 +45,27 @@ Enchanting through marking an item with magical rune/writing/designs.This method
 
 ###Time
 
-You can only magically craft for a certain length of time based on the number of spell slots you want to expend
+You can only magically craft for a certain length of time based on the number of spell slots you want to expend.
+
 Time taken cannot be reduced to less than half the base time
-1 day = 8 hours of crafting
-1 week = 7 days
-1 month = 4 weeks
+* 1 day = 8 hours of crafting
+* 1 week = 7 days
+* 1 month = 4 weeks
 
 ####Basic
 Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 slot is 4 hours of enchanting)
 
 One use items (eg ammunition) with non cantrips (eg +1 damage)
-1 hour per item - 5 minutes per skill level
+* 1 hour per item - 5 minutes per skill level
+
 All other items 
-8 hours per cantrip item - 30 minutes per skill level
+* 8 hours per cantrip item - 30 minutes per skill level
 
 ####Imbuing
-Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 slot is 4 hours of embuing)
-Overpowering - you can expend extra spell slots to speed up embuing up to double the speed however at a higher cost - 1 hour per 2 spell slots per level (eg expending an extra level 4 slot is 2 hours of extra embuing) 
+* Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 slot is 4 hours of embuing)
+* Overpowering - After 8 spell slot levels to get your 8 hours for the day, you can expend extra spell slots to overpower your embuing and speed up the process upto an additional 8 hours per day but at a higher cost - 1 hour per 2 spell slots per level (eg expending an extra level 4 slot is an extra 2 hours) 
 
-One use items (eg ammunition)
-
+#####One use items (eg ammunition)
 |Rarity| Base time per item | Skill time modifier per skill level|
 |-----------|-----------|-------------------------------|
 |Uncommon| 2 hours | 10 minutes |
@@ -72,7 +73,7 @@ One use items (eg ammunition)
 |Very Rare | 2 days | 10 minutes |
 |Legendary | 1 week | 10 minutes |
 
-All other items
+#####All other items
 |Rarity| Base time per item | Skill time modifier per skill level|
 |-----------|-----------|-------------------------------|
 |Uncommon| 2 days | 1 hour |
@@ -84,8 +85,7 @@ All other items
 
 Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 slot is 4 hours of embuing)
 
-One use items (eg ammunition)
-
+#####One use items (eg ammunition)
 |Rarity| Base time per item | Skill time modifier per skill level|
 |-----------|-----------|-------------------------------|
 |Uncommon| 3 hours | 30 minutes |
@@ -93,7 +93,7 @@ One use items (eg ammunition)
 |Very Rare | 4 days | 30 minutes |
 |Legendary | 2 weeks | 30 minutes |
 
-All other items
+#####All other items
 |Rarity| Base time per item | Skill time modifier per skill level|
 |-----------|-----------|-------------------------------|
 |Uncommon| 4 days | 4 hour |
