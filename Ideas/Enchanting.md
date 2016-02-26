@@ -36,12 +36,12 @@ Enchanting through marking an item with magical rune/writing/designs.This method
 |Spell level|Rarity|Difficulty modifier|
 |-----------|------|-------------------|
 |Cantrip|Uncommon| +0|
-|1-2|Uncommon|+1|
-|3-4|Rare|+2|
-|5-6|Rare|+3|
-|7|Very Rare|+5|
-|8|Very Rare|+6|
-|9|Legendary|+8|
+|1-2|Rare|+2|
+|3-4|Very Rare|+4|
+|5-6|Very Rare|+5|
+|7|Legendary|+7|
+|8|Legendary|+8|
+|9|Mythic|+10|
 
 ###Time
 
@@ -70,8 +70,9 @@ All other items
 |-----------|-----------|-------------------------------|
 |Uncommon| 2 hours | 10 minutes |
 |Rare | 4 hours | 10 minutes |
-|Very Rare | 2 days | 10 minutes |
-|Legendary | 1 week | 10 minutes |
+|Very Rare | 2 days | 30 minutes |
+|Legendary | 1 week | 1 hour |
+|Mythic| 1 month | 1 day|
 
 #####All other items
 |Rarity| Base time per item | Skill time modifier per skill level|
@@ -79,7 +80,8 @@ All other items
 |Uncommon| 2 days | 1 hour |
 |Rare | 1 week | 2 hours |
 |Very Rare | 4 weeks | 4 hours |
-|Legendary | 6 months | 8 hours |
+|Legendary | 6 months | 1 day |
+|Mythic| 1 year | 1 week | 
 
 ####Inscription
 
@@ -88,10 +90,11 @@ Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 s
 #####One use items (eg ammunition)
 |Rarity| Base time per item | Skill time modifier per skill level|
 |-----------|-----------|-------------------------------|
-|Uncommon| 3 hours | 30 minutes |
+|Uncommon| 3 hours | 15 minutes |
 |Rare | 8 hours | 30 minutes |
-|Very Rare | 4 days | 30 minutes |
-|Legendary | 2 weeks | 30 minutes |
+|Very Rare | 4 days |  1 hour |
+|Legendary | 2 weeks | 2 hours |
+|Mythic| 2 months| 1 day|
 
 #####All other items
 |Rarity| Base time per item | Skill time modifier per skill level|
@@ -100,6 +103,7 @@ Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 s
 |Rare | 2 week | 8 hours |
 |Very Rare | 2 months | 2 days |
 |Legendary | 1 year | 1 week |
+|Mythic | 2 years | 1 month|
 
 ###Success table
 Roll D20 + Skill Modifier - Difficulty Modifier
