@@ -155,6 +155,11 @@ You see a female hafling sitting behind a large desk that has several trays full
 "They are generally not the best paids jobs but need to be done"  
 "The more lucative jobs are saved for proven guild members. Now this note from the High Marshal says you have done him a good turn and he would look upon the Order favorably if we were to accept you"  
 "Do you wish to join the Order?"
+"While the Marshal's note does paint you in a good light you will need take on a contract and be assessed by a qualified member before we classify you as being proved, and I have just the job and possibly you assessor"
+She shuffles through some paper "Yes here we are. The Tolnar Mausoleum and Dormak Firebeard"  
+"Meet Dormak Firebeard at the Northen gate at dawn tomorrow"
+
+
 
 ####Joining the Order
 Expected to take on jobs and the Order takes on a set cut of the reward
