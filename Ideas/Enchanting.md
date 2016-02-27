@@ -76,16 +76,16 @@ All other items
 * Overpowering - After 8 spell slot levels to get your 8 hours for the day, you can expend extra spell slots to overpower your embuing and speed up the process upto an additional 8 hours per day but at a higher cost - 1 hour per 2 spell slots per level (eg expending an extra level 4 slot is an extra 2 hours) 
 
 #####One use items (eg ammunition)
-|Rarity| Base time per item | Skill time modifier per skill level|
-|-----------|-----------|-------------------------------|
+|Rarity| Base time per item | Skill time modifier|
+|------|--------------------|--------------------|
 |Uncommon| 2 hours | 10 minutes |
 |Rare | 4 hours | 10 minutes |
 |Very Rare | 2 days | 30 minutes |
 |Legendary | 1 week | 1 hour |
 
 #####All other items
-|Rarity| Base time per item | Skill time modifier per skill level|
-|-----------|-----------|-------------------------------|
+|Rarity| Base time per item | Skill time modifier|
+|------|--------------------|--------------------|
 |Uncommon| 2 days | 1 hour |
 |Rare | 1 week | 2 hours |
 |Very Rare | 4 weeks | 4 hours |
@@ -96,16 +96,16 @@ All other items
 Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 slot is 4 hours of embuing)
 
 #####One use items (eg ammunition)
-|Rarity| Base time per item | Skill time modifier per skill level|
-|-----------|-----------|-------------------------------|
+|Rarity| Base time per item | Skill time modifier|
+|------|--------------------|--------------------|
 |Uncommon| 3 hours | 15 minutes |
 |Rare | 8 hours | 30 minutes |
 |Very Rare | 4 days |  1 hour |
 |Legendary | 2 weeks | 2 hours |
 
 #####All other items
-|Rarity| Base time per item | Skill time modifier per skill level|
-|-----------|-----------|-------------------------------|
+|Rarity| Base time per item | Skill time modifier |
+|------|--------------------|---------------------|
 |Uncommon| 4 days | 4 hour |
 |Rare | 2 week | 8 hours |
 |Very Rare | 2 months | 2 days |
@@ -115,13 +115,13 @@ Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 s
 These formulas are generic and should an item appear too powerful for the calculated cost the DM reserves the right to impose an additional cost
 
 ####Enchanting
-Base Item Cost + Spell material cost + 10 \* number of hours
+50% Value + 10 \* number of hours 
 
 ####Imbuing
-Base Item Cost + Spell material cost + 10 \* number of hours
+50% Value + 10 \* number of hours 
 
 ####Inscription
-Base Item Cost + Spell material cost + 20 \* number of hours
+06% Value + 20 \* number of hours 
 
 
 ###Success table
