@@ -152,12 +152,14 @@ You see a female hafling sitting behind a large desk that has several trays full
 "Hmm a recommendation from the High Marshal, you don't see many of those around"  
 "I am the Mistress of Contracts here at the Order of the Anvil. Do you know how the contracts work?"  
 "Those contracts out there" She waves towards to door "are for junior guild members who have yet to prove themselves to the guild, unaffliated adventuring groups and mercenaries"  
+
 "They are generally not the best paids jobs but need to be done"  
 "The more lucative jobs are saved for proven guild members. Now this note from the High Marshal says you have done him a good turn and he would look upon the Order favorably if we were to accept you"  
-"Do you wish to join the Order?"
-"While the Marshal's note does paint you in a good light you will need take on a contract and be assessed by a qualified member before we classify you as being proved, and I have just the job and possibly you assessor"
+"Do you wish to join the Order?"  
+
+"While the Marshal's note does paint you in a good light you will need take on a contract and be assessed by a qualified member before we classify you as being proved, and I have just the job and possibly you assessor"  
 She shuffles through some paper "Yes here we are. The Tolnar Mausoleum and Dormak Firebeard"  
-"Meet Dormak Firebeard at the Northen gate at dawn tomorrow"
+"Meet Dormak Firebeard at the Northen gate at dawn tomorrow"  
 
 
 
@@ -172,9 +174,9 @@ Access to the guild Trainer and training area
 
 ####Current Order jobs
 
-* One of the nobles has asked the Order to clear out an old family mausoleum just outside the city so that it can once again be used to bury their members there.
-** Not crypts are to be opened but any items found in the mausoleum may be taken. 
-** Offer of 1600gp after guild cut taken out
+1. One of the nobles has asked the Order to clear out an old family mausoleum just outside the city so that it can once again be used to bury their members there.
+  * Not crypts are to be opened but any items found in the mausoleum may be taken. 
+  * Offer of 1600gp after guild cut taken out
 
 
 
