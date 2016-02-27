@@ -164,13 +164,13 @@ She shuffles through some paper "Yes here we are. The Tolnar Mausoleum and Dorma
 
 
 ####Joining the Order
-Expected to take on jobs and the Order takes on a set cut of the reward
-There may be times when the Order wants you take certain critical jobs
-The Order may call on you to protect its interests
-You gain access to the Order barracks 
-Discounts at the Order shops
-Access to the guild Blacksmith
-Access to the guild Trainer and training area
+Expected to take on jobs and the Order takes on a set cut of the reward  
+There may be times when the Order wants you take certain critical jobs  
+The Order may call on you to protect its interests  
+You gain access to the Order barracks   
+Discounts at the Order shops  
+Access to the guild Blacksmith  
+Access to the guild Trainer and training area  
 
 ####Current Order jobs
 
