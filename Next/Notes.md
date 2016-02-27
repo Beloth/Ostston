@@ -86,10 +86,90 @@ Old Female gnome. Grey hair tied in a bun. Half moon spectacles. The mirror appe
 
 See if party does anything
 
-There is a bell ring from the back of the shop After a time the gnome reappears "Right well I've sent the identification cystal to Winyfred's however Junior Lecturer MacDonnach you to return to the University." With that she hands off the mirror to a middle aged male human. "This senior investigator Ronon. There are issues with the investigation into the necromancer. You are to return to answer questions. You have 2 days. I will inform The Ostston Library to expect you" With that the connection closes down
+There is a bell ring from the back of the shop After a time the gnome reappears "Right well I've sent the identification cystal to Winyfred's however Investigator Ronon would like a word with Lecturer Macdonnach" With that she hands off the mirror to a middle aged male human. "This Senior investigator Ronon. There are issues with the investigation into the necromancer. You are to help the further investigation. It is good that you are in Ostston. Meet with Investigator Trent at the Library immediately"
+
+####Library of Ostston
+Large well maintain building with steps leading up to the front enterance. The entry hall has a curved desk with several people seat behind dealing with what appears to be paper work. As you approach one looks up   
+"Can I help you?"
+
+"Identification please"  
+
+He consults another book. "Investigator Trent, yes of course. 1 second please" and he touches a blue crystal on the desk. A door to the side opens and a young man approches. "Please take Lecturer MacDonnach to room 18"  
+"Yes Sir" He turn to you "Please follow me"  
+He leads you to the door he just came through and proceeds to lead you through several hallways before stopping in front of a closed door. He knocks. "Lecturer MacDonnach and party for you"  
+
+"Enter"
+
+You enter the room to see a large table with various papers scattered all over it and 3 people appear to be shifting through them. 1 male human, 1 female elf and 1 male dragonborn
+
+Angus recognises the Dragonborn as Rasvull a member of the Sages of the Arcane who had always been vocally opposed to your rise in the guild.
+
+The human walks towards Angus. "Welcome, I am Investigator Trent, these are my companions Dalee and Rasvull."
+
+"We went to investigate the Necorancer you recently defeated however when we found the cave in which you claim to have defeated him no traces of him or any magical ritual or any magic was found. Further more the farmer and his daughter you claim to have saved weren't there. No one it that area had ever heard of them"
+
+"We wished to speak to your mentor Robert Caelom however he never responded to the summons. He was last sighted here in Ostston looking into rumours of a lost manuscript being found by one of the noble families. And by some conicidance you are here too...."
+
+Rasvull "As I've said many time this upstart has lied through out. Making up claims to justify his advancement. I bet Caelom finally found out and this pack of thugs dealt with"
+
+Dalee "There is no proof of that Ras. In fact there is no proof of anything, that is the most perplexing part of this."
+She turns to you "So when was the last time you saw Robert?" 
+
+"And you have had no contact since? None at all?"  
+
+Rasvull "We should hold them. They are suspects in all of this"  
+Dalee sighs "Ras, there is no evidence of any wrong doing by MacDonnach or any of his party. We can't not hold them"  
+Trent "This is true. Be warned you will be watched and if you do anything against the guild charter you will be punished, you are free to go"  
+Dalee "I will show them out"  
+As you exit she puts her finger to her lips and motions for you to be silent and to follow her. She leads you towards the enterance but before getting there goes in a side room. "Apologies but I thought it best to talk to you outside the meeting. Rasvull has his own agenda and Trent, well lets just says is looking for advancement and so doesn't want to make waves"  
+"Robert was a friend so I want to find out what has happened to him. While I can't order you to investigate, in fact as an Investigator on this case I would have to strongly suggest you stay out if it, it is not my fault if you accidentally found these notes" She takes some parchment out of her pockets and leaves it on a desk "and decided to take matters into your own hands" With that she winks and leaves the room
+
+####Notes on Caelom's Disappearance
+Come to Ostston within a few days of MacDonnach's hearing
+Stayed in the Jolly Workman's Inn in the Craftsman quarter. 
+Paid for a month room and board in advance
+Paid visits to muliple nobles houses in the Nobles quarter
+Asked about many of them
+Particularly interested in Xavier, Granrus, Darrel and Tanafrey
+ 
+
 
 ####Order of the Anvil
 
 As you approch it is less of a guild hall and more of a massive stone fortification 3 stories high. 2 heavily armed guards stand at the side of the thick open wooden doors. You can see several guards standing on the roof looking down.
 
-You enter a large central hall which is busy with people. Several desks are at the sides manned by clerks with queues of people waiting to talk to them. Many large notice boards are scattered around the hall with what appears to be little notes pinned to them.
+You enter a large central hall which is busy with people. Several desks are at the sides manned by clerks with queues of people waiting to talk to them. Many large notice boards are scattered around the hall with what appears to be little notes pinned to them. There are clusters of people around the boards looking at the notes and a few taking some down.  
+
+Several clerks holding piles of notes walk through the hall putting new notes onto the various boards.  
+One of these clerks walks by you and stops "You look lost. Can I help you?"
+
+"This is the contracts hall. Each of those boards holds various jobs that the guild has taken on. Guild members, adventuring parties and mercanaries bands can have a look and if a job looks like something they would be interested in completing they take the note to one of the desks, gets more information and signs up for it".  
+
+You have a message for Lady Lemia? Very well" He flags down a clerk who had just finished pinning up new jobs on a nearby board and hands him his stack of jobs "Follow me" He leads you to a side door that has 2 guards standing by. "Wait here" He knocks and enters closing the door. Hard to here over the noise of the hall.
+
+Door opens and the clerk beckonds you in. 
+You see a female hafling sitting behind a large desk that has several trays full of the same job notes in them. "You have a message for me? Quickly now I'm very busy"  
+"Hmm a recommendation from the High Marshal, you don't see many of those around"  
+"I am the Mistress of Contracts here at the Order of the Anvil. Do you know how the contracts work?"  
+"Those contracts out there" She waves towards to door "are for junior guild members who have yet to prove themselves to the guild, unaffliated adventuring groups and mercenaries"  
+"They are generally not the best paids jobs but need to be done"  
+"The more lucative jobs are saved for proven guild members. Now this note from the High Marshal says you have done him a good turn and he would look upon the Order favorably if we were to accept you"  
+"Do you wish to join the Order?"
+
+####Joining the Order
+Expected to take on jobs and the Order takes on a set cut of the reward
+There may be times when the Order wants you take certain critical jobs
+The Order may call on you to protect its interests
+You gain access to the Order barracks 
+Discounts at the Order shops
+Access to the guild Blacksmith
+Access to the guild Trainer and training area
+
+####Current Order jobs
+
+* One of the nobles has asked the Order to clear out an old family mausoleum just outside the city so that it can once again be used to bury their members there.
+** Not crypts are to be opened but any items found in the mausoleum may be taken. 
+** Offer of 1600gp after guild cut taken out
+
+
+
