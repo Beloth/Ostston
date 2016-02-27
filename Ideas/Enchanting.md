@@ -1,7 +1,21 @@
 ##Enchanting
 
-Basic Skill - Allows the creating of some uncommon items. Allows the creation of items imbued with a cantrip spell at half level. (eg any benefit reduced by half, duration, damage, etc)
-Also allow the creation of +1 items but at half value (eg etiher +1 to hit or +1 damage)
+###Training
+####Untrained 
+Requirements: Spellcasting ability  
+Result: Can imbue cantrips items but at half power (ie spell duration halved, damage halved, either +1 to damage or attack, etc), no skill modifier  
+
+####Initate
+Requirements: Spellcasting ability, 1 weeking of training from Adept or Master of wanted speciality
+Result: Choose speciality (Imbuement or Inscription) Can imbue/inscribe upto uncommon items, gains skill modifier (Skill (Int))
+
+####Adept
+Requirements: Initiate enchanter, enchanted at least 16 weeks of items OR 4 weeks training from a Master of speciality AND enchanted at least 4 weeks of Initate level items  
+Result: Can imbue/inscribe spells upto rare items, now uses full proficiency modifier (Skill (Int) + proficiency)
+
+####Master
+Requirements: Adept enchanter, enchanted at least 64 weeks of items OR 16 weeks training from a Master of speciality who has made a Legendary Item AND at least 16 weeks of Adept level items  
+Result: Can imbue/inscribe spells up to very rare items full proficiency modifier (Skill (Int) + proficiency)
 
 ###Imbuement
 
@@ -14,7 +28,6 @@ Forcing magic into an item. Brute force method of enchanting. Quick and dirty me
 
 ####Cons
 * Takes alot more magical energy (ie can only use spells that are half the max spell slot they have)
-* Chances to go wrong increase
 * Chance of wild magic to give the item an unintentional affect
 * Not approved by the Sages of the Arcane outside their specialist research team
 
@@ -31,27 +44,20 @@ Enchanting through marking an item with magical rune/writing/designs.This method
 * Takes more time
 * Can only be done for magics the user knows of or has the designs for
 
-###Rarity vs Max Spell Level
-|Spell level|Rarity|Max Bonus|
-|-----------|------|---------|
-|Cantrip|Common| 0|
-|1-2|Uncommon| +1|
-|3-6|Rare| +2|
-|7-8|Very Rare| +3|
-|9|Legendary| +4|
 
-This tables shows the highest level spell effect that the item should have in the form of a one per short rest. For example a Uncommon Sword enchanted with a level 1 Acid Splash spell will only cast Acid Splash once before requiring a short rest. If the same Sword was made very rare but with the same spell the effect may occur more times before requiring a short rest
 
-###Difficulty level
+###Equivalent levels of enchanting & difficulty
+|Difficulty level|Spell level|Rarity|Weapon \ Armour  Bonus| Difficulty Modifier | Enchanting level required|
+|----------------|-----------|------|----------------------|---------------------|-------------------------|
+|0|Cantrip|Common| +1\*| 0| Basic | 
+|1|1-3|Uncommon| + 1| +2 | Initiate|
+|2|4-6|Rare| +2| +4 | Adept| 
+|3|7-8|Very Rare| +3 | +7 | Master|
+|4|9|Legendary| +4 | +10 | Special|DM discretion|
 
-|Spell level|Rarity|Difficulty modifier|
-|-----------|------|-------------------|
-|Cantrip|Ccommon| +0|
-|1-3|Uncommon|+2|
-|4-6|Rare|+5|
-|7-8|Very Rare|+7|
-|9|Legendary|+9|
+\*Spell effect is only half power (ie spell duration halved, damage halved, either +1 to damage or attack, etc)  
 
+This tables shows the highest level spell effect that the item should have in the form of a one per short rest. For example a Uncommon Sword enchanted with a level 1 Acid Splash spell will only cast Acid Splash 3 times before requiring a short rest. If the same Sword was made very rare but with the same spell the effect may occur more times before requiring a short rest
 
 ###Time
 
@@ -76,40 +82,40 @@ All other items
 * Overpowering - After 8 spell slot levels to get your 8 hours for the day, you can expend extra spell slots to overpower your embuing and speed up the process upto an additional 8 hours per day but at a higher cost - 1 hour per 2 spell slots per level (eg expending an extra level 4 slot is an extra 2 hours) 
 
 #####One use items (eg ammunition)
-|Rarity| Base time per item | Skill time modifier|
+|Rarity| Base time per spell level| Time reduction due to skill modifier \*Max half total time|
 |------|--------------------|--------------------|
-|Uncommon| 2 hours | 10 minutes |
-|Rare | 4 hours | 10 minutes |
-|Very Rare | 2 days | 30 minutes |
-|Legendary | 1 week | 1 hour |
+|Uncommon| 1 hours | 15 minutes |
+|Rare | 4 hours | 1 hour |
+|Very Rare | 4 days | 4 hours |
+|Legendary | 1 month | 4 days |
 
 #####All other items
-|Rarity| Base time per item | Skill time modifier|
+|Rarity| Base time per spell level | Time reduction due to skill modifier \*Max half total time|
 |------|--------------------|--------------------|
-|Uncommon| 2 days | 1 hour |
+|Uncommon| 2 days | 30 mins |
 |Rare | 1 week | 2 hours |
-|Very Rare | 4 weeks | 4 hours |
-|Legendary | 6 months | 1 day |
+|Very Rare | 2 months | 1 day |
+|Legendary | 2 years | 2 weeks |
 
 ####Inscription
 
 Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 slot is 4 hours of embuing)
 
 #####One use items (eg ammunition)
-|Rarity| Base time per item | Skill time modifier|
+|Rarity| Base time per spell level | Time reduction due to skill modifier \*Max half total time|
 |------|--------------------|--------------------|
-|Uncommon| 3 hours | 15 minutes |
-|Rare | 8 hours | 30 minutes |
-|Very Rare | 4 days |  1 hour |
-|Legendary | 2 weeks | 2 hours |
+|Uncommon| 2 hours | 30 minutes |
+|Rare | 1 day | 2 hours |
+|Very Rare | 1 week |  1 day |
+|Legendary | 2 months | 1 week|
 
 #####All other items
-|Rarity| Base time per item | Skill time modifier |
+|Rarity| Base time per spell level | Time reduction due to skill modifier \*Max half total time |
 |------|--------------------|---------------------|
-|Uncommon| 4 days | 4 hour |
-|Rare | 2 week | 8 hours |
-|Very Rare | 2 months | 2 days |
-|Legendary | 1 year | 1 week |
+|Uncommon| 4 days | 1 hour |
+|Rare | 2 week | 2 hours |
+|Very Rare | 4 months | 1 day |
+|Legendary | 4 year | 2 weeks |
 
 ###Cost
 These formulas are generic and should an item appear too powerful for the calculated cost the DM reserves the right to impose an additional cost
@@ -121,7 +127,7 @@ These formulas are generic and should an item appear too powerful for the calcul
 50% Value + 10 \* number of hours 
 
 ####Inscription
-06% Value + 20 \* number of hours 
+60% Value + 20 \* number of hours 
 
 
 ###Success table
