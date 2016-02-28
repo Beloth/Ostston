@@ -1,21 +1,25 @@
 ##Enchanting
 
 ###Training
+
 ####Untrained 
-Requirements: Spellcasting ability  
+Requirements: Spellcasting ability    
 Result: Can imbue cantrips items but at half power (ie spell duration halved, damage halved, either +1 to damage or attack, etc), no skill modifier  
 
 ####Initate
-Requirements: Spellcasting ability, 1 weeking of training from Adept or Master of wanted speciality
-Result: Choose speciality (Imbuement or Inscription) Can imbue/inscribe upto uncommon items, gains skill modifier (Skill (Int))
+Requirements: Spellcasting ability, 1 weeking of training from Adept or Master of wanted speciality  
+Result: Choose speciality (Imbuement or Inscription) Can imbue/inscribe upto uncommon items, gains skill modifier (Skill (Int)). 
 
 ####Adept
-Requirements: Initiate enchanter, enchanted at least 16 weeks of items OR 4 weeks training from a Master of speciality AND enchanted at least 4 weeks of Initate level items  
+Requirements: Initiate enchanter, enchanted at least 16 weeks of items OR 4 weeks training from a Master of your speciality AND enchanted at least 4 weeks of Initate level items  
 Result: Can imbue/inscribe spells upto rare items, now uses full proficiency modifier (Skill (Int) + proficiency)
 
 ####Master
-Requirements: Adept enchanter, enchanted at least 64 weeks of items OR 16 weeks training from a Master of speciality who has made a Legendary Item AND at least 16 weeks of Adept level items  
-Result: Can imbue/inscribe spells up to very rare items full proficiency modifier (Skill (Int) + proficiency)
+Requirements: Adept enchanter, enchanted at least 64 weeks of items OR 16 weeks training from a Master of your speciality who has made a Legendary Item AND at least 16 weeks of Adept level items  
+Result: Can imbue/inscribe spells up to very rare items full proficiency modifier (Skill (Int) + proficiency)  
+Bonus:  
+* Imbuement can now use full spell level rather than halved on Rare or lower items  
+* Inscription can now at +2 to Success roll for Rare or lower items
 
 ###Imbuement
 
@@ -49,7 +53,7 @@ Enchanting through marking an item with magical rune/writing/designs.This method
 ###Equivalent levels of enchanting & difficulty
 |Difficulty level|Spell level|Rarity|Weapon \ Armour  Bonus| Difficulty Modifier | Enchanting level required|
 |----------------|-----------|------|----------------------|---------------------|-------------------------|
-|0|Cantrip|Common| +1\*| 0| Basic | 
+|0|Cantrip|Common| +1\*| 0| Untrained | 
 |1|1-3|Uncommon| + 1| +2 | Initiate|
 |2|4-6|Rare| +2| +4 | Adept| 
 |3|7-8|Very Rare| +3 | +7 | Master|
@@ -140,6 +144,6 @@ Roll D20 + Skill Modifier - Difficulty Modifier
 |4-6 | Failure | Lose all material | Lose all material |
 |7-16 | Success | Item created as expected | Item created as expected|
 |17-20 | Great success |+2 to wild magic roll | +1 to the spell level|
-|\*20 | Critical Success | +5 to wild magic roll | +3 to the spell level|
+|\*20 | Critical Success | +5 to wild magic roll | +2 to the spell level|
 
 \* The critical failure has traumatised the enchanter every time they try to use that spell they have to make a Wisdom Save DC 10+spell level. After successfully casting the spell 3 times the trauma is overcome.
