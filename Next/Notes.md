@@ -298,4 +298,10 @@ Access to the guild Trainer and training area
   * Offer of 1600gp after guild cut taken out
 
 
+####Library
+#####Scroll
+Identify scroll 100
+Find Familiar 150
 
+Little Claw - bloodhound
+at 11am in the Jolly Workman inn
