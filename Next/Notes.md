@@ -128,12 +128,12 @@ As you exit she puts her finger to her lips and motions for you to be silent and
 "Robert was a friend so I want to find out what has happened to him. While I can't order you to investigate, in fact as an Investigator on this case I would have to strongly suggest you stay out if it, it is not my fault if you accidentally found these notes" She takes some parchment out of her pockets and leaves it on a desk "and decided to take matters into your own hands" With that she winks and leaves the room
 
 ####Notes on Caelom's Disappearance
-Come to Ostston within a few days of MacDonnach's hearing
-Stayed in the Jolly Workman's Inn in the Craftsman quarter. 
-Paid for a month room and board in advance
-Paid visits to muliple nobles houses in the Nobles quarter
-Asked about many of them
-Particularly interested in Xavier, Granrus, Darrel and Tanafrey
+Come to Ostston within a few days of MacDonnach's hearing  
+Stayed in the Jolly Workman's Inn in the Craftsman quarter.   
+Paid for a month room and board in advance  
+Paid visits to muliple nobles houses in the Nobles quarter  
+Asked about many of them  
+Particularly interested in Xavier, Granrus, Darrel and Tanafrey  
  
 ####Jolly Workman's Inn
 The innkeeper tells you that a man matching Caelom's discription did rent a room for the month and that he still has a week and a bit worth of rent. However he's unwilling to till you which room as you do not appear to be anytype of offical.  
@@ -160,8 +160,98 @@ She leans into you with a flitious look. Runs her hands down you chest
 Perception check against her Sleight of hand  
 Sleight of hand D20 + 4 
 
+Cig wins: You catch her hand just as she is about to lift your coin purse off you belt. "Well you can't fault a girl for trying can you" She smiles. "You can let me go now I promise to to try again" If you hold on "you really should let me go now" and you feel a slight pressure you your groin area. You look down and see she has a dagger pressed against you.
 
+She wins: You don't notice any thing until later in that day. You are missing your coin purse -100gp
 
+####Getting to Caelom room
+If inn busy Stealth roll of DC 10+
+if quiet Stealth roll of DC 15+
+
+If discovered chucked out of the inn by half orc bouncer and told not to come back or they will call the guard.  
+
+####Caelom's Room
+Locked DC10+ Dex check
+to get in
+
+Once in Angus perception check DC14+ if successful knowing Robert's routines you note that it appears to have been searched before but things put back in place almost as if he had done it.  
+
+Investigation check DC 13+  
+* Fail you notice the single book sitting on the bedside table. 
+* Success As well as the book. In the pockets of one of the robes you find a note with what appears to be directions.
+
+#####Caelom's Book
+Angus recognises the book as one of many that Robert had in his study. They were linked to his notebook so that what ever he wrote in the notebook would appear in the symatheptic book. The symatheptic book would also appear to be one of the normal books on The Natural History of Hestal (volume 13) unless open in a special way.
+
+Arcana check
+* Failed the book appears to be inert
+* DC5+ take 1D4 damage as spark of magical feedback hits you 
+* DC10+ You almost had it but the true book remains hidden
+* DC15+ it opens reveling the true book
+
+Angus has not taken the investigation into his handling of the Necormancer well. Hopefully getting out of my shadow and a bit of adventuring with out me will dampen that arrogance that may hamper his future advancement in the guild.
+
+A few uninteresting entries
+
+Word has reached me through one of my contacts in Ostston that a rare Manusrcipt has been unearthed. I think I'll head there and investigate. Anything to get away from that pain in the arse Rasvull.
+
+Skip a few entries
+
+Talked to my contact and it appears that Lord Darrel has the Manuscript. Will try to gain an audiance to talk to him but 1st need to find a place to stay. The Jolly Workman was recommended as being close to the noble quarter and at being a decent price
+
+I think I'm going to have to talk to my contact about taking money for recommendations. Thats the only reason I can think of for why he recommended me this inn. The innkeeper was nice enough and even gave me a good deal on a months rent. However its in the craftsman quarter and who in their right mind wants to be woken up before dawn by the ringing on hammers!
+
+Met with the steward of Lord Darrel but was unable to convice him to let me talk to the Lord
+
+Those damn hammers!
+
+Gained an audiance with Lord Darrel. He was helpful enough but unfortunately sold the manuscript on. He did mention that what he wad told the manuscript contained information on the lower planes.
+
+Started to ask around about who might be interested in the lower planes in the city and so might have bought the manuscript
+
+Hmmm Betsy provides a fine distraction from the early morning wake up. Unfortunely I doubt I can afford many such mornings. The foolish girl thinks that I didn't she her slip out with my pouch but she earnt it.
+
+There appears to be several pages dedicated to some sort magical construct.
+
+Arcana check 
+* DC10 some variation on a silencing spell
+* DC15 He appears to have been attempting to create a small localised silence spell taht could be cast on an item and that would last 8 hours. The diagrams of ears suggest where he wanted the item to go
+
+Apparently word of my interest in the manuscript has speard. Lady Granrus has invited me to tea. She apparently has information on who bought the manuscript
+
+#####Directions
+Intelligence Check DC 13+ to try to match the directions up with Ostston
+* Failed takes you 4 hours of wondering around, talking to people trying to match up locations to the directions   
+* After an hour you manage to find where the directions lead too.
+
+Leads to Lady Granrus house but need to ask around to find that out 
+
+#####Lady Granrus
+You knock on the door. A butler opens the door "Yes?"  
+"Please wait here" In the hall way  
+"Lady Granrus will see you in the morning room"  He leads you to a well lit room where Lady Granrus is reclining on a chaise longue
+
+Lady Granrus is a middle aged lady in an expensive low cut dress. Heavily made up
+"Visitors. How lovely." She looks you over "not the usual type that visit me I must admit... so what do you do?" She takes a sip from her wine glass. "Where are my manners.. Drink?"   
+"My guests tend to want their privicy. why should I tell you anything" with a smile
+
+Angus perception check
+Success you notice a glint under the side table, it appears to be a ring. A ring you recognise as one belonging to Robert.
+
+"Fine yes he was here. Unfortunately for him I ran into a little problem and my way out was to slip a little something into his wine" She looks with amusment at your glass.  
+"It was merely a sleep potion though to be fair he looked pretty tired anyway. Then some people took him away"
+
+"Luckily for you I didn't like the way my problem, how shall I put it, used me, so I had some associates follow them."  
+"What would you be willing to give me for this information?"
+
+Some sort of check
+She is very clever and unlikely to do anything for free
+
+"Very well, he was taken to disused warehouse outside of the north gate. I'll have someone show you the way"  
+See rings a small bell and the butler enters
+"Ah Jooves please have Weester direct these fine people to the place he has been watching"
+"Of course milady".
+ 
 
 ####Order of the Anvil
 
