@@ -7,7 +7,7 @@ Requirements: Spellcasting ability
 Result: Can imbue cantrips items but at half power (ie spell duration halved, damage halved, either +1 to damage or attack, etc), no skill modifier  
 
 ####Initate
-Requirements: Spellcasting ability, 1 weeking of training from Adept or Master of wanted speciality  
+Requirements: Spellcasting ability, 1 week of training from Adept or Master of wanted speciality  
 Result: Choose speciality (Imbuement or Inscription) Can imbue/inscribe upto uncommon items, gains skill modifier (Skill (Int)). 
 
 ####Adept
