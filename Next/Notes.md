@@ -300,8 +300,8 @@ Access to the guild Trainer and training area
 
 ####Library
 #####Scroll
-Identify scroll 100
-Find Familiar 150
+Identify scroll 100  
+Find Familiar 150  
 
-Little Claw - bloodhound
-at 11am in the Jolly Workman inn
+Little Claw - bloodhound  
+at 11am in the Jolly Workman inn  
