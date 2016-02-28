@@ -81,45 +81,31 @@ One use items (eg ammunition) with non cantrips (eg +1 damage)
 All other items 
 * 8 hours per cantrip item - 30 minutes per skill level
 
+#####One use items (eg ammunition)
+|Rarity| Time per spell level (Imbue / Inscribe)| Time reduction due to skill modifier \*Max half total time (Imbue / Inscribe)|
+|------|--------------------|--------------------|
+|Uncommon| 1 hours / 2 hours | 15 minutes / 30 minutes |
+|Rare | 4 hours / 1 day | 1 hour / 2 hours |
+|Very Rare | 4 days / 1 week| 4 hours / 1 day  |
+|Legendary | 1 month / 2 months| 4 days / 1 week|
+
+#####All other items
+|Rarity| Time per spell level (Imbue / Inscribe) | Time reduction due to skill modifier \*Max half total time  (Imbue / Inscribe)|
+|------|--------------------|--------------------|
+|Uncommon| 2 days / 4 days | 30 mins / 1 hour |
+|Rare | 1 week /  2 week| 2 hours / 2 hours |
+|Very Rare | 2 months / 4 months| 1 day / 1 day |
+|Legendary | 2 years / 4 year| 2 weeks / 2 weeks|
+
+
 ####Imbuing
 * Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 slot is 4 hours of embuing)
 * Overpowering - After 8 spell slot levels to get your 8 hours for the day, you can expend extra spell slots to overpower your embuing and speed up the process upto an additional 8 hours per day but at a higher cost - 1 hour per 2 spell slots per level (eg expending an extra level 4 slot is an extra 2 hours) 
 
-#####One use items (eg ammunition)
-|Rarity| Base time per spell level| Time reduction due to skill modifier \*Max half total time|
-|------|--------------------|--------------------|
-|Uncommon| 1 hours | 15 minutes |
-|Rare | 4 hours | 1 hour |
-|Very Rare | 4 days | 4 hours |
-|Legendary | 1 month | 4 days |
-
-#####All other items
-|Rarity| Base time per spell level | Time reduction due to skill modifier \*Max half total time|
-|------|--------------------|--------------------|
-|Uncommon| 2 days | 30 mins |
-|Rare | 1 week | 2 hours |
-|Very Rare | 2 months | 1 day |
-|Legendary | 2 years | 2 weeks |
-
 ####Inscription
 
-Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 slot is 4 hours of embuing)
+* Time you can enchant - 1 hour per spell slot per level (eg expending a level 4 slot is 4 hours of embuing)
 
-#####One use items (eg ammunition)
-|Rarity| Base time per spell level | Time reduction due to skill modifier \*Max half total time|
-|------|--------------------|--------------------|
-|Uncommon| 2 hours | 30 minutes |
-|Rare | 1 day | 2 hours |
-|Very Rare | 1 week |  1 day |
-|Legendary | 2 months | 1 week|
-
-#####All other items
-|Rarity| Base time per spell level | Time reduction due to skill modifier \*Max half total time |
-|------|--------------------|---------------------|
-|Uncommon| 4 days | 1 hour |
-|Rare | 2 week | 2 hours |
-|Very Rare | 4 months | 1 day |
-|Legendary | 4 year | 2 weeks |
 
 ###Cost
 These formulas are generic and should an item appear too powerful for the calculated cost the DM reserves the right to impose an additional cost
