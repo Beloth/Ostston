@@ -11,10 +11,11 @@
 * 
 
 #####Questions
-* Long term goals
-* Friends in the guild?
-* Feelings about the guild
-* Guild progression?
+* What are Angus's feelings about the guild? Happy with being a member? Happy with the rules? etc
+* Does he have any friends in the guild?
+* Does he want to progess in the guild?
+* Family - did he have any contact with his family since joining the guild (were there any siblings?)
+* Any goals (short or long term) that he might have had before or that have developed from the sessions so far
 
 
 ####Identification
