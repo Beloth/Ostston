@@ -1,6 +1,24 @@
 ###Ideas
 
 ####Angus
+
+#####Plot points
+* Getting guild Identification
+* Saving Caelom
+* Finding out about a shadowy faction with in the Sages
+* Finding the leader of the shadowy faction
+* Defeating the leader
+* 
+
+#####Questions
+* What are Angus's feelings about the guild? Happy with being a member? Happy with the rules? etc
+* Does he have any friends in the guild?
+* Does he want to progess in the guild?
+* Family - did he have any contact with his family since joining the guild (were there any siblings?)
+* Any goals (short or long term) that he might have had before or that have developed from the sessions so far
+
+
+####Identification
 Going to a magic shop. Shop keeper wants to see his guild identification. As he has none the shop keeper sighs at him. "Oh dear. 1st time outside the University without your sponsor is it? No.. hmm strange your sponsor should ahve gotten you guild identification. You'll need identification before I can give you any discount"
 
 If Angus says you never needed it before. "Where have you been shopping? At one of those shops that isn't affliated with the guild?!?. Here in Ostston?" 
