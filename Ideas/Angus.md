@@ -2,12 +2,20 @@
 
 ####Angus
 
+#####Plot points
 * Getting guild Identification
 * Saving Caelom
 * Finding out about a shadowy faction with in the Sages
 * Finding the leader of the shadowy faction
 * Defeating the leader
 * 
+
+#####Questions
+* Long term goals
+* Friends in the guild?
+* Feelings about the guild
+* Guild progression?
+
 
 ####Identification
 Going to a magic shop. Shop keeper wants to see his guild identification. As he has none the shop keeper sighs at him. "Oh dear. 1st time outside the University without your sponsor is it? No.. hmm strange your sponsor should ahve gotten you guild identification. You'll need identification before I can give you any discount"
