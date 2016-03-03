@@ -39,19 +39,19 @@ I think I'm going to have to talk to my contact about taking money for recommend
 
 Met with the steward of Lord Darrel but was unable to convice him to let me talk to the Lord
 
-**Next day**
+**Next day**  
 Those damn hammers!
 
 Gained an audiance with Lord Darrel. He was helpful enough but unfortunately sold the manuscript on. He did mention that what he wad told the manuscript contained information on the lower planes.
 
 Started to ask around about who might be interested in the lower planes in the city and so might have bought the manuscript  
 
-**Next day**
+**Next day**  
 Hmmm Betsy provides a fine distraction from the early morning wake up. Unfortunely I doubt I can afford many such mornings. The foolish girl thinks that I didn't she her slip out with my pouch but she earnt it.
 
 There appears to be several pages dedicated to some sort magical construct.
 
-Arcana check 
+Arcana check  
 * DC10 some variation on a silencing spell
 * DC15 He appears to have been attempting to create a small localised silence spell taht could be cast on an item and that would last 8 hours. The diagrams of ears suggest where he wanted the item to go
 
@@ -131,13 +131,15 @@ A steady steam of people both to the front door and down the alley
 #####The Chest
 * Locked (DC15+ or the clerk has the key)
   * Intimidation or persuation check (10+) for the key
+  * If opened there is 2000gp
+    * If taken and clerk left alive the party will be marked as theives 
 * Perception check when locking for traps or Investigation while looking at the chest (DC15+)
   * There something strange about the floor under the chest. You rap you knuckles gentle against the ground around the area and you hear a definite change in sound.
   * You feel around and find a hidden handle to a door.
 * Door is magical alarm trapped. Arcana DC 15+
   * If triggered the people below know the door has been opened
   * If not do not know the door has been opened
-  * 
+  
 ####Under the Warehouse
 
 * Cig Intelligance check DC12+ appears to be part of the thieves highway. Used to smuggle things from the docks into or out of the city
@@ -243,9 +245,9 @@ Access to the guild Trainer and training area
   * Offer of 1600gp after guild cut taken out
 
 
-####Library
+####Library of Ostston
 #####Scroll
-Identify scroll 100  
-Find Familiar 150  
+Identify scroll 100gp  
+Find Familiar 150gp  
 
 
