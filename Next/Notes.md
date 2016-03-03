@@ -130,7 +130,7 @@ A steady steam of people both to the front door and down the alley
  
 #####The Chest
 * Locked (DC15+ or the clerk has the key)
-  * Intimidation or persuation check (10+) for the key
+  * Intimidation or persuation check (10+) for key chain (has key for the warehouse doors, chest, and 1st door under warehouse
   * If opened there is 2000gp
     * If taken and clerk left alive the party will be marked as theives 
 * Perception check when locking for traps or Investigation while looking at the chest (DC15+)
@@ -141,6 +141,19 @@ A steady steam of people both to the front door and down the alley
   * If not do not know the door has been opened
   
 ####Under the Warehouse
+
+* 1st door locked (key from clerk or DC 15+)
+
+#####1st Room
+
+* If the  alarm raised
+  * The door at the far end opened
+  * 1st thug hidden at the side and perception DC check 20+ or he gets a surprise round to attack 1st one through
+  * 2nd thug has run through the corridor
+* If the alarm not raised
+  * Far door closed. 
+  * 2 thugs sitting around the table
+  * They make a perception check DC 15+ to hear the party opening the door
 
 * Cig Intelligance check DC12+ appears to be part of the thieves highway. Used to smuggle things from the docks into or out of the city
 
