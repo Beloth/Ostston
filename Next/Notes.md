@@ -245,6 +245,7 @@ DC 15+ To leave them alone but will not let them through the door. Too afraid of
 Old Gnome. Grey hair with a beard. Looks quite frail. 
 * The thugs look quite afraid of him which is surprising considering he's over twice the size of the gnome.
 * "Well what do we have here... intruders"
+* Gnomes have advantage on Int +2, Wis +3 and Cha +1 magic saving throws.
 
 ####Summons to the council
 A few days later they recieve a summons to the council to explain the situation.  
