@@ -1,15 +1,21 @@
-
-
 ###Session 1
 
-The party meet at Wayfair Inn which is then attacked by Hill tribesmen. With assistance from several guards and Sargent Koby they defeat the tribesmen but not before the daughter of the farmer is carried off. The party agrees to rescue her. After tracking the rest of the raiding party down they rescue the girl and return her to the Inn.
+The party meet at Wayfair Inn which is then attacked by Hill tribesmen. With assistance from several guards and Sergeant Koby they defeat the tribesmen but not before the daughter of the farmer is carried off. The party agrees to rescue her. After tracking the rest of the raiding party down they rescue the girl and return her to the Inn.
 
 ###Session 2
 
-The party heads to Highcastle where the talk to the Lieutenant and Marshal. They agree to look for the scouts, with Koby, that are days late in returning. They find 1 scout at the meeting point who heads back to Highcastle, the 2nd is found injured and surrounded by hyenas who they rescue and send on his way. The 3rd has been captured and taken to a cave where the tribesmen has set up a camp. They defeat the tribsmen and head towards Hillard Fort. Along the way the meet and defeat an Orge.
+The party heads to Highcastle where they talk to the Lieutenant and Marshal. They agree to look for the scouts, with Koby, that are days late in returning. After doing some shopping in Highcastle the party heads out to track down the missing scouts. They find 1 scout at the meeting point who heads back to Highcastle, the 2nd is found injured and surrounded by hyenas who they rescue and send on his way. Along the way the party set a trap for a band of tribesmen and beat them soundly.
 
-###Session 3 - 11th January 
+###Session 3
 
+The party following the trace of the 3rd scout who has has been captured and taken to a cave where the tribesmen has set up a camp. They defeat the tribsmen standing watch outside and enter the cave where they defeat more tribemen and find a secret door at the back leading to several rooms. There they find the missing scout as well as defeat a tribesmen leader. They find in the cave several magical items
+
+* Boots of Elvenkind
+* Wand of Magic Missiles
+
+###Session 4 - 11th January 
+
+Heading towards Hillard Fort the party encounters and defeat an Orge.
 The party reached Hillard Fort. From the treeline they attempted to sneek up to the gate but unfortunately failed. Using Disguise Self Angus pretended to be a guard and managed to talk the gatekeeper (Len) into opening the gate at which point they captured him.   
 
 After questioning him the party found that most of the fake guards had left a couple of days ago. Only the "Captain" Delgarion and a few other are left.  
