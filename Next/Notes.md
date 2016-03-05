@@ -39,19 +39,19 @@ I think I'm going to have to talk to my contact about taking money for recommend
 
 Met with the steward of Lord Darrel but was unable to convice him to let me talk to the Lord
 
-**Next day**
+**Next day**  
 Those damn hammers!
 
 Gained an audiance with Lord Darrel. He was helpful enough but unfortunately sold the manuscript on. He did mention that what he wad told the manuscript contained information on the lower planes.
 
 Started to ask around about who might be interested in the lower planes in the city and so might have bought the manuscript  
 
-**Next day**
+**Next day**  
 Hmmm Betsy provides a fine distraction from the early morning wake up. Unfortunely I doubt I can afford many such mornings. The foolish girl thinks that I didn't she her slip out with my pouch but she earnt it.
 
 There appears to be several pages dedicated to some sort magical construct.
 
-Arcana check 
+Arcana check  
 * DC10 some variation on a silencing spell
 * DC15 He appears to have been attempting to create a small localised silence spell taht could be cast on an item and that would last 8 hours. The diagrams of ears suggest where he wanted the item to go
 
@@ -130,17 +130,122 @@ A steady steam of people both to the front door and down the alley
  
 #####The Chest
 * Locked (DC15+ or the clerk has the key)
-  * Intimidation or persuation check (10+) for the key
+  * Intimidation or persuation check (10+) for key chain (has key for the warehouse doors, chest, and 1st door under warehouse
+  * If opened there is 2000gp
+    * If taken and clerk left alive the party will be marked as theives 
 * Perception check when locking for traps or Investigation while looking at the chest (DC15+)
   * There something strange about the floor under the chest. You rap you knuckles gentle against the ground around the area and you hear a definite change in sound.
   * You feel around and find a hidden handle to a door.
 * Door is magical alarm trapped. Arcana DC 15+
   * If triggered the people below know the door has been opened
   * If not do not know the door has been opened
-  * 
+  
 ####Under the Warehouse
 
-* Cig Intelligance check DC12+ appears to be part of the thieves highway. Used to smuggle things from the docks into or out of the city
+* 1st door locked (key from clerk or DC 15+)
+
+#####1st Room
+
+* If the  alarm raised
+  * The door at the far end opened
+  * 1st thug hidden at the side and perception DC check 20+ or he gets a surprise round to attack 1st one through
+  * 2nd thug has run through the corridor
+* If the alarm not raised
+  * Far door closed. 
+  * 2 thugs sitting around the table
+  * They make a perception check DC 15+ to hear the party opening the door
+* Thug runs out the other tries to slow them down
+
+#####Torture Room
+
+* If warned 2 thugs are hiding behind the crates (1/2 cover +2 AC) and readied crossbows. The wraning thug waits by the door. They get a surprise round
+* If not the thugs make a perception check to see if they hear the party opening the door
+* Mage is using Caelom as 1/2 cover (+2 AC). If ranged attack misses there is a 50% chance that the attack hits Caelom
+* They party see another mage exit the door just before they all enter.
+
+######Caelom
+Dressed only in tattered breeches. Badly tortured. Upper torso cut, burnt, bleeding. Barely conscious. (HP 10+)  
+
+Saves Caelom  
+
+Bound to the chair. Any attempts at magical healing fails. Perception check 10+ to see that every time a spell is cast there is a dim glow around the leather bindings around his wrists. Arcana check DC 10+ magic absorption. Its probably what stop Caelom using magic to escape. Easily cut with a steel dagger but once it is the magic destroys the leather 
+
+"What are you waiting for... get after her. He coughs. I'll be alright.. I can get back to the Library by myself, I can get aid there." He stumbles upright. "Go!"  He walks towards the desk and starts pull out items. 
+
+Caelom Dies  
+
+As his last breath escapes the leather binding his wrists seem to glow briefly before falling apart.
+
+######Junior Mage
+Young looking human female. Dagger out, casting spells. If looks like defeat uses dagger to stab Caelom before overloading herself with magic.
+
+* Overload - She draws magic into herself until bursting, you she her take on a blue glow and then cracks seem to apear with this blue glow emerging from her. She has a look of agony on her face and then with a scream it is unleashed destroying her body and a force of magic expands from her. Dex DC 14 save half damage. 2D8 damage 30ft radius.
+ 
+######Desk
+Contains several items from Caelom. His dagger, notebooks, 2 Greater healing potions
+
+#####Leaving the Torture Room
+As you leave the room you see the mage at the T juction leaving the room to the north (perception check DC 13+ smell burning.) As she see you see dashes for the east door opens it cast Invisibility on herself.
+
+#####Enchanting Room
+* Door is open.
+* Everything on fire. Destroying evidance.
+* Group skill check to save anything.
+  * Constitution Save DC 10+ 
+    * Failed have to exit the room too hot
+    * Succeed Investigation DC10 with disadvantage to see if anything is useful.
+  * Constitution Save DC 12+
+    * Failed start coughing the smoke is getting to you leave the room 1D4 smoke damage
+    * Succeed Investigation DC12+ with disadvantage to see if anything is useful.
+  * Constitution Save DC 15+
+    * Overcome by the smoke take 1D8 smoke/fire damage and lose consiousness
+      *  Athletics check DC 10+ for small or 15+ for medium to pull them clear of the room. 
+    * Succeed Investigation DC15+ with disadvantage to see if anything is useful.
+  * Constitution Save DC 20+
+    * Overcome by the smoke take 2D8 smoke/fire damage and lose consiousness
+      *  Athletics check DC 10+ for small or 15+ for medium to pull them clear of the room. 
+    * Succeed Investigation DC20+ with disadvantage to see if anything is useful.
+  *  Depending on number of success gives more information
+    * 1-3 - Crates contained several toys similar to the whistle   
+    * 4-6 - Notes from the table. Arcana check 13+ Success magic placed on the items is a 1 shot location spell
+    * 7-9 - Several crystals
+    * 10-12 - Ledger that has symbols, numbers and crystal description.
+    * 13-15 - Partial map of the north east forest with numbers
+    * 16-18 - Complete map of the north east forest with numbers
+    * 19-20 - Book containing information
+
+#####Exiting from the East door into the Sewer.
+
+* Cig Intelligance check DC12+. If the The Shadow League here is anything like the one in Eslard they will be using the sewers and tunnels down here as a method of moving around undetected. They will also be weary of strangers and prone to defending what they see as their territory. Down here, where you see 1 member there are likely to be 5 more in the shadows.
+* Surviability Check DC 15+ to see the direction the mage went. Went South.
+* Tricky terrain, athletics check DC 14+ every 60ft. otherwise slip into the central sewer area and covered in waste. (Disadvantage with all Chaisma checks and stealth checks).
+* Southern T junction. Challenged by the 3 thugs.
+ 
+#####Challenge
+
+* "Who are you?" 
+* "What's the passphrase of the day?"
+* Either try to fight or surrender
+
+######Combat
+* If combat another 5 emerge from the shadows.
+* If party looks to be winning 1 will try to run away calling for help
+* More will be constantly be arriving
+ 
+######Talk their way out
+
+Persuation
+DC 10+ Will let them leave by escorting them to the Western exit of the sewers to the river bank.
+DC 15+ Will take them to area leader.
+
+Intimidation
+DC 15+ To leave them alone but will not let them through the door. Too afraid of the Shadow League.
+
+####Local leader of the Shadow League
+Old Gnome. Grey hair with a beard. Looks quite frail. 
+* The thugs look quite afraid of him which is surprising considering he's over twice the size of the gnome.
+* "Well what do we have here... intruders"
+* Gnomes have advantage on Int +2, Wis +3 and Cha +1 magic saving throws.
 
 ####Summons to the council
 A few days later they recieve a summons to the council to explain the situation.  
@@ -243,9 +348,9 @@ Access to the guild Trainer and training area
   * Offer of 1600gp after guild cut taken out
 
 
-####Library
+####Library of Ostston
 #####Scroll
-Identify scroll 100  
-Find Familiar 150  
+Identify scroll 100gp  
+Find Familiar 150gp  
 
 
