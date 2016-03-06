@@ -18,9 +18,11 @@ The party following the trace of the 3rd scout who has has been captured and tak
 Heading towards Hillard Fort the party encounters and defeat an Orge.
 The party reached Hillard Fort. From the treeline they attempted to sneek up to the gate but unfortunately failed. Using Disguise Self Angus pretended to be a guard and managed to talk the gatekeeper (Len) into opening the gate at which point they captured him.   
 
-After questioning him the party found that most of the fake guards had left a couple of days ago. Only the "Captain" Delgarion and a few other are left.  
+After questioning him the party found that the Fort had been taken over by an unknown force which then took up a disguise of being guards and he and several others had also been hired to be pretend guards. However most of the fake guards had left a couple of days ago. Only the "Captain" Delgarion and a few other are left.  
 
-The party sneaks into the tower fight the remaining fake guards and captian to the death. Afterwhich they are distracted by a large dust cloud moving towards the fort. They see a large number of tribemen running towards the fort. They close the gate and prepare to receive them but as the tribemen get closer they see that they are being chased by mounted guardsmen led by Lieutenant Jeffery who overtake and kill all the tribesmen. 
+The party sneaks into the tower fight the remaining fake guards and captian to the death. After a brief investigation they discover that the fake guards had been buying kidnapped people from the tribesmen and selling them goods (weapons, armour and trade goods) in return.
+
+They are distracted by a large dust cloud moving towards the fort. They see a large number of tribemen running towards the fort. They close the gate and prepare to receive them but as the tribemen get closer they see that they are being chased by mounted guardsmen led by Lieutenant Jeffery who overtake and kill all the tribesmen. 
 
 ###Session 4 - 18th January
 
@@ -42,7 +44,8 @@ The party defeated the guards but before they could confront the mage 2 devils f
 
 The party appoached the crystal which had turned clear again. However when touched they were blasted away from the crystal which started pulsing red again and from which a voice began to speak with them. It claimed that they were not one of his.. not really but Mal felt a certain kinship to the voice. The voice then turned the party against each other whispering into their minds.  
 
-Angus was knocked unconsious by a combination of Mal and Eli who had shaken off the voice's influence. Eli then proceeded to destroy the crystal by shooting it.  
+Angus was brought to the brink of death by combination of stabbing and shooting by a dominated Mal and Eli respectively before Eli managed to shake off the mental intrusion and destroyed the crystal by shooting it.
+
 Things found
   
   * Scroll of Protection from Fiends
@@ -78,7 +81,9 @@ The rest of the party heads to the palace to try to tell the Marshal about what 
 
 After a nights rest the party heads to Winyfred's where Angus attempts to find out whether Sages of the Arcane members get a discount. Winyfred demands to be shown guild identification which Angus appreantly didn't have. For a fee she organises for him to get identification by contacting the Magistar of Registration office which duly send a crystal to Winyfred's who combines it with an Owlbear claw that Angus has to from his identification. The Magistar notes that Angus has a note in his file and puts the party on hold. When she comes back Angus to asked to talk to a Senior Investigator Ronon who tells him that there are questions regarding his defeat of the necromancer and he has to go talk to Investigator Trent at the Library of Ostston.
 
-Angus heads to the Library while rest of the party (not Mal?) attempts to get the remaining gold owed to them. Unfortunately they forget to take the contract and so are turned away. Little Claw and Eli head to the river to go fishing while Cig returns to the Inn. 
+While Angus heads to the Library, Mal heads to a lawyers office linked to his home town and the rest of the party attempts to get the remaining gold owed to them. Unfortunately they forget to take the contract and so are turned away. Little Claw and Eli head to the river to go fishing while Cig returns to the Inn. 
+
+Mal meets the head laywer and shows him the tattoo found on the fake guards from Hillard Fort that may link them to Helgret. The laywer seem disturbed by this and agrees to investigate and to inform Mal's mother.
 
 At the Library Angus meets Investigators Trent, Rasvull and Dalee who inform him that not only was there nothing in the necomancer cave except for a bear, the farmer and his daughter don't seem to exist and Angus's mentor Caelom is missing. Angus offers the handkerchief as proof but before Dalee can use any divination magic Rasvull accuses Angus of being involved but Trent refuses to arrest him. He also refuses to allow Angus to help investigate or to give him any information on the investigation and asks Dalee to show him out.
 
