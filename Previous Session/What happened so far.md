@@ -96,6 +96,13 @@ They then meet up and head to the last place in Ostston Caelom was seen, the Jol
 They reenter the inn where Angus uses magic to convince the innkeeper to show them Caelom's room and open it. Little C changes into a bloodhound to find Caelom's scent. In there they find a book of Caeloms as well as directions.
 
 
+###Session 9 - 6th March
 
+Accessed Caolem's book and found out what he was looking for. Attempted to gain an audiance with Lord Darrell but only got a vague assurance that when he was available he would contact them. Angus summoned his familiar from the Fey Caid and used her to to scout Lady Granrus's estate. He then disguised himself as a Dragonborn (Investigator Rasvull) and gained an audiance with Lady Granrus. Found out that inorder to pay some debts she had Caolem drugged and allowed him to be dragged away, but she felt ill used and had them followed. Had Weester show Angus where they took him, however he spotted that the rest of the party were trailing them and assumed they were hostile. Tried to lose them before heading to a safe house where he changed his appearance, then lead them to a warehouse. Cig managed to pickpocket a leaving clerks pocket for a bunch (5) keys.
 
+Left the warehouse until the evening when they found a slightly opened window and Little Claw and Mal enter. Mal causes the guards to fall asleep and tied them up. Both Eli and Cig fail to climb up to the window. Attempts to open the back door also fail so they pull Eli and Cig up to the open window. Angus uses the keys to open the front door and walks in.
+
+Little Claw knocks on the office door and nut hits the clerk when he opens it. He then attempts to grapple him to the floor but fails and ends up hanging round the clerks neck. Angus proceeds to knock out the clerk who falls onto Little Claw causing damage. The clerk is then tied up and Angus attempts to murder him but forcing the gag further down his throat. Eli and Little Claw combine to stop the attempt. Mean while Mal has decided to beat the 2 tied up guards into unconciousness.
+
+The clerk is taken into the other room and away from Angus who then spots the trap door under the chest. After Cig checks for traps and unlocks the chect they find 2000 gp. 
 
