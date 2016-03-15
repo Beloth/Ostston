@@ -1,9 +1,13 @@
 #Next Session
 
 ###Last Session
-Went to Winyfred's Wonderous wares. Got Angus's Guild Identification. Bought +1 arrows. Angus got told to meet at the library Investigator Trent.  
-2 other Investigators with Trent, Rasvull and Delee. Told him of the disappearance of his mentor Caelom. Rasvull treats Angus as a suspect.  Trent playing politics and while he doesn't help Angus does not arrest him. Delee secretly helps Angus by leaving investigation notes out for him to read. Also tells him that the trinket given to him by the farmers daughter has a magical tracking on it.  
-Angus uses the notes to track down where the Caelom was last see, the Jolly Workman's Inn. Found that Caelom had a posh visitor the day before his disappearance. Cig has encounter with barmaid called Betsy. Investigated Caelom's room. Found a book linked to his diary and directions to a house in the noble quarter.  
+Accessed Caolem's book and found out what he was looking for. Attempted to gain an audiance with Lord Darrell but only got a vague assurance that when he was available he would contact them. Angus summoned his familiar from the Fey Caid and used her to to scout Lady Granrus's estate. He then disguised himself as a Dragonborn (Investigator Rasvull) and gained an audiance with Lady Granrus. Found out that inorder to pay some debts she had Caolem drugged and allowed him to be dragged away, but she felt ill used and had them followed. Had Weester show Angus where they took him, however he spotted that the rest of the party were trailing them and assumed they were hostile. Tried to lose them before heading to a safe house where he changed his appearance, then lead them to a warehouse. Cig managed to pickpocket a leaving clerks pocket for a bunch (5) keys.
+
+Left the warehouse until the evening when they found a slightly opened window and Little Claw and Mal enter. Mal causes the guards to fall asleep and tied them up. Both Eli and Cig fail to climb up to the window. Attempts to open the back door also fail so they pull Eli and Cig up to the open window. Angus uses the keys to open the front door and walks in.
+
+Little Claw knocks on the office door and nut hits the clerk when he opens it. He then attempts to grapple him to the floor but fails and ends up hanging round the clerks neck. Angus proceeds to knock out the clerk who falls onto Little Claw causing damage. The clerk is then tied up and Angus attempts to murder him but forcing the gag further down his throat. Eli and Little Claw combine to stop the attempt. Mean while Mal has decided to beat the 2 tied up guards into unconciousness.
+
+The clerk is taken into the other room and away from Angus who then spots the trap door under the chest. After Cig checks for traps and unlocks the chect they find 2000 gp. 
 
 
 ###This Session
