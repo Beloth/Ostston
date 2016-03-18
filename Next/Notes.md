@@ -65,7 +65,7 @@ Saves Caelom
 
 Bound to the chair. Any attempts at magical healing fails. Perception check 10+ to see that every time a spell is cast there is a dim glow around the leather bindings around his wrists. Arcana check DC 10+ magic absorption. Its probably what stop Caelom using magic to escape. Easily cut with a steel dagger but once it is the magic destroys the leather 
 
-"What are you waiting for... get after her. He coughs. I'll be alright.. I can get back to the Library by myself, I can get aid there." He stumbles upright. "Go!"  He walks towards the desk and starts pull out items. 
+"What are you waiting for... get after her. He coughs. I'll be alright.. I can get back to the Library by myself, I can get aid there." He stumbles upright. "There's another room north of here, that's where they were doing.. things... there may be information you can get to explain all of this"  He walks towards the desk and starts pull out items. 
 
 Caelom Dies  
 
@@ -74,13 +74,16 @@ As his last breath escapes the leather binding his wrists seem to glow briefly b
 ######Junior Mage
 Young looking human female. Dagger out, casting spells. If looks like defeat uses dagger to stab Caelom before overloading herself with magic.
 
+"For the Cause!"
+
 * Overload - She draws magic into herself until bursting, you she her take on a blue glow and then cracks seem to apear with this blue glow emerging from her. She has a look of agony on her face and then with a scream it is unleashed destroying her body and a force of magic expands from her. Dex DC 14 save half damage. 2D8 damage 30ft radius.
  
 ######Desk
 Contains several items from Caelom. His dagger, notebooks, 2 Greater healing potions
 
 #####Leaving the Torture Room
-As you leave the room you see the mage at the T juction leaving the room to the north (perception check DC 13+ smell burning.) As she see you see dashes for the east door opens it cast Invisibility on herself.
+You see an open door with smoke coming out of it and you can feel the heat. Perception check DC 13+ you see movement within the room. The mage appears to be trying to collect things whilst also destroying things she can't carry. Upon seeing you she throws a glass vial at a wall which violently explodes and disappear. She dimension doors out.
+
 
 #####Enchanting Room
 * Door is open.
@@ -142,6 +145,11 @@ Old Gnome. Grey hair with a beard. Looks quite frail.
 * The thugs look quite afraid of him which is surprising considering he's over twice the size of the gnome.
 * "Well what do we have here... intruders"
 * Gnomes have advantage on Int +2, Wis +3 and Cha +1 magic saving throws.
+* "You are trepassing on our territory." Turns to Cig "You at least should know better to come down here uninvited"
+* "Even if you manage to kill me and mine, at least one will escape to spread your likeness around and you'll never leave the city alive"
+* "Price of exit will be..." looks at the party evaluating their worth. "500gp each"
+* "The price of joining will be... " He smiles maliciously "500gp each".
+
 
 ####Summons to the council
 A few days later they recieve a summons to the council to explain the situation.  
