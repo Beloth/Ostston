@@ -120,7 +120,7 @@ Access to the guild Trainer and training area
 
 1. One of the nobles has asked the Order to clear out an old family mausoleum just outside the city so that it can once again be used to bury their members there.
   * Not crypts are to be opened but any items found in the mausoleum may be taken. 
-  * Offer of 1600gp after guild cut taken out
+  * Offer of 750gp after guild cut taken out
 
 
 ####Library of Ostston
