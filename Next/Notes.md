@@ -102,8 +102,8 @@ You see a female hafling sitting behind a large desk that has several trays full
 "Do you wish to join the Order?"  
 
 "While the Marshal's note does paint you in a good light you will need take on a contract and be assessed by a qualified member before we classify you as being proved, and I have just the job and possibly you assessor"  
-She shuffles through some paper "Yes here we are. The Tolnar Mausoleum and Dormak Firebeard"  
-"Meet Dormak Firebeard at the Northen gate at dawn tomorrow"  
+She shuffles through some paper "Yes here we are. There's mausoleum north of the city that needs to be cleared out of undead. The family wishes to bury a recently deceased member. You will be joined by Thorath Ironshield a cleric of Torm and a repected member of the Order."  
+"I'll send word to him to me you at the Hall's enterance at dawn tomorrow."  
 
 
 
