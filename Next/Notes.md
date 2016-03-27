@@ -25,6 +25,11 @@ After another nights rest Caelom is up and eager to find out more. Talks to the 
 * Fire at Lady Granrus's
 * Death of a prominent merchant's son.
 
+#####Clerk killed in the Warehouse
+* The clerk killed in the warehouse was actually the son of a prominant merchant Athar. Anartha.
+* Athar is one of the founding memebers of an up and coming merchant guild called The Lodge of Merchants
+* Offering a large reward for any information that leads to the capture of his killers
+* Weester to come forward 
 
 ####Summons to the council
 Returning to the Springwell Inn they recieve a summons to the council to explain the situation in 2 days time.  
@@ -190,7 +195,11 @@ If taken the Opal binds to whoever carries it for more than 10mins. That person 
 
 Too get rid of the curse. Greater Restoration. Temples will expect a donation equvalent of 500gp.
 
+####Exiting the mausoleum
 
+A carriage is waiting outside. Drive + guard in the front driving plus 2 further guards on horse back. Jooves steps out of the carraige using a cane to avoid putting weight on his injured leg. 
+
+"Good Evening. My employer wished me to give you this" He hands Angus a letter. Nods his head re enters the carrage and they are off.
 
 
 
