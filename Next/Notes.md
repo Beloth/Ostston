@@ -1,158 +1,33 @@
 #Next Session
 
 ###Last Session
-Accessed Caolem's book and found out what he was looking for. Attempted to gain an audiance with Lord Darrell but only got a vague assurance that when he was available he would contact them. Angus summoned his familiar from the Fey Caid and used her to to scout Lady Granrus's estate. He then disguised himself as a Dragonborn (Investigator Rasvull) and gained an audiance with Lady Granrus. Found out that inorder to pay some debts she had Caolem drugged and allowed him to be dragged away, but she felt ill used and had them followed. Had Weester show Angus where they took him, however he spotted that the rest of the party were trailing them and assumed they were hostile. Tried to lose them before heading to a safe house where he changed his appearance, then lead them to a warehouse. Cig managed to pickpocket a leaving clerks pocket for a bunch (5) keys.
-
-Left the warehouse until the evening when they found a slightly opened window and Little Claw and Mal enter. Mal causes the guards to fall asleep and tied them up. Both Eli and Cig fail to climb up to the window. Attempts to open the back door also fail so they pull Eli and Cig up to the open window. Angus uses the keys to open the front door and walks in.
-
-Little Claw knocks on the office door and nut hits the clerk when he opens it. He then attempts to grapple him to the floor but fails and ends up hanging round the clerks neck. Angus proceeds to knock out the clerk who falls onto Little Claw causing damage. The clerk is then tied up and Angus attempts to murder him but forcing the gag further down his throat. Eli and Little Claw combine to stop the attempt. Mean while Mal has decided to beat the 2 tied up guards into unconciousness.
-
-The clerk is taken into the other room and away from Angus who then spots the trap door under the chest. After Cig checks for traps and unlocks the chect they find 2000 gp. 
+Questioned clerk you shrugged off Angus sugestion spell and lied through his teeth. Mal murders him without the rest of the group knowing.  
+They take the gold, open the trap door and head down the stairs. Open the door to see a thug flee. Cig pushed into the room by Mal and is ambushed by a thug hiding by said door. Kill him and chase after the thug. Mal triggers a poison arrow trap but is unharmed. Easily finds the hidden door (not well hidden) and walk to the next door they open it to be immediately fired upon by 2 thungs crouching behind some crates. Mal rushes in and is ambushed by the run away thug who is hidding by the door.  
+They see Caelom tied to a chair plus 2 mages near him. After firing a spell or 2 one of the mages flees though another door. The remaining mage when she thinks she is on the verge of defeat thrusts a dagger into the chest of Caelom before overloading herself with magic and exploding. But she misjudges the distances and fails to harm anyone except kill Ciad's physical form.
+They heal Caelom (remove the magic dampening restraints) and he urges them to stop the other mage destroying evidence.  
+They find the room on fire and the mage dimension doors out. They brave the fire to try to gather as much evidance as possible. They eventually are over come by the heat and flames and are forced from the room. Cig passes out in the room but Little Claw uses thorn whip to drag him out. The other door leads to the sewers and Cig suggest they leave as the sewers will be used by less savoury people. Little Claw hears voices and the group decide to leave  
+After a rest Mal attempts to sneak out of the inn but see a fire in the noble quarter. The party finds that Lady Granrus's estate is on fire. They try to help. Little Claw uses otter form (for some reason). Mal finds 2 burnt bodies and cuts 2 fingers off each as well as attempts to find some silver ware to steal. Litte Claw rescues Jooves by using Ape form and Handfeet.   
 
 
 ###This Session
-####Initial description
-* Alot of failing to climb walls
-* Mal has beaten unconcious 2 of the night guards
-* Angus attempted to murder the clerk. Little Claw and Eli stopped him
-* Discovered the trap door and the 2k gp
 
-#####Office
-* The clerk appears to be working at the desk as you enter (Candle light if at night)
-* If confronted looks nervous like he's not meant to be there (Perception check DC10+)
-  * Glaces at the chest in the corner.
-  * He's not meant to be here
+####Caelom is up
+After another nights rest Caelom is up and eager to find out more. Talks to the party to find out what happened and why they werer there. Suggests he heads back to the Jolly Workman to get a change of clothes before heading to the library to talk to the investigators.
+
+#####Library
+* This is too much 1st a rogue necromancer now 2 more rogue mages. Clearly they are making this all up for some neferious reason.
+* Caelom coldly parts his robes to see the scars that were inflicted on him. "Are these made up!"
+* Both Trent and Rasvull stare at the scars and Rasvull visibly deflates.
+* Trent "Very well, this investigation is closed. However one into these rogue mages will have to be opened. I will confer with Senior Investigator Ronon. Robert I would like you to be present when I report this". "The rest of you are free to go".
+* Caelom "be warly. Someone is obviously interested in you if the tracking spell is anything to go by"
  
-#####The Chest
-* Locked (DC15+ or the clerk has the key)
-  * Intimidation or persuation check (10+) for key chain (has key for the warehouse doors, chest, and 1st door under warehouse
-  * If opened there is 2000gp
-    * If taken and clerk left alive the party will be marked as theives 
-* Perception check when locking for traps or Investigation while looking at the chest (DC15+)
-  * There something strange about the floor under the chest. You rap you knuckles gentle against the ground around the area and you hear a definite change in sound.
-  * You feel around and find a hidden handle to a door.
-* Door is magical alarm trapped. Arcana DC 15+
-  * If triggered the people below know the door has been opened
-  * If not do not know the door has been opened
-  
-####Under the Warehouse
-
-* 1st door locked (key from clerk or DC 15+)
-
-#####1st Room
-
-* If the  alarm raised
-  * The door at the far end opened
-  * 1st thug hidden at the side and perception DC check 20+ or he gets a surprise round to attack 1st one through
-  * 2nd thug has run through the corridor
-* If the alarm not raised
-  * Far door closed. 
-  * 2 thugs sitting around the table
-  * They make a perception check DC 15+ to hear the party opening the door
-* Thug runs out the other tries to slow them down
-
-#####Torture Room
-
-* If warned 2 thugs are hiding behind the crates (1/2 cover +2 AC) and readied crossbows. The wraning thug waits by the door. They get a surprise round
-* If not the thugs make a perception check to see if they hear the party opening the door
-* Mage is using Caelom as 1/2 cover (+2 AC). If ranged attack misses there is a 50% chance that the attack hits Caelom
-* They party see another mage exit the door just before they all enter.
-
-######Caelom
-Dressed only in tattered breeches. Badly tortured. Upper torso cut, burnt, bleeding. Barely conscious. (HP 10+)  
-
-Saves Caelom  
-
-Bound to the chair. Any attempts at magical healing fails. Perception check 10+ to see that every time a spell is cast there is a dim glow around the leather bindings around his wrists. Arcana check DC 10+ magic absorption. Its probably what stop Caelom using magic to escape. Easily cut with a steel dagger but once it is the magic destroys the leather 
-
-"What are you waiting for... get after her. He coughs. I'll be alright.. I can get back to the Library by myself, I can get aid there." He stumbles upright. "There's another room north of here, that's where they were doing.. things... there may be information you can get to explain all of this"  He walks towards the desk and starts pull out items. 
-
-Caelom Dies  
-
-As his last breath escapes the leather binding his wrists seem to glow briefly before falling apart.
-
-######Junior Mage
-Young looking human female. Dagger out, casting spells. If looks like defeat uses dagger to stab Caelom before overloading herself with magic.
-
-"For the Cause!"
-
-* Overload - She draws magic into herself until bursting, you she her take on a blue glow and then cracks seem to apear with this blue glow emerging from her. She has a look of agony on her face and then with a scream it is unleashed destroying her body and a force of magic expands from her. Dex DC 14 save half damage. 2D8 damage 30ft radius.
- 
-######Desk
-Contains several items from Caelom. His dagger, notebooks, 2 Greater healing potions
-
-#####Leaving the Torture Room
-You see an open door with smoke coming out of it and you can feel the heat. Perception check DC 13+ you see movement within the room. The mage appears to be trying to collect things whilst also destroying things she can't carry. Upon seeing you she throws a glass vial at a wall which violently explodes and disappear. She dimension doors out.
-
-
-#####Enchanting Room
-* Door is open.
-* Everything on fire. Destroying evidance.
-* Group skill check to save anything.
-  * Constitution Save DC 10+ 
-    * Failed have to exit the room too hot
-    * Succeed Investigation DC10 with disadvantage to see if anything is useful.
-  * Constitution Save DC 12+
-    * Failed start coughing the smoke is getting to you leave the room 1D4 smoke damage
-    * Succeed Investigation DC12+ with disadvantage to see if anything is useful.
-  * Constitution Save DC 15+
-    * Overcome by the smoke take 1D8 smoke/fire damage and lose consiousness
-      *  Athletics check DC 10+ for small or 15+ for medium to pull them clear of the room. 
-    * Succeed Investigation DC15+ with disadvantage to see if anything is useful.
-  * Constitution Save DC 20+
-    * Overcome by the smoke take 2D8 smoke/fire damage and lose consiousness
-      *  Athletics check DC 10+ for small or 15+ for medium to pull them clear of the room. 
-    * Succeed Investigation DC20+ with disadvantage to see if anything is useful.
-  *  Depending on number of success gives more information
-    * 1-3 - Crates contained several toys similar to the whistle   
-    * 4-6 - Notes from the table. Arcana check 13+ Success magic placed on the items is a 1 shot location spell
-    * 7-9 - Several crystals
-    * 10-12 - Ledger that has symbols, numbers and crystal description.
-    * 13-15 - Partial map of the north east forest with numbers
-    * 16-18 - Complete map of the north east forest with numbers
-    * 19-20 - Book containing information
-
-#####Exiting from the East door into the Sewer.
-
-* Cig Intelligance check DC12+. If the The Shadow League here is anything like the one in Eslard they will be using the sewers and tunnels down here as a method of moving around undetected. They will also be weary of strangers and prone to defending what they see as their territory. Down here, where you see 1 member there are likely to be 5 more in the shadows.
-* Surviability Check DC 15+ to see the direction the mage went. Went South.
-* Tricky terrain, athletics check DC 14+ every 60ft. otherwise slip into the central sewer area and covered in waste. (Disadvantage with all Chaisma checks and stealth checks).
-* Southern T junction. Challenged by the 3 thugs.
- 
-#####Challenge
-
-* "Who are you?" 
-* "The Red night is silent"
-* "and the White dawnflees"
-* Either try to fight or surrender
-
-######Combat
-* If combat another 5 emerge from the shadows.
-* If party looks to be winning 1 will try to run away calling for help
-* More will be constantly be arriving
- 
-######Talk their way out
-
-Persuation
-DC 10+ Will let them leave by escorting them to the Western exit of the sewers to the river bank.
-DC 15+ Will take them to area leader.
-
-Intimidation
-DC 15+ To leave them alone but will not let them through the door. Too afraid of the Shadow League.
-
-####Local leader of the Shadow League
-Old Gnome. Grey hair with a beard. Looks quite frail. 
-* The thugs look quite afraid of him which is surprising considering he's over twice the size of the gnome.
-* "Well what do we have here... intruders"
-* Gnomes have advantage on Int +2, Wis +3 and Cha +1 magic saving throws.
-* "You are trepassing on our territory." Turns to Cig "You at least should know better to come down here uninvited"
-* "Even if you manage to kill me and mine, at least one will escape to spread your likeness around and you'll never leave the city alive"
-* "Price of exit will be..." looks at the party evaluating their worth. "500gp each"
-* "The price of joining will be... " He smiles maliciously "500gp each".
+#####Talk of the city
+* Fire at Lady Granrus's
+* Death of a prominent merchant's son.
 
 
 ####Summons to the council
-A few days later they recieve a summons to the council to explain the situation.  
+Returning to the Springwell Inn they recieve a summons to the council to explain the situation in 2 days time.  
 They are escorted through the busy hallways by 2 guards. Lots of people wlking though the hallways, servants, guards and others. You are lead into what appears to be a throne room where there appears to be a queue to one of the side doors on the other side to which you are being lead
 
 Perception check (DC18+)  
@@ -163,7 +38,7 @@ you enter what seems to be a waiting room where 2 guards stand by the door. A cl
 Perception check
 
 * 10+ you hear raised voices but can't really make out what is being said  
-* 15+ their is an obvious disagreement within the council. Several are disbelieving  
+* 15+ their is an obvious disagreement within the council. Several are disbelieving . Also hear talking about the death of the son of the merchant Athar. He is raising a fuse and a proper investigation should be done.
 * 20+ Male voice seems to be the most veriment in his disbelieve and calls into question the envidence  
 
 ####Council Room
@@ -203,10 +78,6 @@ Angus make a perception check
 * 10+ You think you saw somthing important but you don't know what or why
 * 15+ You saw something in one of the shop windows that bugs you. Thinking back and using your keen mind you recall the shop selling wooden items, chairs, tables, musical insturments, wait, there it is, the whistle, exactly the same style as Eli's.
 
-
-
- 
-
 ####Order of the Anvil
 
 As you approch it is less of a guild hall and more of a massive stone fortification 3 stories high. 2 heavily armed guards stand at the side of the thick open wooden doors. You can see several guards standing on the roof looking down.
@@ -231,10 +102,14 @@ You see a female hafling sitting behind a large desk that has several trays full
 "Do you wish to join the Order?"  
 
 "While the Marshal's note does paint you in a good light you will need take on a contract and be assessed by a qualified member before we classify you as being proved, and I have just the job and possibly you assessor"  
-She shuffles through some paper "Yes here we are. The Tolnar Mausoleum and Dormak Firebeard"  
-"Meet Dormak Firebeard at the Northen gate at dawn tomorrow"  
+She shuffles through some paper "Yes here we are. There's mausoleum north of the city that needs to be cleared out of undead. The family wishes to bury a recently deceased member. You will be joined by Thorath Ironshield a cleric of Torm and a repected member of the Order."  
+"I'll send word to him to me you at the Hall's enterance at dawn tomorrow."  
 
+####Thorath Ironshield
 
+Dark brown hair surround a lean craiggy face. Piercing brown eyes look deepy at you almost as if trying to judge your worth before moving on. Long brown plaited beard dominates the face. Broad shoulder on a stout frame.
+
+Heavily armoured in Splint armour carrying a large warhammer at his side and a kite shield almost as big as him with the symbol of Torm on it (Right-hand gauntlet held upright with palm forward) as well as on his white tunic.
 
 ####Joining the Order
 Expected to take on jobs and the Order takes on a set cut of the reward  
@@ -247,9 +122,77 @@ Access to the guild Trainer and training area
 
 ####Current Order jobs
 
-1. One of the nobles has asked the Order to clear out an old family mausoleum just outside the city so that it can once again be used to bury their members there.
+1. One of the nobles has asked the Order to clear out an old family mausoleum just outside the city so that it can once again be used to bury their members there. There has been a recent death in the family but when people were sent to prepare a crypt for them, but only one returned a day later driven mad by something. In the care of the clerics of Torm.
   * Not crypts are to be opened but any items found in the mausoleum may be taken. 
-  * Offer of 1600gp after guild cut taken out
+  * Offer of 750gp after guild cut taken out
+
+####Ostston's burial area
+The cememtary that serves Ostston is about 2 hour walk north east of Ostston. Various private burial areas owned by noble familiies. Those who cannot be buried in the family mausoleums are buried in the cemetary but they are generally the wealthier people who will have headstones. Some will just have place markers. There are also several groves of trees where ashes will often be spread.
+
+####Granrus's Family Mausoleum
+
+Large stone mausolem in the centre of the family own land. Distant members of the family are buried outside as well as some notable servants. The newer burials are further away from the mausoleum. 
+
+#####Approaching the door.
+
+As you approach to put the key in you notice that the door is slightly ajar. Investigation DC 12 check to see that the lock had been picked and damaged in the process. 
+
+#####Statue at the enterance
+
+At the enterance of the mausoleum stands a 10 foot tall statue of Eldath the goddess of peace. Making an offering of more than 100gp or equvialent will grant the blessing of protection (+1 AC) for 1 hour. The offering will disappear.
+
+#####Top level of the mausoleum
+
+Not too much appears to have been disturbed until you get to the tomb that has been moved. Investigation check DC 18. The tomb is hinged. There seems to be a mechanical structure that moves the tomb. Investigation DC 15 Looking around there is various torch holders that are in differentt vertical positions.  
+
+Stairs lead down
+
+####Bottom level of the mausoleum
+
+Body of a human at the base of the stairs. Investigation check
+
+* DC10+ Cause of death could be the arrows but a closer look shows he also took several slashes and chunks of flesh are also missing. 
+* DC15+ Shot in the back as he was running for the stairs.
+* DC20+ Thieves tools on him - Tomb robber?
+
+Nature check DC12 State of decay maybe 1 week old.
+
+Cleric says a prayer for the deceased soul.
+
+#####Trapped Statue
+Passive perception DC 15 to spot from 5ft away. If stepped on just as the trap is spotted Acrobatics check DC 15 to jump away. Investigation check DC 14, weight causes the statue fling the great sword upwards.
+* Attack roll 1D20 + 4
+* Damage 2D6 + 4
+
+Appears to be spring loaded as 30 secs after its been tripped you can hear some clicking from the mechanism as the sword returns to the at rest position. Something of 30lbs will be enough to hold down the trigger an prevent the reload.
+
+#####Lady Tolnar Granrus Tomb
+
+Lady Tolnar Granrus was the lady accedited for the Granrus family's rise in power. She was a canny political player and after her husband died was thought to have become the mistress of the then Lord of Ostston. She died at the grand age of 85. Murdered by the son who wanted to take the reins of the family.
+
+When the party enters..  
+
+A wail echoes though the the room "Sooo moorre thieveees coome." " youuu willl suffferrr asss alll haveee suffeerrred beefoore youuuuu"   
+
+Hidden door Investigation DC 15 to spot the door  
+Poison Needle trap. Investigation DC 20 to spot the trap.  
+Dex DC 15 to disarm.  
+1 piecing damage + 2 D10 Poison damage  
+Con DC 15 or poisoned for an hour  
+
+2 Chests
+1. 1000gp
+2. Bag of holding, 2 Greater healing potions, 1 large Opal (1000gp)
+ 
+#####Cursed Opal
+
+If taken the Opal binds to whoever carries it for more than 10mins. That person is then cursed. For 1 ability type there are at a disadvantage.
+
+Too get rid of the curse. Greater Restoration. Temples will expect a donation equvalent of 500gp.
+
+
+
+
 
 
 ####Library of Ostston
