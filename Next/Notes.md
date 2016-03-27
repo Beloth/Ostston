@@ -105,7 +105,11 @@ You see a female hafling sitting behind a large desk that has several trays full
 She shuffles through some paper "Yes here we are. There's mausoleum north of the city that needs to be cleared out of undead. The family wishes to bury a recently deceased member. You will be joined by Thorath Ironshield a cleric of Torm and a repected member of the Order."  
 "I'll send word to him to me you at the Hall's enterance at dawn tomorrow."  
 
+####Thorath Ironshield
 
+Dark brown hair surround a lean craiggy face. Piercing brown eyes look deepy at you almost as if trying to judge your worth before moving on. Long brown plaited beard dominates the face. Broad shoulder on a stout frame.
+
+Heavily armoured in Splint armour carrying a large warhammer at his side and a kite shield almost as big as him with the symbol of Torm on it (Right-hand gauntlet held upright with palm forward) as well as on his white tunic.
 
 ####Joining the Order
 Expected to take on jobs and the Order takes on a set cut of the reward  
