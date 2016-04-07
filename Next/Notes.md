@@ -76,7 +76,30 @@ A carriage is waiting outside. Drive + guard in the front driving plus 2 further
 
 "Good Evening. My employer wished me to give you this" He hands Angus a letter. Nods his head re enters the carrage and they are off.
 
+####Returning to the Order
+Need a name for the party
+Rewarded with 750gp and a stamp/mark to stamp contracts with
+"Congratulations on becoming members of the Order of the Anvil"
 
+Barracks to stay. Commision weapons and armour. Training in martial ways. As you gain more reputation you gain access to more lucative contracts.
+
+"I will send work to the High Marshal"
+
+####Investigation 
+
+You will be rewarded for any informtion you bring me regarding these cultists and where our missing citizens are.
+
+#####Toys
+Marshal suggests visiting the craftsman quarters.
+Investigation check DC 10+ After wondering around the craftsmans quarters you notice that several shop signs have small patterns similar to the ones on the toys on them
+DC 15+ you find a sign with the same symbol as Eli's whistle.
+
+Talking to the owner, the marks indicate which apprentice made the item. It was a pratice brought in long ago. He points to a wall where many symbols hang. These are all the apprentices that learnt their craft in this very shop and have gone on to greater things. 
+
+Looking at the whistler "Yes this is something we would have an apprentice make. It would help teach them precision" "While we do try to sell them to give a bit of additional income to the appentice, they rarely sell so we tend to wait till there is a small stockpile and then donate them to a local orphanage." The last one would have been about a month ago to the Our Lady's orphange just outside the city to the East. It is about an hours walk from the city
+
+#####Orphanage
+Seems very quite. Metal fence, gate appears wide open. If they look round the back there is what appears to be a recent burial. Front door slightly ajar.
 
 
 ####Library of Ostston
