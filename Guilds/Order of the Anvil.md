@@ -21,7 +21,7 @@ Responsible for the member of Order that work for the Order directly (guards of 
 Male Human
 Responsible for the guilds halls in other cities.
 
-#####Mistress of contracts - Roszana Lemia
+#####Mistress of contracts - Roseanne Lemia
 Female Halfing
 Responsible for the distribution of contracts
 
