@@ -87,7 +87,7 @@ Barracks to stay. Commision weapons and armour. Training in martial ways. As you
 
 ####Investigation 
 
-You will be rewarded for any informtion you bring me regarding these cultists and where our missing citizens are.
+You will be rewarded for any informtion you bring me regarding these cultists and where our missing citizens are. Awaiting the results of the Sages investigation into the rogue mages and the crystal pieces. Archanist Shaniera is also do some investigation herself. As you leave you notice Lord Tanafrey talking urgently to a female elf. If you try to hear them they will spot you and fall silent and sneer at you and walk away. If you was about her you find that she is an advisor to Tanafrey. Lady Yordel. Magic user. Aloof. Doesn't talk to many people.
 
 #####Toys
 Marshal suggests visiting the craftsman quarters.
@@ -96,11 +96,31 @@ DC 15+ you find a sign with the same symbol as Eli's whistle.
 
 Talking to the owner, the marks indicate which apprentice made the item. It was a pratice brought in long ago. He points to a wall where many symbols hang. These are all the apprentices that learnt their craft in this very shop and have gone on to greater things. 
 
-Looking at the whistler "Yes this is something we would have an apprentice make. It would help teach them precision" "While we do try to sell them to give a bit of additional income to the appentice, they rarely sell so we tend to wait till there is a small stockpile and then donate them to a local orphanage." The last one would have been about a month ago to the Our Lady's orphange just outside the city to the East. It is about an hours walk from the city
+Looking at the whistler "Yes this is something we would have an apprentice make. It would help teach them precision" "While we do try to sell them to give a bit of additional income to the appentice, they rarely sell so we tend to wait till there is a small stockpile and then donate them to a local orphanage." The last one would have been about a month ago to the Our Lady's orphange just outside the city to the East. It is about an hours walk from the city. Not necessarily that particualr one.
 
 #####Orphanage
-Seems very quite. Metal fence, gate appears wide open. If they look round the back there is what appears to be a recent burial. Front door slightly ajar.
+Seems very quite. Metal fence, gate appears wide open. If they look round the back there is what appears to be a recent burial. Front door slightly ajar. As you search the place it looks deserted. 
 
+######Office
+Ransacked. Nothing of value left. Dried blood on the floor.
+
+######Dining Room
+Rows of tables for maybe 30 people plus a raised table. On the raised table appears to be bowls of food for 5 people.
+
+#####1st floor
+Several empty dormitories
+
+#####Attic
+Perception DC15+ hear a noise to the left.
+
+######Bedroom
+Appears to be a dormintary setup several beds and wardrobes. Perception DC15+ noise coming from one of the wardrobes. 
+Open the door DEX DC5+ roll to avoid a dagger strike from a young girl(10ish) (Attck roll 1d20 damage 1d4)
+
+Convince her that the party is there to help: DC10+ . Several (4) other children emerge from the wardrobe. All younger than the 1st (4-6)
+Told them how a bunch of people came about a tenday ago. Nana had us hide. Heard lots of screaming and crying but stayed hidden. When no more noise came out. Found Nana dead. Buried her out back.
+
+Eldest gets the rest to go downstairs to finish their meal. She tells the party that before she came her she used to live on the streets and she recognised some of the language the men were using. Thieves cant.
 
 ####Library of Ostston
 #####Scroll
