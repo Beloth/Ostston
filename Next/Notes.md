@@ -76,6 +76,9 @@ A carriage is waiting outside. Drive + guard in the front driving plus 2 further
 
 "Good Evening. My employer wished me to give you this" He hands Angus a letter. Nods his head re enters the carrage and they are off.
 
+####Returning to the city
+There appears to be a large gathering of people looking towards a raised platform. A wealth looking man is addressing the crowd. You catch the end of his speech. "and so I offer a reward of 10,000 gold for anyone with information that leads to the capture of my son's murderer". With that he steps down from the crowd and is surround by his personal guard.`
+
 ####Returning to the Order
 Need a name for the party
 Rewarded with 750gp and a stamp/mark to stamp contracts with
