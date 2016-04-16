@@ -35,7 +35,19 @@ However the exchange was not 1 to 1. So the recipent would of someone's strength
 
 Option 1. You find the master gem. With it we can break the link. Unfortunately the gem could be anywhere, be part of any type of jewellary, its magics forgotten.
 
-Option 2. He looks down. Normally I would never suggest this but with the way things are at the moment there will probably be enough volunteers... We can try to transfer the gem to someone else. Without the master gem this will be difficult but not impossible. However the process will be very draining on both you and the other person. The volunteer will want compensation for this as it is likely to make their life very difficult
+Option 2. He looks down. Normally I would never suggest this but with the way things are at the moment there will probably be enough volunteers... We can try to transfer the gem to someone else. Without the master gem this will be difficult but not impossible. However the process will be very draining on both you and the other person. The volunteer will want compensation for this as it is likely to make their life very difficult. 
+
+#####Volunteer
+
+Noris. Late 30's human male. Crippled. Both legs and an arm crushed in a cavein at one of the mines to the north. The arm and one leg had to be amputated. Brought back to Ostston several weeks ago. Has a young family. Willing to take it on for a stippend for his family. Place 1000gp with the Bank of Ostston from which a monthly stippend will be paid. If the gem and be sold at the end then that can form part of the payment.
+
+#####Ritual to remove the curse
+Both placed on beds next to each other with the Opal on a table between them. You have to draw you magical energy inwards. Concentrate on pulling it away from the opal. Chanting starts up from the surrounding clerics. The light seems to dim and to your surprise to can actually see thin dark tendrils attaching Angus to the opal. The chants intensifies and a cleric steps closer to Angus and seems to manipulate one of the tendrils, pulling it away from Angus. It resists but with the cleric pulling at it, its seems to enlongate until part of it can reach Noris and when it does it snaps into place causing both to scream out in pain. 1D4 damage. The cleric almost collapses and he fails back with another taking his place. 
+
+Each time another 1D4 damage. Expending a spell level will reduce the damage by half per die. Total 5 tendrils to remove.
+
+Banging on the door and in bursts a young woman. Holding a small baby. "No Noris, please" she's stop by the clerics from interferring. "Please no" she is weeping and trying to reach for him. "I'm sorry my love but this is for the best, please take her outside.. she doesn't need to see this" Several helpers take her outside.
+
 
 ####Returning to the Order
 Need a name for the party
@@ -44,7 +56,7 @@ Rewarded with 750gp and a stamp/mark to stamp contracts with
 
 Barracks to stay. Commision weapons and armour. Training in martial ways. As you gain more reputation you gain access to more lucative contracts.
 
-"I will send work to the High Marshal"
+"I will send word to the High Marshal"
 
 ####Investigation 
 
