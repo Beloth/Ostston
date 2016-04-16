@@ -1,83 +1,41 @@
 #Next Session
 
 ###Last Session
-Reported to the Investigators about finding Caelom. Recieved a summons to speak with the City council. Told by the High Marshal they can't offically be hired until they are members of the Order of the Anvil. Gives them an introductory letter to the Mistress of Contracts. Given a contract to clear out a mausoleum with the aid of Thorath Ironshield. Headed to the mausoleum found it had been broken into and a moved crypt reveals stairs down. Skeletons attack. On the lower floor found a body shot in the back with arrows. More skeletons and some zombies. Trapped statue. Mummy curses Thorath. More zombies and a wight.
+Defeated the final lot of undead in the crypt including a Ghost. Argued about taking the treasure including 3 Opals, what appeared to be a bag of holding and some potions. Left all but the 3 Opals one of which appeared to be radiating necrotic energy. As they leave the mausoleum Angus is handed a letter by Jooves, from Lady Granrus. While researching the opal, Angus finds it is cursed and has attuned itself to him. Attempts to return it to the mausoleum fall as it magically returns to him. Clerics at the temple of Moradin attempt to remove the curse but fail. Tell Angus to return in the morning as they research it more. Little Claw donates much of this gold to the temple
+
+Cig and Eli attempt to find a shady inn where Cig can make contact with the Shadow League but are distracted by a large gathering where they learn that a merchant is offering a large reward for information on the death of his son. They also see Weester and attempt to follow him but lose him as he enters a house.
 
 
 ###This Session
 
-####Ostston's burial area
-The cememtary that serves Ostston is about 2 hour walk north east of Ostston. Various private burial areas owned by noble familiies. Those who cannot be buried in the family mausoleums are buried in the cemetary but they are generally the wealthier people who will have headstones. Some will just have place markers. There are also several groves of trees where ashes will often be spread.
-
-####Granrus's Family Mausoleum
-
-Large stone mausolem in the centre of the family own land. Distant members of the family are buried outside as well as some notable servants. The newer burials are further away from the mausoleum. 
-
-#####Approaching the door.
-
-As you approach to put the key in you notice that the door is slightly ajar. Investigation DC 12 check to see that the lock had been picked and damaged in the process. 
-
-#####Statue at the enterance
-
-At the enterance of the mausoleum stands a 10 foot tall statue of Eldath the goddess of peace. Making an offering of more than 100gp or equvialent will grant the blessing of protection (+1 AC) for 1 hour. The offering will disappear.
-
-#####Top level of the mausoleum
-
-Not too much appears to have been disturbed until you get to the tomb that has been moved. Investigation check DC 18. The tomb is hinged. There seems to be a mechanical structure that moves the tomb. Investigation DC 15 Looking around there is various torch holders that are in differentt vertical positions.  
-
-Stairs lead down
-
-####Bottom level of the mausoleum
-
-Body of a human at the base of the stairs. Investigation check
-
-* DC10+ Cause of death could be the arrows but a closer look shows he also took several slashes and chunks of flesh are also missing. 
-* DC15+ Shot in the back as he was running for the stairs.
-* DC20+ Thieves tools on him - Tomb robber?
-
-Nature check DC12 State of decay maybe 1 week old.
-
-Cleric says a prayer for the deceased soul.
-
-#####Trapped Statue
-Passive perception DC 15 to spot from 5ft away. If stepped on just as the trap is spotted Acrobatics check DC 15 to jump away. Investigation check DC 14, weight causes the statue fling the great sword upwards.
-* Attack roll 1D20 + 4
-* Damage 2D6 + 4
-
-Appears to be spring loaded as 30 secs after its been tripped you can hear some clicking from the mechanism as the sword returns to the at rest position. Something of 30lbs will be enough to hold down the trigger an prevent the reload.
-
-#####Lady Tolnar Granrus Tomb
-
-Lady Tolnar Granrus was the lady accedited for the Granrus family's rise in power. She was a canny political player and after her husband died was thought to have become the mistress of the then Lord of Ostston. She died at the grand age of 85. Murdered by the son who wanted to take the reins of the family.
-
-When the party enters..  
-
-A wail echoes though the the room "Sooo moorre thieveees coome." " youuu willl suffferrr asss alll haveee suffeerrred beefoore youuuuu"   
-
-Hidden door Investigation DC 15 to spot the door  
-Poison Needle trap. Investigation DC 20 to spot the trap.  
-Dex DC 15 to disarm.  
-1 piecing damage + 2 D10 Poison damage  
-Con DC 15 or poisoned for an hour  
-
-2 Chests
-1. 1000gp
-2. Bag of holding, 2 Greater healing potions, 1 large Opal (1000gp)
- 
-#####Cursed Opal
+####Cursed Opal
 
 If taken the Opal binds to whoever carries it for more than 10mins. That person is then cursed. For 1 ability type there are at a disadvantage.
 
 Too get rid of the curse. Greater Restoration. Temples will expect a donation equvalent of 500gp.
 
-####Exiting the mausoleum
+#####At the temple
 
-A carriage is waiting outside. Drive + guard in the front driving plus 2 further guards on horse back. Jooves steps out of the carraige using a cane to avoid putting weight on his injured leg. 
+This is senior archavist Dorn Runebrow. Very old Dwarf, grey hair, large gold rimmed glasses. Carrying a staff in one hand and a large tomb in the other.
 
-"Good Evening. My employer wished me to give you this" He hands Angus a letter. Nods his head re enters the carrage and they are off.
+He put the tomb on the table and peers at Angus
+"So you are the one who found a gem of Sidruis are you. Hmm let me have a look at you." Before Angus can react he's grab Angus's ear and yanked him down till he's roughly at eye level and is peering at differnt parts of your face. Eventually he releases you  
+"Hmm .. not too far gone then. It might not be impossible to do." He turns to the senior cleric "You best tell him what it entails. I'll begin gathering the necessary bits" With then he leaves the room.  
 
-####Returning to the city
-There appears to be a large gathering of people looking towards a raised platform. A wealth looking man is addressing the crowd. You catch the end of his speech. "and so I offer a reward of 10,000 gold for anyone with information that leads to the capture of my son's murderer". With that he steps down from the crowd and is surround by his personal guard.`
+"Please forgive him.. he has served this temple faithfully for several centuries but has never been the most.. diplomatic"   
+"The gems of Sidruis are not technically cursed gems. They were orginially manufactured for a particular reason." He looks at you all. "you didn't happen to find another piece of jewellary where you found that gem by any chance? A ring or amulet? Something with a magical link to the gem? No, pity, that would have made things easier."  
+
+He looks at the tomb. "Where was I, ah yes, manufactured. As you probably have guessed the gems are vamperic by nature but originally not for a necessarily evil reason. They were linked to a master gem. As those people holding the slave gems lost attributes the one holding the master gem would gain them. Once the gem had drained all it could the magic left the gem. This usually left the holder dead or close to it. It was used as a method for noble or rich families to make their children stronger, fast, cleverer...
+
+Now I know this sounds evil but the original design was for the slave gems to be purely voluntary. You could not be accidentally attuned for forced to be so. Once done the gem was left as payment with the family of the holder. 
+
+However the exchange was not 1 to 1. So the recipent would of someone's strength would not be as strong as that person. The rate varied from 10 to 1 to 100 to 1. Not only that but the cost of preparing the gems was exsorbatant, and so as time went on corners were cut, which led to gems such as the one you hold where you had no choice in accepting it. This lead to the practice being seen as evil and dying out.
+
+"So how do we get it off you.... well as far as we can tell there are 2 options, neither of which are very good...
+
+Option 1. You find the master gem. With it we can break the link. Unfortunately the gem could be anywhere, be part of any type of jewellary, its magics forgotten.
+
+Option 2. He looks down. Normally I would never suggest this but with the way things are at the moment there will probably be enough volunteers... We can try to transfer the gem to someone else. Without the master gem this will be difficult but not impossible. However the process will be very draining on both you and the other person. The volunteer will want compensation for this as it is likely to make their life very difficult
 
 ####Returning to the Order
 Need a name for the party
