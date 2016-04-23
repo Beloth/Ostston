@@ -71,6 +71,29 @@ Old gnome sitting behind a desk. Round glasses pearched on his nose. Seems to be
 
 "Hmmm" he peers at you though his glasses "Maybe we will be able to help each other. This gang calling themselves the Shadow League have holed up in the slums. We don't know whether they have taken over the Slumies or working with them. They have removed everyone we have sent in to check on them. Whats worse is they have sealed all of the underground ways into the slums. All but one... but this one must be guarded by something as everyone one we have sent have dissappeared.
 
+####Door lock
+
+1. Ruins(7) - Maladomini  
+2. Lava Flow(4) - Phlegethos
+3. Iron Roads(2)- Dis  
+4. Ice Storm(8) - Cania  
+5. Dark Black spot (9) - Nessus   
+6. Green Bog(3) - Minauros  
+7. Endless Sloop(6) - Malbolge
+8. Rivers of Blood(1) - Avernus 
+9. Blue Flame(5) - Stygia  
+
+Order must be 
+
+Dark Black spot (9)  
+Ice Storm(8)  
+Ruins(7)  
+Endless Sloop(6)  
+Green Bog(3)  
+Lava Flow(4)  
+Blue Flame(5)  
+Iron Roads(2)  
+Rivers of Blood(1)  
 
 ####Library of Ostston
 #####Scroll
