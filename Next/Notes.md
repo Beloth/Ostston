@@ -84,6 +84,23 @@ Blue Flame(5)
 Iron Roads(2)  
 Rivers of Blood(1)  
 
+####Office
+Mage will dimension door after some banter. King of the slums will attack the group. Perception DC15 to notice a collar with glowing runes on it. Controlling collar.
+
+####Notes in the office
+
+The agreement has been made. Start the process and beginning gathering the necessary ingredients.  
+
+Ensure no one enters the Blackpine Forrest. Those loggers almost stumbled upon us. It is too early for us to be found out as we have little in terms of defences at the moment.  
+
+Phase one is complete, the runestones have been constructed and will hide us from view. We can initiate phase two. Start the talks with T  
+
+The gamble with the tribesmen is paying off and they are providing us with enough people to begin making the payments to fulfil the agreement. You can inform T that he may start.  
+
+T is becoming too demanding. Deal with him.
+
+
+
 ####Library of Ostston
 #####Scroll
 Identify scroll 100gp  
