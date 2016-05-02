@@ -84,10 +84,26 @@ Blue Flame(5)
 Iron Roads(2)  
 Rivers of Blood(1)  
 
+####Cave
+Full of captives. ~30 people. Ankle chains to metal spikes driven into the ground, 8 per spike. Several spikes empty.
+"They come every day and take people away with them, they never return. Sometimes they come with more people, taken from the slums".
+
+"Most of us are from the thieves guilds when the shadow league goons surprised us"
+
+
 ####Office
 Mage will dimension door after some banter. King of the slums will attack the group. Perception DC15 to notice a collar with glowing runes on it. Controlling collar.
 
 ####Notes in the office
+Pages with strings on numbers on them, in blocks of 4
+
+1-80 (Page)
+1-10 (Paragraph)
+1-20 (Line)
+1-15 (Word)
+
+Several books on the bookcases. Investigation roll 15+ 1 of the books is the same as the manuscript.
+If they work out that it is the decoder roll Investigation 15+ to decipher the following.
 
 The agreement has been made. Start the process and beginning gathering the necessary ingredients.  
 
