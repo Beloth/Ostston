@@ -77,6 +77,28 @@ T is becoming too demanding. Deal with him.
 
 Several have the letter T.
 
+
+####Returning to the Marshal
+
+One entering the palace you see Lord Tanafrey along with a plain robed female with her hood up. She seems to be leading him away.
+
+Meet with High Marshal Felarn.  
+
+If they tell him about the portal:
+* He looks concerned. How big? How long was it opened for? Is it 2 way?
+* He will send Archanist Shaniera to investigate and a detachment of guards to ensure nothing comes through
+* We now beleive that something is building in Blackpine Forest
+* Archanist Shaniera has attempted to scry the forest but something is blocking her.
+
+Archanist Shaniera
+* Issues scrying the forest isn't something new. Mages have always had trouble scrying that area. But this is a complete block
+* The portal needs to be recharged every 2 days using the orb. Any sort of magical energy can be used but the most potent appears to be blood magic.
+
+###Mal's nightmare
+
+You find yourself floating in the air on what appears to be the slope of a mountain. Everything around you is surrounded by a red hue. You see other bodies floating around you, their faces pulled in silent screams. They are all moving pass you up the slope. You feel a tug on your chest as you are pulled up the slope and no amount of struggling can stop the motion. You see in the distance a ruin tower towards which all of you appear to be heading. As you get closer you see at the top of the tower a red orb into which all the bodies around you are being pulled, then you hear it, a deep rumbling laughter. Your movement stops. the red hue disappears. You see the other bodies are actually floating in beams of red light the are link to the orb. An image appears above the tower, 4 dark red eyes, large horns and a mouth full of sharp pointed teeth. The eyes turn to you, the laughter stops momentarily, the mouth turns up into a grin and a beam of light shoots from the orb and hits you causing an intense moment of pain before you bolt upright in your bed, a lingering sound of laughter echoing in your head.
+
+
 ####Library of Ostston
 #####Scroll
 Identify scroll 100gp  
