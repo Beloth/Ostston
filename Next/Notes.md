@@ -22,6 +22,13 @@ You should have been more wary. Your description has been sent to all higher pla
 * She doesn't think that the Ostston Guildmaster is involved
 * The leaders of the various districts are scambling for power at the moment especially with the death of the the Slum Lord.
 * The Old Tinkerer ordered your capture motivations unknown. 
+* Suggests to stay out of the Sewers for now. Not safe there for Cig. 
+ 
+####Mal's contact with the Lawyers
+
+Next morning during breakfast a human male approachs the party. Mal recognises him as the Lawyer he had contacted before. 
+
+"Your information has stirred up a hornets nest. You have been request to return to give an accounting."
 
 
 
