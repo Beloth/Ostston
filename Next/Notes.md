@@ -7,6 +7,13 @@
 
 ####Cig's capture
 
+Tracking Cig's kidnappers
+
+Survivability check
+10+ takes about 15mins to find their trail
+15+ takes about 5-10 mins to find the trail
+20+ finds the trail quickly
+
 The party finds Cig unconcious along with 3 bodies of the kidnappers. Around them are 3 people dressed in dark clothing, hoods up with with only theirs eys visable above the cloth covering the rest of their faces. 1 in kneeling is front of Cig while the other 2 take up defensive positions when they spot you, with their daggers drawn, blood still dripping from them. 
 
 "Stand down" the kneeling woman says as you approach, "their his friends". They sheath their weapons but maintain their defesive positions. Cig comes to conciousness when the woman waves something under his nose. After a moment she helps Cig to his feet.
