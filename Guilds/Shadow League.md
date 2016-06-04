@@ -23,6 +23,6 @@ Male - Gnome - White/grey hair long beard.
 
 In charge of the Craftmen's quarter. Also had dealings with the fake Shadow League
 
-######Miran
+######Katrine
 
 Female human. Party's inital contact with the Craftman's chapter of the guild. Appears to work for the Old Tinkerer but is actually an agent of the Guildmaster
