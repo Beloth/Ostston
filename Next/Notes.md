@@ -18,18 +18,25 @@ The party finds Cig unconcious along with 3 bodies of the kidnappers. Around the
 
 "Stand down" the kneeling woman says as you approach, "their his friends". They sheath their weapons but maintain their defesive positions. Cig comes to conciousness when the woman waves something under his nose. After a moment she helps Cig to his feet.
 
-Once Cig is able to stand by himself she removes her hood and pulls down the cloth covering her mouth. You recognise her as the woman that you met you showed you to the meeting place for the thieves guild (and the tunnels).
+Once Cig is able to stand by himself she removes her hood and pulls down the cloth covering her mouth. You recognise her as the woman (Katrine) that you met you showed you to the meeting place for the thieves guild (and the tunnels).
 
 Cig roll a perception check 10+ the other 2 are familiar to you, 15+ you recognise the other 2 as the ones that had followed you when you were looking for those scouts way back when
 
-You should have been more wary. Your description has been sent to all higher placed members and there has been talk of a hefty bounty for your capture.
+"You should have been more wary. Your description has been sent out to all and there has been talk of a hefty bounty for your capture."
+
+The 2 shadows start moving the bodies of the kidnappers while Katrine leads you down a side alley where she pushes some crates to the side reveling a celler door. She opens in and leads you down some stairs to a small room where once you are in she closes the door and rotates a small wheel. She lights a small latern. 
+
+The room is plain, has a simple table and a couple of chairs as well as a sleeping mat in 1 corner. 
+
+"I don't have much time but I can answer a couple of you questions" looking at Cig.
 
 * Her benefactor wants to know who ordered Borivik's death but they can't be seen to be actively looking in this area.
 * She has been told to aid you were possible without blowing her cover
 * She doesn't think that the Ostston Guildmaster is involved
 * The leaders of the various districts are scambling for power at the moment especially with the death of the the Slum Lord.
 * The Old Tinkerer ordered your capture motivations unknown. 
-* Suggests to stay out of the Sewers for now. Not safe there for Cig. 
+* Suggests to stay out of the Sewers for now. Not safe there for Cig and might not be safe for the rest of the Hand considering the Old Tinkerer knows of you now.
+
  
 ####Mal's contact with the Lawyers
 
