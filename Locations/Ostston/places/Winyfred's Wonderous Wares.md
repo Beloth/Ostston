@@ -18,7 +18,7 @@ Number | Name | Cost
 |1|Brooch of Shielding|75000gp|
 |1|Cloak of Protection|3500gp|
 |1|Studded Leather +1|1500gp|
-|10|Potion of Healing (2D4+2)|50gp|
+|5|Potion of Healing (2D4+2)|50gp|
 |5|Potion of Greater Healing (4D4+4)|150gp|
 |1|Superior Healing (8D4+8)|500gp|
 |2|Potion of waterbreathing|180gp|
