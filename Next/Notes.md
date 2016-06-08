@@ -36,7 +36,7 @@ She turns and stands in front of one of the cloaked men.
 
 He nods. Before anyone can react he lashes out with his fist striking her across the jaw. He catches her before she can fall. She spits out some blood. 
 
-If the party tries to intervene she holds out her hand "Stop. Its necessary... wouldn't want it to look like I got away without any damage..."
+If the party tries to intervene she holds out her hand "Stop. Its necessary... wouldn't want it to look like I got away without any damage..." She tries to wink at you but winces...
 
 With that she braces herself and nods again at the cloaked man. He swipes at her with Cig's dagger causing a shallow wound. She gasps and covers the wound with her hands. 
 
