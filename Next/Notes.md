@@ -5,6 +5,12 @@
 
 ###This Session
 
+####Cig's Kiddappers
+
+Missing tougue
+pouch with 75gp
+
+
 ####Cig's capture
 
 Tracking Cig's kidnappers
