@@ -96,6 +96,42 @@ In addition there was a clause that should they need more help Ost would to prov
 
 "I can use some of the remaining power of the orb to open the portal so that you do not have to walk there. I will also give you this signal gem to indicate that I should reopen it to let you through" She hands you a small blue gem that glows slightly. "Just hold it in your hand and think of me.. I will be notified and will open the portal... it is one use however"
 
+
+### Heading towards the Portal
+The house above the portal is being guarded by the city guard. As you head down you sen more guards stationed there plus several of the Archanists assistants. The Archanist greets you as you enter the Portal room.
+The Orb is still glowing but less that before. You notice arryed around the orb are 4 stands each holding a red, faintly glowing gem and lines of energy attaching the gems to the orb similar to the lines of energy that had connected the flayed men but the energy direction seems to be towards the gems rather than the other way round. 
+
+"Are you ready"
+
+At that she touches a rune on each the stands and the lines of energy cease.  From her robes she pulls out another gem similiar to those in the stands but this time clear (eg not red) but glowing brighter. "A purified gem" she says. She holds the gem towards the orb and she bows her head in concentration. A beam of white light connects from the gem to the orb. After a moment a beam streaks from the orb to the portal. Unlike the last time you saw the beam this one is not bright red, more of a pale pink colour. The portal starts to open. 
+
+Like heat distortion before it clears
+
+
+###Forest Clearing
+
+As the portal opens it reveals the same clearing you saw before however this time ther appears to be something there. A closer look shows a small winged creature in full view. 
+
+Reveal the map
+
+Before you can react it suddenly blinks into the form of a bird and flies away.
+
+
+###Boys attached to the control orb
+You seen 4 peasant boys attached to a metal ring around the stone base, by thin chains.
+There is a thug holding one of the boys hostage. "Not one step closer or the boy gets it!" The boy is wimpering in fear. 
+Little Claw you notice 1 of the other boys is using the distraction to inch closer to the thug, his hand under the rags pulling out a small knife.
+
+He strikes the back of the thigh with the knife. The thugs roars out in surprise and pain, drops the boy and falls to the ground. The boy with the knife pull the other boy back and they bother back away as far as the chains allow. The thug turns and lunges for the boys
+
+All get an attack of oppertunity
+
+After you kill the thug the back away as from you as the chains allow, the one with the knife standing guard.
+
+If they try to break the chains, 1 of the boys springs forward and stands between you and the chains with a hidden knife in his hands... "NO, if the chains are broken we die!"
+
+Portal still open. No sounds transverse the 
+
 ####Archanist Shaniera & High Marshal Felarn
 Robed female approaches the party. "We need to talk... follow me" Leads you to a private room. Holds the door open slightly longer than necessary, then shuts it.
 
