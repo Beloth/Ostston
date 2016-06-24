@@ -1,10 +1,49 @@
-#Next Session
+##Session Write-up
 
-###Last Session
+###Into the portal and through the woods...
+The party recover their thoughts as Cig is carried away, unconscious and invisible. Angus applies manacles to the sleeping assassin and then, in purging the remainder of the poison from his system, throws up all over him. They reveal his face and find that he has no tongue. Mal uses Detect thoughts and Angus slaps him awake and they begin to interrogate him. They get as far as finding out that Cig was to be returned to the Tinker, the old gnome that was in charge of part of the Thieves Guild. Before they can question him further a crossbow bolt strikes the assassin, killing him. They cannot see where it was fired from.
 
+ 
 
-###This Session
+Meanwhile Little Claw, still wildshaped as a dire wolf, and Caid give chase to the fleeing assassins. Using their keen senses they are able to follow in their general direction of travel until they can hear sounds of fighting. Caid returns to Angus to inform him and he in turn informs Mal and Eli and the three give chase. Little Claw adopts a stealthy approach and leaps up to the rooftops. He observes a fight going on in an alleyway between the assassins and another group of rogue looking types.
 
+ 
+
+Angus, Eli and Mal arrive at the alleyway and discover a dead assassin. They make their way through the alley and observe the fight, waiting for the time to move to save Cig. Little Claw attempts to leap across some roof tops to get closer but falls short, barely managing to hold on to the side of the opposing roof. There he changed shape into that of an ape and leapt down to where Cig lay, unconscious.
+
+ 
+
+The fight ended with the new group killing off the last of the assassins and one rogue, a woman acting as their leader, imploring the Hand to stand down, offering peace and reviving Cig with smelling salts. She was recognised as being the Hand’s initial contact with the Thieves Guild and she reprimanded Cig for being so careless. She told the others to take the Hand somewhere safe to explain and then allowed herself to be punched to the face to make it look as though she had been involved in a struggle.
+
+ 
+
+At a safe house the rogues explained that they were not from the city and that the woman was Katrina, known as The Cat. She was an agent for the guild master who over saw the whole guild in the city and that the gnome was but one of seven who ruled only a part of the city. The gnome was believed to be involved with the revival of the Shadow League. Cig revealed he knew more than he had previously shared.
+
+ 
+
+The group returned to Springwell to collect their things before heading to The Anvil to rest in the barracks. The next day they were tracked by Arcanist Shinera who explained that they had made some break through with the orb in the sewers but they needed some agents to travel through the portal to Blackpine forest to investigate the other side. An old accord meant that no agent of Ostston could enter the forest so the Hand would allow them to circumvent that condition.
+
+ 
+
+She made monies available for the Hand to resupply and after picking up some potions and equipment they headed for the portal.
+
+ 
+
+Stepping through the portal they were immediately transported to a clearing within a forest that Eli judged to be Blackpine. They witnessed a demonic imp within the clearing transform in to a raven and fly north, Initially giving chase they realised that there were other demons in the clearing and a fight ensued. Two Bearded Devils wielding glaves, two imps and a human thug guarded an orb powered by blood magic feeding off 4 captive young boys who were chained to the device.
+
+ 
+
+One Devil closed in on Angus and lashed out at him but his magical wards were enough to protect him. The other charged Little Claw who changed in to a bear shape and the two fought. With Angus’ withdrawal the Devil facing him closed on Eli and the Halfling was forced to drop her bow and take up the sword to defend herself whilst Mal and Cig provided support. The imps blinked in and out of invisibility, striking at Caid, dispelling her. After a while, with their attacks seemingly doing very little damage to the resistant Devils, the Hand was able to wear down the Devils though Eli took much damage. The first to fall was the Devil facing off against Little Claw. The next was the Thug who was obliterated by a miniature meteor flung by Angus. Eli continued to take damage as she, Mal, the Devil and an Imp performed a pirouetting battle. One Imp materialised behind Angus who was distracted casting a spell and stung him viciously, bringing him close to death. He responded by firing his wand of magic missiles at the imp, killing it.
+
+ 
+
+After a short continuation of the fight the last Devil and Imp were finished off and the group turned their attentions to freeing the boys chained to the orb.
+
+ 
+
+They were told by the boys that breaking the chains would kill them. They investigated and eventually identified the lock on the back of the boys’ collars and Cig and Eli were able to free them. However when the collars were removed the boys’ necks were revealed to have horrible wounds and Mal was required to step in and heal them. Once all the boys were freed they were taken back through the portal to be left in the care of Arcanist Shinera…
+
+###DM Notes
 ####Cig's Kiddappers
 
 Missing tougue
@@ -137,38 +176,3 @@ After you kill the thug the back away as from you as the chains allow, the one w
 If they try to break the chains, 1 of the boys springs forward and stands between you and the chains with a hidden knife in his hands... "NO, if the chains are broken we die!"
 
 Portal still open. No sounds transverse the 
-
-####Archanist Shaniera & High Marshal Felarn
-Robed female approaches the party. "We need to talk... follow me" Leads you to a private room. Holds the door open slightly longer than necessary, then shuts it.
-
-Once again she places the golden egg on the table and the dome forms.
-Drops the invisiblity spell to reveal High Marshal Felarn. 
-
-"I apologies for the deception but things have taken a turn. Just after I had warned Tanafrey that his life might be in danger he convinced Lady Gallentara to allow him to bring more of his troops into Ostston and I don't just mean 1 or 2 more bodyguards. I'm talking about several divisions worth using the excuse of the riots in the Slums and the fact that I have had to send out the majority of my men to deal with the troubles to the north and the Orc camp to the east."
-
-"What exactly made you beleive that he was in danger. Everything I am seeing now seems to imply that he is looking to takeover Ostston, by force if necessary. However you also seemd to imply that he might be being controlled?"
-
-"His advisor? She's... " the Marshal shakes his head as if trying to clear his mind. He turn's to the Archanist "Shaniera?"
-
-She frowns in concentration. After a moment her eyes widen and she starts mumbling under her breath while gesturing with her hands, a faint glow surrounds both her and the Marshal. "By the goddess.." She begins casting again and the glow fades. She turns to the Marshal. "It was subtle but there was a spell on both of us."
-
-"What spell?"
-
-"Some sort of complusion spell... I believe to make us less likely to ask questions about his advisor..."
-
-"You said before that you could not find the source of the portals magic... what about the advisor?"
-
-"Its possible but I would need to confirm it which will be difficult without revealing that the spell is broken. And if it is her we are in serious trouble... The magic that went into making that portal and that trap are beyond my powers. We are dealing with a highly skilled and powerful magic user and if she is backed by Lord Tanafrey's troops..."
-
-####Mal's contact with the Lawyers
-
-Next morning during breakfast a human male approachs the party. Mal recognises him as the Lawyer he had contacted before. 
-
-"Your information has stirred up a hornets nest. You have been request to return to give an accounting."
-
-
-
-
-
-
-

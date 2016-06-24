@@ -28,3 +28,13 @@ Responsible for the distribution of contracts
 #####Master of the Arcane - Alystine Simil
 Male Half Elf
 Link between the Order and the Mages guild. Technically not a member of the guild but has taken oaths of loyality.
+
+###Jobs
+
+Orc bounty. Currently 25gp per scalp + 25gp every 5
+
+Investigate the boken tower. There is a ruined tower 2 days west. Travellers have recently mentioned strange lights and noises happening around the ruins. Reward 1000gp
+
+Missing persons. Daughter of a foreign merchant has gone missing while visiting. Search for her. 1500gp for her safe return.
+
+Something attacking the animals on a farm. 250gp
