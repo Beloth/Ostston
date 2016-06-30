@@ -2,7 +2,7 @@
 
 ###Last Session
 
-PArty followed the kidnapped Cig only to find him being rescued by Katrine (the Cat) who they recognise as the individual who lead them to one of the leaders of the Thieves guild. Helping her are 2 other men who Cig recognise as the pair that were trailing the party early. They give the party information on the thieves guild. They party headed back to the inn and after a rest they are contacted by Archanist Shaniera who informs them of the progress made with the portal. She requires a group that is not affiliated with Ostston to investigate the other side of the portal (Blackpine) in order to get round an ancient pact made between the founder of Ostston and some unknown group.
+Party followed the kidnapped Cig only to find him being rescued by Katrine (the Cat) who they recognise as the individual who lead them to one of the leaders of the Thieves guild. Helping her are 2 other men who Cig recognise as the pair that were trailing the party early. They give the party information on the thieves guild. They party headed back to the inn and after a rest they are contacted by Archanist Shaniera who informs them of the progress made with the portal. She requires a group that is not affiliated with Ostston to investigate the other side of the portal (Blackpine) in order to get round an ancient pact made between the founder of Ostston and some unknown group.
 
 Passing through the portal the party confronts the devils there. After the fight that leaves Eli close to death and the others with various injuries the party frees the children shackled to a power orb.
 
