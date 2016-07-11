@@ -2,62 +2,14 @@
 
 ###Last Session
 
-Party followed the kidnapped Cig only to find him being rescued by Katrine (the Cat) who they recognise as the individual who lead them to one of the leaders of the Thieves guild. Helping her are 2 other men who Cig recognise as the pair that were trailing the party early. They give the party information on the thieves guild. They party headed back to the inn and after a rest they are contacted by Archanist Shaniera who informs them of the progress made with the portal. She requires a group that is not affiliated with Ostston to investigate the other side of the portal (Blackpine) in order to get round an ancient pact made between the founder of Ostston and some unknown group.
+The party followed a path north from the protal clearing. The noticed they were being followed and attempted to set up an ambush by climbing up some trees.While there they are surrounded by Hell Wolves so they attempt to flee of the backs of conjured giant owls. A devil packmaster appeared as they were about to do so and downs the owl carrying Cig forcing the party to fight. During the fight a druidic Halfling appears with his companion wolf Rebel to help. After defeating the devils the halfling is revealed to be Eli's Uncle Eldorin who ushers the party quickly away. He leads them to a hidding whole where is becomes apparent that he's not all there.
 
-Passing through the portal the party confronts the devils there. After the fight that leaves Eli close to death and the others with various injuries the party frees the children shackled to a power orb.
+After Little Claw casts lesser restoration on him his mind becomes clearer and he tells the party what he knows. Mal convinces him that he has a important mission to help the remaining memebers of his tribe. THe next morning the party awakens to find Eldorin gone. They decide to head to the camp to the east
+
+They manage to avoid most of the shape changed imps who are keeping a look out to discover a large clearing. Reaching the edge of the camp, the party sees a large number of what appears to be prisoners with collars arounf their necks. They also see a few guards around who also appear to be collared. A patrols of hell wolves enters the camp and heads to one of the buildings from which emerges another of the fiends that they had just fought.
 
 ###This Session
 
-####Inital re-grouping after fight
-
-Passive perception 15+ make a perception check 
-DC15+ - The hairs on the back of your neck tingle. Someone or something is watching you.... You scan the tree line in the hopes of spotting what but you can't find anything
-
-DC20+ - The hairs on the back of your neck tingle. Someone or something is watching you.... You scan the tree line in the hopes of spotting what... there in the bush off the path... a pair of yellow eyes... and then they are gone...
-
-####Tracking northwards
-
-Survivability roll
-
-DC10+ - There seems to be a rough path heading north
-
-DC15+ - There seems to be a rough path heading north, you can make out many sets of footprints all overlapping each other. Several days old at least
-
-DC20+ - There seems to be a rough path heading north, you can make out many sets of footprints all overlapping each other. Several days old at least. You can also make out the prints of several devils but these go in both directions.
-
-###Following the tracks
-
-Marching order?  
-
-As you follow the tracks, the dark oppressive atmosphere you note when you were last here, and that had dissapated slight when you destroyed the crystal is back in force. If anything it is even greater than before. As you get further away from the clearing the feeling gets worse and worse. The forest gets darker, the tress loom either side of you casting shadows all around...
-
-Make a Wisdom Saving throw
-
-DC15+ with Eli and LC advantage
-
-Eli and LC - you detected none of the usual sounds you would associate with the forrest except for the faint buzzing of insects.. no birds.. but then there is a howl!
-
-LC make a perception check...
-
-DC10+ - You feel eyes on you... you scan the the bushes to the side of the trail. 
-
-DC15+ - You feel eyes on you... you scan the the bushes to the side of the trail. Peering from the bushes are a set of eyes looking back at you as you peer closer you can just about make out a face and as you make eye contact a wide smile makes its way onto what you now recognise as a male Hafling. The Hafling raises his hand to you and gives you a wave....
-
-LC Make a athletics roll with Disadvantage against Giant Wolf
-
-If failed - A heavy weight strikes against your back and you are unable to compensate. You crash to the floor, head tilted slight which probably saved your nose from being broken. As you look above you you see the golden eyes of a giant wolf panting above you. It licks you cheak before bounding back into the forest.
-
-If sucessful -  A heavy weight strikes against your back, you stumble but manage to catch yourself before falling. You turn your head to see a giant wolf's head peering over your shoulder.
-
-A Halfling bursts out of the bushes Runs to ELi and says "Elionara move.. quickly" grabs her and tries to pull her back into the bushes. At the same time he pulls out a water holder and throws it towards the rest of the party. As the liquid falls out of the holder the halfling mutters a few words and gestures towards the party, liquid shoots, mistyfying and hitting everyone in the party.
-
-Eli make a athletics check to avoid being dragged..
-
-Its your Uncle Eldorin.. a respected Druid of these forrests. "must be quite.. must be hidden.. quickly... move before they get here"
-
-"Move.. before you get get us both caught...."
-
-"These arn't your captors?... errr.. not good... not good at all... " There is another howl.. closer this time... "Run!"
 
 
 
