@@ -10,6 +10,70 @@ They manage to avoid most of the shape changed imps who are keeping a look out t
 
 ###This Session
 
+####Thoughts
+All the slaves:  
+
+No surface thoughts. They are completely blank if not given a task. With a task their thoughts are completely focused on completing it. If dig deeper thoughts are muted but general dispair. A few of the stronger willed people the deeper thoughts come through a bit clearer and those are the ones that you see crying. See thoughts of vile acts done to them, them forced to do vile acts as entertainment, etc.
+
+Of the Guards:  
+Their thoughts are also muted but not controlled in the same manner as the slaves. They were willing to go along with whatever their masters wanted and so are given a greater amount of freedom. General boredom. Deeping excitment for what they will be allowed to do later, planning what they are going to do, dark thoughts.
+
+Looking into the hut:  
+Idle playing, toying, mild amusement  
+Dispair, humiliation, praying ro be set free  
+
+If you dig deeping into Pelarna:  
+Underlying sense of boredom. If she senses the spell:  
+Surprise and then you are suddenly blocked off 1D4 physic damage as you a forcefully removed from her mind.  
+
+####Tiefling in the hut
+
+Pelarna
+
+Female tiefling with curled horns and dark red leathery wings
+
+When she spots Mal:
+
+* A sinister grin slowly starts to grow across her face
+* "Welcome brother.... its so nice to have family visit."
+* "So how is father? Must be getting rather desperate if he is sending you out so early"
+
+If Mal looks confused
+
+* The grin grows
+* "You don't have any idea what I'm talking about do you..." She starts laughing almost hystrically
+* After she gets herself under control "This is wonderful" Her eyes dancing with vicious glee...
+* "Its almost a pity to have to do this" as she reaches for her belt "but we can't have you blundering around"
+* "Capture them"
+
+All the people turn to look at the party, they reach out and start walking towards you arms out stretched.
+
+Pelarna ducks back into the hut. 
+2 Hell wolves sitting behind the party
+
+####Pelarna captured
+
+She struggles against you.  
+Spits at you, "I won't tell you anything"
+
+Half sister. Same father. She found out more about her heritage. Her father was the Arch Devil Malchar. He is gathering power inorder to take one of the 9 hells over. 
+
+Hundreds if not thousands of offspring. Breeding with powerful individuals trying to find some mystical combination. Those that don't meet the criteria are discarded like they are nothing. Your time will come, you too will be thrown away like I was.
+
+"but I have found a new master. One that not only promised me power but actually gave me it" She stretches out her wings.
+
+####Evening
+
+If killed Pelarna in cold blood or killed any innocent people  
+
+#####Mal's nightmare
+
+You are floating infront of the same tower, the 4 eyed visage above. You suddenly curl up in agony as something is pulled from you. Through the pain you see the images of those innocent people you killed are torn from you and are sent towards the tower. You see them trying to escape the pull of the tower, crying, begging to be freed but you can do nothing as they are consumed by the image above the tower. Finally Pelarna's image is drawn from you. Unlike the others she does not struggle against the pull. She seems almost resigned as she shrugs her shoulders, turns towards the image and floats willingly towards it.
+
+Mal wakes from the nightmare. Wings have grown to a 2foot wing span. Disadvantage to any Dex based rolls as you are unuse to them. They throw off you're centre of balance. 1 week.
+
+
+
 
 
 
