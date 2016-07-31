@@ -25,4 +25,7 @@
 * If written by the pact pack he obtained in Hestal, the contract is enforced by the will of the Arch Devil Malchar.
 * If broken a part of the soul is taken by Malchar
 
-####
+####Mal's Siblings
+* Pelarna - Rogue sister
+* Pelgara - Fighter sister
+* Melanor - Mage brother
