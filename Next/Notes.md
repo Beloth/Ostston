@@ -2,65 +2,13 @@
 
 ###Last Session
 
-The party followed a path north from the protal clearing. The noticed they were being followed and attempted to set up an ambush by climbing up some trees.While there they are surrounded by Hell Wolves so they attempt to flee of the backs of conjured giant owls. A devil packmaster appeared as they were about to do so and downs the owl carrying Cig forcing the party to fight. During the fight a druidic Halfling appears with his companion wolf Rebel to help. After defeating the devils the halfling is revealed to be Eli's Uncle Eldorin who ushers the party quickly away. He leads them to a hidding whole where is becomes apparent that he's not all there.
-
-After Little Claw casts lesser restoration on him his mind becomes clearer and he tells the party what he knows. Mal convinces him that he has a important mission to help the remaining memebers of his tribe. THe next morning the party awakens to find Eldorin gone. They decide to head to the camp to the east
-
-They manage to avoid most of the shape changed imps who are keeping a look out to discover a large clearing. Reaching the edge of the camp, the party sees a large number of what appears to be prisoners with collars arounf their necks. They also see a few guards around who also appear to be collared. A patrols of hell wolves enters the camp and heads to one of the buildings from which emerges another of the fiends that they had just fought.
+The party Enacted their plan to infiltrate the camp. They watched as the Packmaster went on patrol then sneaked into the hut that seemed to contain the leader of the camp. There they found a Tiefling who Mal attempted to convince that he was there for a report on the camp. This deception failed and the rest of the party launched into action. After a brief fight they subduded the Tiefling and held of the horde of controlled civilians while Angus worked out how the control belt worked. He managed to give them a command to stop attacking. The party then woke the Tiefling up and casting Detect Thoughts by Mal and Suggestion by Angus the party questions her. They learn many things amoung which is she is Mal's half sister (Pelarna) and that he has many other siblings , some of which (Melanor, male fighter and Pelgora, female fighter) are working, like her, with the master who is against their mutual father.
 
 ###This Session
 
-####Thoughts
-All the slaves:  
 
-No surface thoughts. They are completely blank if not given a task. With a task their thoughts are completely focused on completing it. If dig deeper thoughts are muted but general dispair. A few of the stronger willed people the deeper thoughts come through a bit clearer and those are the ones that you see crying. See thoughts of vile acts done to them, them forced to do vile acts as entertainment, etc.
-
-Of the Guards:  
-Their thoughts are also muted but not controlled in the same manner as the slaves. They were willing to go along with whatever their masters wanted and so are given a greater amount of freedom. General boredom. Deeping excitment for what they will be allowed to do later, planning what they are going to do, dark thoughts.
-
-Looking into the hut:  
-Idle playing, toying, mild amusement  
-Dispair, humiliation, praying ro be set free  
-
-If you dig deeping into Pelarna:  
-Underlying sense of boredom. If she senses the spell:  
-Surprise and then you are suddenly blocked off 1D4 physic damage as you a forcefully removed from her mind.  
-
-####Tiefling in the hut
-
-Pelarna
-
-Female tiefling with curled horns and dark red leathery wings
-
-When she spots Mal:
-
-* A sinister grin slowly starts to grow across her face
-* "Welcome brother.... its so nice to have family visit."
-* "So how is father? Must be getting rather desperate if he is sending you out so early"
-
-If Mal looks confused
-
-* The grin grows
-* "You don't have any idea what I'm talking about do you..." She starts laughing almost hystrically
-* After she gets herself under control "This is wonderful" Her eyes dancing with vicious glee...
-* "Its almost a pity to have to do this" as she reaches for her belt "but we can't have you blundering around"
-* "Capture them"
-
-All the people turn to look at the party, they reach out and start walking towards you arms out stretched.
-
-Pelarna ducks back into the hut. 
-2 Hell wolves sitting behind the party
-
-####Pelarna captured
-
-She struggles against you.  
-Spits at you, "I won't tell you anything"
-
-Half sister. Same father. She found out more about her heritage. Her father was the Arch Devil Malchar. He is gathering power inorder to take one of the 9 hells over. 
-
-Hundreds if not thousands of offspring. Breeding with powerful individuals trying to find some mystical combination. Those that don't meet the criteria are discarded like they are nothing. Your time will come, you too will be thrown away like I was.
-
-"but I have found a new master. One that not only promised me power but actually gave me it" She stretches out her wings.
+####Pelarna
+ She will attempt to escape (she is a rogue)
 
 ####Evening
 
@@ -71,14 +19,6 @@ If killed Pelarna in cold blood or killed any innocent people
 You are floating infront of the same tower, the 4 eyed visage above. You suddenly curl up in agony as something is pulled from you. Through the pain you see the images of those innocent people you killed are torn from you and are sent towards the tower. You see them trying to escape the pull of the tower, crying, begging to be freed but you can do nothing as they are consumed by the image above the tower. Finally Pelarna's image is drawn from you. Unlike the others she does not struggle against the pull. She seems almost resigned as she shrugs her shoulders, turns towards the image and floats willingly towards it.
 
 Mal wakes from the nightmare. Wings have grown to a 2foot wing span. Disadvantage to any Dex based rolls as you are unuse to them. They throw off you're centre of balance. 1 week.
-
-
-
-
-
-
-
-
 
 
 ####Archanist Shaniera & High Marshal Felarn
