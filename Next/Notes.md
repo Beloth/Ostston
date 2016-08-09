@@ -8,7 +8,23 @@ The party Enacted their plan to infiltrate the camp. They watched as the Packmas
 
 
 ####Pelarna
- She will attempt to escape (she is a rogue)
+ She will attempt to escape (she is a rogue). She will try to flee towards the lake. She actually takes flight even though her wings do not seem to be large enough to bear her weight.
+
+####Return of the Packmaster
+1 Packmaster + 2 Hell Wolves (Total 2000xp)
+
+####Slaves
+What is the party going to do with the slaves?
+
+####Travelling on
+Patrol - 4 Hell Wolves (Total 1800xp)
+Find a logging camp
+
+####Logging camp
+Bandit Captain (450xp)
+Cult Fanatic (450xp)
+Several slaves cutting down trees
+
 
 ####Evening
 
@@ -16,9 +32,13 @@ If killed Pelarna in cold blood or killed any innocent people
 
 #####Mal's nightmare
 
-You are floating infront of the same tower, the 4 eyed visage above. You suddenly curl up in agony as something is pulled from you. Through the pain you see the images of those innocent people you killed are torn from you and are sent towards the tower. You see them trying to escape the pull of the tower, crying, begging to be freed but you can do nothing as they are consumed by the image above the tower. Finally Pelarna's image is drawn from you. Unlike the others she does not struggle against the pull. She seems almost resigned as she shrugs her shoulders, turns towards the image and floats willingly towards it.
+You are floating infront of the same tower, the 4 eyed visage above. You suddenly curl up in agony as something is pulled from you. Through the pain you see the images of those innocent people you killed are torn from you and are sent towards the tower. You see them trying to escape the pull of the tower, crying, begging to be freed but you can do nothing as they are consumed by the image above the tower. Finally Pelarna's image is drawn from you. Unlike the others her struggle seems partially successful. Her movement towards the tower is slower and you can see the strain on her face. Finally she tears free and heads upwards with a trumphant smirk on her face, which fades as her journey upwards is halted and another force jerks her back down but instead of heading towards the tower she is pulled in another direction. As you focus on the direction she is traveling you can faintly see what appears to be the top of another tower in the far distance 
 
-Mal wakes from the nightmare. Wings have grown to a 2foot wing span. Disadvantage to any Dex based rolls as you are unuse to them. They throw off you're centre of balance. 1 week.
+If killed by other members of the party you see the images of those dead float past you into the tower.
+
+Mal wakes from the nightmare. Wings have grown to a 2 foot wing span. Disadvantage to any Dex based rolls as you are unuse to them. They throw off you're centre of balance. 1 week.
+
+
 
 
 ####Archanist Shaniera & High Marshal Felarn
