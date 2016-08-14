@@ -8,7 +8,7 @@ The party Enacted their plan to infiltrate the camp. They watched as the Packmas
 
 
 ####Pelarna
- She will attempt to escape (she is a rogue). She will try to flee towards the lake. She actually takes flight even though her wings do not seem to be large enough to bear her weight.
+ She will attempt to escape (she is a rogue). If left in the house she will kill the guards and open a secret compartment to get a 2 daggers and a potion of invulnerability (looks like a metalic liquid) Also in the compartment is 2 Potion of Healing. She will try to flee towards the lake. She actually takes flight even though her wings do not seem to be large enough to bear her weight.
 
 ####Return of the Packmaster
 1 Packmaster + 2 Hell Wolves (Total 2000xp)
@@ -50,7 +50,7 @@ The Dwarves are holding their own and you can see the dissolving remains of mayb
 
 1 Packmaster + 2 Hell wolves (2000xp)
 
-They are headed to Iradell (avoiding Ostston so not to have to pay the new tax). Taking metal works as well as some refined metals. If pressed will also tell the group that they have several uncut gems that.
+They are headed to Iradell (avoiding Ostston so not to have to pay the new tax). Taking metal works as well as some refined metals. If pressed will also tell the group that they have several uncut gems that. (Garnets * 10 (100gp), Topaz * 5 (500gp), Star Ruby *2 (1000gp) Ruby (5000gp)
 
 Willing to trade with discount (10%) if the party was successful in helping them beat the devils
 If haggle
@@ -64,10 +64,10 @@ Roll Nat1  = Full Price
 
 | Item | Normal Cost | Minimum Cost |
 |------|-------------|--------------|
-| Adamantine Chain Shirt| 500gp | 35ogp |
+| Adamantine Chain Shirt| 500gp | 350gp |
 | Mithril ring mail | 800gp | 600gp|
 | 40 * Bolts +1 | 25gp | 20gp |
-| Scimitar +1 | 1000gp | 800gp |
+| *Charged Scimitar | 100gp | 75gp |
 | Longsword +1 | 1000gp | 800gp |
 | Horn of Blasting | 450gp | 300gp |
 
