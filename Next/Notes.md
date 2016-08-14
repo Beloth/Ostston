@@ -85,7 +85,9 @@ If killed by other members of the party you see the images of those dead float p
 
 Mal wakes from the nightmare. Wings have grown to a 2 foot wing span. Disadvantage to any Dex based rolls as you are unuse to them. They throw off you're centre of balance. 1 week.
 
+###Temple
 
+Crystal similiar to the one the party destoryed in the 1st clearing. Cultist surrounding it chanting. It flicks in time with the stone portal.
 
 
 ####Archanist Shaniera & High Marshal Felarn
