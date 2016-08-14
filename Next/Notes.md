@@ -21,9 +21,56 @@ Patrol - 4 Hell Wolves (Total 1800xp)
 Find a logging camp
 
 ####Logging camp
+A small clearing with about a dozen men cutting down trees and debranching trees that have been cut down. 2 others stick out who seem to be overseeing the whole camp.
+
 Bandit Captain (450xp)
 Cult Fanatic (450xp)
 Several slaves cutting down trees
+
+####Dwarven trade caravan
+As the group travels through the forest passive perception 15+ Something catches your attention, you motion for the rest of the group to stop and be quite, make a perception check.
+
+Perception check: 
+                 Nat20 you hear a deep male voice shouting out a battle cry to the North West   
+                 20+ Shouting coming from maybe 500m the North West and the sounds of battle  
+                 15+ Shouting coming from the North West and the sounds of battle  
+                 10+ You briefly thought you heard so shouts but it was so short you weren't able to pinpoint a direction  
+                 5+ Was probably nothing.  
+                 
+On one of the main trails through the forrest is a Dwarven trade caravan being attacked by:
+
+1 Packmaster + 2 Hellwolves (2000xp)
+
+Defended by 4 Dwarves  
+1 Merchant  
+1 Dwarf Guard captain (Level 6 Fighter)  
+2 Dwarf Caravan guards (level 3 fighters)  
+
+The Dwarves are holding their own and you can see the dissolving remains of maybe 3-4 other devils, but just as the party arrives an additional 
+
+1 Packmaster + 2 Hell wolves (2000xp)
+
+They are headed to Iradell (avoiding Ostston so not to have to pay the new tax). Taking metal works as well as some refined metals. If pressed will also tell the group that they have several uncut gems that.
+
+Willing to trade with discount (10%) if the party was successful in helping them beat the devils
+If haggle
+
+Roll Nat1  = Full Price  
+     <10   = 0  
+     10-15 = +5%  
+     15-20 = +10%  
+     20+   = +15%  
+     Nat20 = +25%  
+
+| Item | Normal Cost | Minimum Cost |
+|------|-------------|--------------|
+| Adamantine Chain Shirt| 500gp | 35ogp |
+| Mithril ring mail | 800gp | 600gp|
+| 40 * Bolts +1 | 25gp | 20gp |
+| Scimitar +1 | 1000gp | 800gp |
+| Longsword +1 | 1000gp | 800gp |
+| Horn of Blasting | 450gp | 300gp |
+
 
 
 ####Evening
