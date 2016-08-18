@@ -47,7 +47,7 @@ Defended by 4 Dwarves
 1 Merchant  
 1 Dwarf Guard captain (Level 6 Fighter)  
 2 Dwarf Caravan guards (level 3 fighters)  
-3 bodies of dwarven guards
+3 bodies of dwarven guards  
 
 The Dwarves are holding their own and you can see the dissolving remains of maybe 3-4 other devils, but just as the party arrives an additional 
 
@@ -114,45 +114,60 @@ If success, mage makes Dex save DC 15, (1D20) if failed he tumbles to the ground
 
 If crashed into a party member that member passve perception 10+ You see he is sweating and panting heavily. His eys wide with fear. 
 
-He tries to scramble to his feet Dex roll (1D20)
-15+ He gets to his feet and tries to flee
-10+ He franticly tries to get to his feet but in his haste his limbs get tangled with yours and you are both grappled and prone.
-5+ He franticly tries to get to his feet but in his haste his limbs get tangled with yours and you are both grappled and prone, but in his attempts to get to his feet he accidently knees you in the groin. 1D4 damage
+He tries to scramble to his feet Dex roll (1D20)  
+15+ He gets to his feet and tries to flee  
+10+ He franticly tries to get to his feet but in his haste his limbs get tangled with yours and you are both grappled and prone.  
+5+ He franticly tries to get to his feet but in his haste his limbs get tangled with yours and you are both grappled and prone, but in his attempts to get to his feet he accidently knees you in the groin. 1D4 damage  
 
 Description
-Young male human, early 20's, long brown hair, lose and all tangled. Beads of sweat rolling down his face. His robes were once of a fine material but now they are tattered and dirty, long rips and missing pieces.
+Young male human, mid 20's, long brown hair, lose and all tangled. Beads of sweat rolling down his face. His robes were once of a fine material but now they are tattered and dirty, long rips and missing pieces, most of one sleave is missing probably having been caught on a tree as he was running
 
-If the party stops him from leaving:
-"Let me go!" "Let me go!" "They're going to get me!" 
-Grapple roll (1D20)
+If the party stops him from leaving:  
+"Let me go!" "Let me go!" "They're going to get me!"   
+Grapple roll (1D20)  
 
 If the party still hold him.   
-He is almost in tears, you can see his limbs are visibly trembling. He's been running for a while
-"Please, they are right behind me!"
+He is almost in tears, you can see his limbs are visibly trembling. He's been running for a while  
+"Please, they are right behind me!"  
 
-2 Hells wolves attack - 900xp
+2 Hells wolves attack - 900xp  
 
 ####Roland Zola
-After defeating the wolves.
-He slumps to the ground, breathing heavily, obviously exhausted. He looks up to you.
-"Thank you, I can't thank you enough." He takes a deep breath "That should give me time to get away. You should leave too. If you're this deep in they'll kill you 1st and ask questions later"
+After defeating the wolves.  
+He slumps to the ground, breathing heavily, obviously exhausted. He looks up to you.  
+"Thank you, I can't thank you enough." He takes a deep breath "That should give me time to get away. You should leave too. If you're this deep in they'll kill you 1st and ask questions later"  
 With that he tiredly clambers to his feet.
 
-If questioned
-"Look.. I thank you for defeating them but I can tarry here. The longer I wait the more chance more will find my trail. They don't take lightly to people leaving."
+If questioned  
+"Look.. I thank you for defeating them but I can tarry here. The longer I wait the more chance more will find my trail. They don't take lightly to people leaving."  
 
-"I'm just an lowly appentice mage looking for a subject for my Duolane dissitation (Angus - one of the many things a mages need to do to become a full fledged member of the Sages of the Arcane)
+"I'm just an lowly appentice mage looking for a subject for my Duoklau dissitation (Angus - one of the many things a mages need to do to become a full fledged member of the Sages of the Arcane although he appears old to still be on his Duoklau, its one of the 1st steps)  
 
-Insight check
+Insight check  
 
 Nat 20 -  Obviously lying, you can see his eyes darting side to side and more beads of sweat appearing on his brow. He is also clutching what you believe to be his focus. He's obviously an appentice mage but the Duolane was not the reason he was here.
-20+ Obviously lying, you can see his eyes darting side to side. He's obviously an appentice mage
-15+ He's not being totally honest with you
-10+ This is an unfortunate place and time to try to find a subject for his Duolane
+20+ Obviously lying, you can see his eyes darting side to side. He's obviously an appentice mage  
+15+ He's lying but your not sure what about  
+10+ He's not being totally honest with you but you don't know which is a lie and which is the truth    
+10+ This is an unfortunate place and time to try to find a subject for his Duolane  
 
- 
+Perception check DC 15+
+You see the edges of a tattoo under the torn sleave. You can make a grab for his arm to expose the tattoo. Grapple check (1D20)
+If failed: "Hey.. get off me..." and he starts backing away from the party and looks ready to bolt
+If success: As you lift the remains of the sleive away from his bicep you see the tattoo (previously seen on those who had taken over the tower)
 
+Persuasion DC 13+ or Intimidation DC 10+  
 
+"Look I know this doesn't look good but I can explain..... I was sent here to investigate what was going on. I'm the apprentice to Investigator Rensure. I need to get back to him to explain my findings. I'm sure if you let me go you'll be rewarded"
+
+Insight check DC
+
+20+ He's still lying to you. You get the feeling this is how he operates and probably why he's still an apprentice
+15+ He's lying to you still
+10+ Not totally being truthful.
+
+Persuasion DC 13+ or Intimidation DC 10+  
+"Ok.. ok... look. I am an apprentice in the Sage's of the Arcane, or maybe that should be was an apprentice. But it was clear they didn't understand me... I me look at me 24 and still trying to pass my Duoklau. Most who joined with me are already on their Decklau or have already been made members. 
 
 
 ###Temple
