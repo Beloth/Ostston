@@ -167,7 +167,36 @@ Insight check DC
 10+ Not totally being truthful.
 
 Persuasion DC 13+ or Intimidation DC 10+  
-"Ok.. ok... look. I am an apprentice in the Sage's of the Arcane, or maybe that should be was an apprentice. But it was clear they didn't understand me... I me look at me 24 and still trying to pass my Duoklau. Most who joined with me are already on their Decklau or have already been made members. 
+"Ok.. ok... look. I am an apprentice in the Sage's of the Arcane, or maybe that should be I was an apprentice. But it was clear they didn't understand me... I mean look at me, 24 and still trying to pass my Duoklau. Most who joined with me are already on their Decklau or have already been made members.  After they rejected my 3rd attempt at Duoklau I was approached by Yandlar. She said she had seen what was being done with me and that those old windbags were purposely holding me back, that it had been done to others as well in order for them to retain their standing in the guild. That change was needed and that a movement had begun and that I could become a leading figure. It started small at first, just passing on gossip about fellow appentices, those who might struggle under the same restrictions that I did, those who might be aminable to change.
+
+I thought nothing about it at first. I mean there are several movements going on at the University at all times. Its almost expected that you belong to a movement."
+
+He leans in closer and whispers
+
+"I mean, its rumoured that the leader of the movement was Ameria Mandel herself. I mean if the daughter of the headmistress was leading it, it can't be bad right?"
+
+Back to his normal voice
+
+"but I doubt that's true. I mean they lied about everything else. They finally got me back into the field and out of those boring lectures (he looks pointed at Angus at that point), but then the requests became more and more arduous, until I end up here.. in a cursed forrest, dealing with devil dogs and fanatical cultists worshiping some stone. I decided that this was not for me and waited for an oppertunity to leave"
+
+He looks disgusted with himself.
+
+"I should have known better..." He sighs "Look if I tell you everything I know will you let me go and not turn me in to the Sages? I'll head back and continue my studies and not cause any more trouble"
+
+If the party agrees
+
+"Ok.. we best move on though and find somewhere safe to hole up... more may be on my trail"
+
+####What Roland knows
+
+* Several groups working together. The break away mages, members taken from those who are unhappy with the Sages leadership. There is a cult group worshipping an Archdevil. A smaller group who seem to be mainly made up of Tieflings. The cultists and the devils seem to defer to the Teiflings but the mages leadership often clash with the Tieflings on what to do
+* The mages are trying to access a temple that is rumoured to be under the lake. 
+* The Cultist are intent on delivering souls to their devil masters
+* Who knows what the Tieflings are trying to do.
+* They are setting up orbs of power in 4 (NW, NE, SE, SW) locations around the lake. Once powered up they will opend a portal to the temple.
+* They have built forts around the orbs, all but 1 is completed and are stockpiling material to repair the temple.
+* Rumors are that the temple is not the end game. The temple will lead to another pocket dimension which the Archdevil wants to take over. That is the price he wants in order to grant the mages what they want. 
+* Close to completing the final orb and fort but will take time to power up. The orb is vulnerable while not powered, its very fragile at that stage but it's probably well defended. 
 
 
 ###Temple
