@@ -10,24 +10,26 @@ The party Enacted their plan to infiltrate the camp. They watched as the Packmas
 ####Pelarna
  She will attempt to escape (she is a rogue). If left in the house she will kill the guards and open a secret compartment to get a 2 daggers and a potion of invulnerability (looks like a metalic liquid) Also in the compartment is 2 Potion of Healing. She will try to flee towards the lake. She actually takes flight even though her wings do not seem to be large enough to bear her weight.
 
-####Return of the Packmaster
+####Return of the Packmaster - Difficulty - medium
 1 Packmaster + 2 Hell Wolves (Total 2000xp)
 
 ####Slaves
 What is the party going to do with the slaves?
 
-####Travelling on
+####Travelling on - Difficulty - medium
 Patrol - 4 Hell Wolves (Total 1800xp)
 Find a logging camp
 
-####Logging camp
+####Logging camp - Difficulty - easy
 A small clearing with about a dozen men cutting down trees and debranching trees that have been cut down. 2 others stick out who seem to be overseeing the whole camp.
 
-Bandit Captain (450xp)
-Cult Fanatic (450xp)
+Bandit Captain (450xp) - Scimitar +1
+Cult Fanatic (450xp) - Potion of Greater healing
 Several slaves cutting down trees
 
-####Dwarven trade caravan
+In the campsite small chest holding 50gp, 1 Potion of Healing and 1 scroll of Eldritch Blast (cantrip)
+
+####Dwarven trade caravan - Difficulty - medium
 As the group travels through the forest passive perception 15+ Something catches your attention, you motion for the rest of the group to stop and be quite, make a perception check.
 
 Perception check: 
@@ -45,6 +47,7 @@ Defended by 4 Dwarves
 1 Merchant  
 1 Dwarf Guard captain (Level 6 Fighter)  
 2 Dwarf Caravan guards (level 3 fighters)  
+3 bodies of dwarven guards
 
 The Dwarves are holding their own and you can see the dissolving remains of maybe 3-4 other devils, but just as the party arrives an additional 
 
@@ -67,8 +70,8 @@ Roll Nat1  = Full Price
 | Adamantine Chain Shirt| 500gp | 350gp |
 | Mithril ring mail | 800gp | 600gp|
 | 40 * Bolts +1 | 25gp | 20gp |
-| *Charged Scimitar | 100gp | 75gp |
-| Longsword +1 | 1000gp | 800gp |
+| *Charged Warhammer | 100gp | 75gp |
+| Warhammer +1 | 1000gp | 800gp |
 | Horn of Blasting | 450gp | 300gp |
 
 
@@ -84,6 +87,73 @@ You are floating infront of the same tower, the 4 eyed visage above. You suddenl
 If killed by other members of the party you see the images of those dead float past you into the tower.
 
 Mal wakes from the nightmare. Wings have grown to a 2 foot wing span. Disadvantage to any Dex based rolls as you are unuse to them. They throw off you're centre of balance. 1 week.
+
+###Fleeing mage - Difficulty - easy
+
+Passive perception DC 15. Roll perception check
+
+Nat 20 - You hear the noise of someone running in the forrest (heavy footsteps, twigs breaking, etc) coming from the NW and heading in your direction. You also hear the faint howls of Wolves (Hell)
+20+ You hear the noise of someone running in the forrest (heavy footsteps, twigs breaking, etc) coming from the NW and heading in your direction.
+15+ You hear noises from the NW heading in your direction
+10+ You hear some noises from the NW
+5+ Some noise sounded out of place and caught you attention but you couldn't pinpoint a direction
+
+A male, human mage crashes into the party. Roll D6 to determine who
+
+1 - Angus  
+2 - Cig  
+3 - Eli  
+4 - Little Claw  
+5 - Mal  
+6 - No one  
+
+Make a Dex save DC 15 if caught unaware, DC 10 if aware of direction
+
+If failed the mage crashes into you and you and him are knocked prone, take 1D4 damage
+If success, mage makes Dex save DC 15, (1D20) if failed he tumbles to the ground and is prone
+
+If crashed into a party member that member passve perception 10+ You see he is sweating and panting heavily. His eys wide with fear. 
+
+He tries to scramble to his feet Dex roll (1D20)
+15+ He gets to his feet and tries to flee
+10+ He franticly tries to get to his feet but in his haste his limbs get tangled with yours and you are both grappled and prone.
+5+ He franticly tries to get to his feet but in his haste his limbs get tangled with yours and you are both grappled and prone, but in his attempts to get to his feet he accidently knees you in the groin. 1D4 damage
+
+Description
+Young male human, early 20's, long brown hair, lose and all tangled. Beads of sweat rolling down his face. His robes were once of a fine material but now they are tattered and dirty, long rips and missing pieces.
+
+If the party stops him from leaving:
+"Let me go!" "Let me go!" "They're going to get me!" 
+Grapple roll (1D20)
+
+If the party still hold him.   
+He is almost in tears, you can see his limbs are visibly trembling. He's been running for a while
+"Please, they are right behind me!"
+
+2 Hells wolves attack - 900xp
+
+####Roland Zola
+After defeating the wolves.
+He slumps to the ground, breathing heavily, obviously exhausted. He looks up to you.
+"Thank you, I can't thank you enough." He takes a deep breath "That should give me time to get away. You should leave too. If you're this deep in they'll kill you 1st and ask questions later"
+With that he tiredly clambers to his feet.
+
+If questioned
+"Look.. I thank you for defeating them but I can tarry here. The longer I wait the more chance more will find my trail. They don't take lightly to people leaving."
+
+"I'm just an lowly appentice mage looking for a subject for my Duolane dissitation (Angus - one of the many things a mages need to do to become a full fledged member of the Sages of the Arcane)
+
+Insight check
+
+Nat 20 -  Obviously lying, you can see his eyes darting side to side and more beads of sweat appearing on his brow. He is also clutching what you believe to be his focus. He's obviously an appentice mage but the Duolane was not the reason he was here.
+20+ Obviously lying, you can see his eyes darting side to side. He's obviously an appentice mage
+15+ He's not being totally honest with you
+10+ This is an unfortunate place and time to try to find a subject for his Duolane
+
+ 
+
+
+
 
 ###Temple
 
