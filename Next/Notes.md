@@ -39,31 +39,87 @@ Perception check:
                  10+ You briefly thought you heard so shouts but it was so short you weren't able to pinpoint a direction  
                  5+ Was probably nothing.  
                  
-On one of the main trails through the forrest is a Dwarven trade caravan being attacked by:
 
-1 Packmaster + 2 Hellwolves (2000xp)
+As you head towards the shouts and sounds of battle you stumble across the a visablly injured Hell Wolves standing over a body. A quick look around reveals the rapidly disolving body of another wolf.
 
-Defended by 4 Dwarves  
-1 Merchant  
-1 Dwarf Guard captain (Level 6 Fighter)  
-2 Dwarf Caravan guards (level 3 fighters)  
-3 bodies of dwarven guards  
+####Dead body
 
-The Dwarves are holding their own and you can see the dissolving remains of maybe 3-4 other devils, but just as the party arrives an additional 
+Male Dwarf.
 
-1 Packmaster + 2 Hell wolves (2000xp)
+Investigation check
 
-They are headed to Iradell (avoiding Ostston so not to have to pay the new tax). Taking metal works as well as some refined metals. If pressed will also tell the group that they have several uncut gems that. (Garnets * 10 (100gp), Topaz * 5 (500gp), Star Ruby *2 (1000gp) Ruby (5000gp)
+Nat 20. Relatively young Dwarf with red hair and a plaited beard. From the tracks it did not seem like he was retreating from the battle but delibarately leading the wolves away. The numerous wounds on his body indicates that the 2 wolves you see here are unlikely the only ones he fought. Likely to have found 4+ wolves and a closer look reveals what appears to be wounds from a whip.  
+20+ Relatively young Dwarf with red hair and a plaited beard. From the tracks it did not seem like he was retreating from the battle but delibarately leading the wolves away. The numerous wounds on his body indicates that the 2 wolves you see here are unlikely the only ones he fought. Likely to have found 4+ wolves  
+15+ Relatively young Dwarf with red hair and a plaited beard. From the tracks it did not seem like he was retreating from the battle but delibarately leading the wolves away. The numerous wounds on his body indicates that the 2 wolves you see here are unlikely the only ones he fought.  
+10+ Relatively young Dwarf with red hair and a plaited beard. From the tracks it did not seem like he was retreating from the battle but delibarately leading the wolves away.
 
-Willing to trade with discount (10%) if the party was successful in helping them beat the devils
-If haggle
+Greataxe, chain mail, 35gp
 
-Roll Nat1  = Full Price  
-     <10   = 0  
-     10-15 = +5%  
-     15-20 = +10%  
-     20+   = +15%  
-     Nat20 = +25%  
+Survivablility check to follow the trail DC 10 to follow the trail, 18+ you see spots where the young dwarf had stopped encourage the wolves to follow him as well as to do battle. Several places could well be where wolves have died.
+
+####Clearing
+
+You arrive just a visibly injured Dwarf raises his Warhammer above his head and with a battle cry smashes down on the head of the packmaster at his feet, pulping its head. As the devil dissolves the dwarf stumbles and falls to his knee. Using the warhammer as a crutch barely catches himself from face planting.
+
+The clearing is strewn with the bodies of several other dwarves as well several mules/donkeys.
+
+As the dwarf hears you approach he glances up and glares at you. With a grunt of pain he forces himself to his feet, hefts his warhammer and sets his shield. He stares at Mal..  
+
+"More of you devil bastards! Come on then! There's still 1 dwarf that draws breath here!" 
+
+Persuasion check DC 14 if Not Mal, DC 20 if Mal  
+
+If failed the Dwarf charges Mal
+If success
+
+The dwarf sinks to his knees again dropping his shield. and clutching his side. Passive perception 10+ sees the blood spreading from beneath his hand.
+
+"No... no time... you must find Jarnol. He headed south west hoping to get out of this acursed forrest. He took the heartstone to keep it from these devils." 
+
+He starts coughing up blood. You realise what it must have cost him to rise to his feet and he's paying for his defiance now.  
+
+"Get after them.. they must'nt get the heartstone". He points towards the forest to the south west. 
+
+Surviablity DC 10+ to follow the trail.
+
+15 minutes of following the trail you find the body of a dwarf badly mauled  
+Surviability DC 10+
+
+15 minutes of following the trai you find another body this time with his head sliced off.
+Surviability DC 10+
+
+10 minutes following the trail, passive perception 15+ something caught you attention up ahead but you couldn't make out exactly what it was. Perception check 13+
+
+Sounds of a battle up ahead.  
+
+If they sneak, battle finished and 2 dwarves dead.
+
+See a tiefling searching a body while 2 fanatics standing next to him and 1 pack master + 2 wolves.
+
+If they charge ahead, battle still going
+
+1 dwarf trying to hold off a pack master and 2 wolves. He kills one of the wolves but takes a bad wound from the pack master
+
+Another dwarf has just finished kill 1 wolf and battling another. He is clutching a sack in one hand
+
+As the party engages perception check. DC 15+ You see a flicker behind the dwarf and a tiefling appears and the dwarf's eyes widen in surprise, his mouth goes slack and the sack falls from his hands. The tiefling grabs the bag and flickers out.
+
+
+
+
+
+#####Reason for the dwarven trade caravan
+
+They were approached my a member of Sages of the Arcane. They were going to be building a hall at the University and wanted the dwarves to craft them a heartstone to a certain specification. It was suggested the we head though the forrest to avoid Ostston duties.
+
+Arcane check
+
+Nat 20: A heartstone is a powerful magical artifact. It acts as the centre or heart of a warding scheme. The more complex a warding scheme the bigger the heart needs to be. There are several flavours of heartstone, for example dwarven made ones tend to complement a rigid scheme, one achored in stone or earth. Elven made ones are more flexible and better in natural, living enviroments. Powering a heartstone takes time as it generally absorbs some of the surrounding magical energy and slowly gains strength however it is possible to push power in to it but this should be done with great care as if too much power is pushed too quickly there can be unforseen consequences  
+20+ A heartstone is a powerful magical artifact. It acts as the centre or heart of a warding scheme. The more complex a warding scheme the bigger the heart needs to be. There are several flavours of heartstone, for example dwarven made ones tend to complement a rigid scheme, one achored in stone or earth. Elven made ones are more flexible and better in natural, living enviroments.  
+15+ A heartstone is a powerful magical artifact. It acts as the centre or heart of a warding scheme. The more complex a warding scheme the bigger the heart needs to be.  
+10+ A heartstone is a powerful magical artifact. It acts as the centre or heart of a warding scheme.
+
+
 
 | Item | Normal Cost | Minimum Cost |
 |------|-------------|--------------|
