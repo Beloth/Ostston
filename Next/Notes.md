@@ -42,14 +42,12 @@ The Senior Scribe sees you "And what do you want!"
 |Identify|1|100gp|0|
 |Find Familiar|1|150gp|0|
 |Magic Missile|1|100gp|2|
-|Magic Weapon|2|200gp|1|
 |Locate Object|2|250gp|1|
 |Web|2|200gp|1|
 |Blink|3|360gp|1|
 |Counterspell|3|400gp|2|
 |Magic Circle|3|400gp|1|
 |Slow|3|425gp|1|
-|Misty Step|2|250gp|1|
 |Grease|1|150gp|1|
 
 Scroll of Catapult that Angus ordered (150gp)
