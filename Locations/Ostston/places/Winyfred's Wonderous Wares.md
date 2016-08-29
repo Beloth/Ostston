@@ -25,7 +25,7 @@ Number | Name | Cost
 |1|Potion of Fire Resistance|300gp|
 |1|Ring of Protection (+1)|3500gp|
 |1|Shield +1|1500gp|
-|10|+1 Arrows|25gp|
+
 
 #####Books
 History of Ostston
