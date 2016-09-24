@@ -1,4 +1,4 @@
-#Next Session - 30th June
+#Next Session No 27 - 28th Sept
 
 ###Last Session
 
