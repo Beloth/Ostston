@@ -1,4 +1,4 @@
-Session 22
+Session 23
 
 
 After finishing questioning Pelarna, the party decides to rest up. They set a cuople of the enslaved guards to watch Pelarna in the store room while the rest are used as looksouts while the the party rests. Angus and Mal are awoken by a thud coming from the storeroom and as the emerge they see Pelarna fleeing. As she takes flight Angus managed to get off a spell but she manages to shrug the damage off before escaping his range. Angus sends Caid to follow until she meets up with something. With that the party decides its a good time to leave. They gather the slaves up andbut before they march them back to the portal, Eli sneaks forward to take out the ravens believed to be imp in disguise.
