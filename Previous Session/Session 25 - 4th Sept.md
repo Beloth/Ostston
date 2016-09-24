@@ -1,1 +1,3 @@
-Session 25
+##Session 25
+
+Party heads back to the forest. They find a blood trail leading to the body of Rebel, the wolf companion of Eli's uncle Eldorin. They take the body to the den that they stayed with Eldorin during their 1st visit. Unfortunately Eldorin wasn't there so they bury Rebel. They then decide to head towards the lake. On the way there stumble across a fleeing mage who is being chased by Hell Wolves. After defeating the wolves they question the mage who gave lots of useful information including the fact that they are trying to raise the temple that is beneath the lake. They are also planning on to ambush a Dwarven caravan taking a Heart Stone to the University. The party decide to try to ambush the ambushers. They travel quickly avoiding as muuch confrontation as possible and enter the area where they believe the ambush would take place.
