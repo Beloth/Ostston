@@ -12,6 +12,43 @@ They defeat them all with the loss of 2 of the Dwarven guards. The remaining gua
 ####Clearing
 While resting the Dwarven warrior finally catches up with the party. As he enters the clearing he spots the party resting and his eyes falls on the body of the dwarf. Seeing no enemies he drops his weapon and heads towards the body where he drops to his knees, places his hand on the chest of the dwarf and shuts his eyes. After a minute of silent pray over the body where you can see the conflicting emotions on his face he gathers himself. "You will be avenged!"  
 
+#####Tharlin Ironhammer
+* Stern
+* Angry at the death of his cousin
+* Oath of Vengance against his killers
+* Suspicious of the Sages of the Arcane
+
+
+It was our contact within the Sages that told us to avoid Ostston. She described the troubles in the city and surrounding countryside and told us that while longer, it would be safer to avoid such areas. They have alot to answer for. When then clan leaders hear about this there will be consequences.
+
+But 1st we must get back the Heart Stone. You seem to know what's going on. Where do you think they will take it?
+If they talk about the south west fort. 
+
+"You mean near the old ruin? You mean they're rebuilding that? I thought it was cursed? That whole area is.. haven't you heard the tales? The lake sits where there used to be a large town which was destoryed ages ago. Some say a mad mage destoryed it when he tried to empower an ancient artifact, others say that it was taken into another dimension. Whatever the actual cause there was a huge magical backlash that destoryed the surrounding area and created a huge crater which eventually filled in to form the lake.
+
+I could join you.... or I could head back to Dar Thak and gather some of the lads.
+
+####Heading to the South West Fort.
+
+Encounter with a Barbed Devil (1800xp)
+
+####South West Fort
+
+The fort is not temporary structure. You can see the stones buildings being created centering around a multi-storey tower. It all looks incomplete but the tower is already 2 storeys high with a 3rd level being built. There is also the beginings of a stone wall being built around the fort, replacing what seems to be a temporary wooden wall.
+
+* Quite a few sentries. 
+* Mixture of devils and other races (cultists, slaves, tieflings and mages)
+* Be hard to sneak in.
+
+####Eldorin
+
+A [Common_Chaffinch] (http://identify.whatbird.com/img/4/63082/image.aspx?x=322) swoops down towards Eli. It lands in front of Eli, open's its beak and the voice of Eldorin speaks
+
+"Eli come quick. Found where they are holding some of our tribe. South West of the lake. By the old ruins. Meet there"
+
+
+
+
 #####Reason for the dwarven trade caravan
 
 They were approached my a member of Sages of the Arcane. They were going to be building a hall at the University and wanted the dwarves to craft them a heartstone to a certain specification. It was suggested the we head though the forrest to avoid Ostston duties.
