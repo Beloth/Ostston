@@ -28,6 +28,14 @@ If they talk about the south west fort.
 
 I could join you.... or I could head back to Dar Thak and gather some of the lads.
 
+
+
+####Eldorin
+
+A [Common_Chaffinch] (http://identify.whatbird.com/img/4/63082/image.aspx?x=322) swoops down towards Eli. It lands in front of Eli, open's its beak and the voice of Eldorin speaks
+
+"Eli come quick. Found where they are holding some of our tribe. South West of the lake. By the old ruins. Meet there"
+
 ####Heading to the South West Fort.
 
 Encounter with a Barbed Devil (1800xp)
@@ -40,11 +48,23 @@ The fort is not temporary structure. You can see the stones buildings being crea
 * Mixture of devils and other races (cultists, slaves, tieflings and mages)
 * Be hard to sneak in.
 
-####Eldorin
+####Meeting Eldorin
 
-A [Common_Chaffinch] (http://identify.whatbird.com/img/4/63082/image.aspx?x=322) swoops down towards Eli. It lands in front of Eli, open's its beak and the voice of Eldorin speaks
+* "I've found were some of our tribe are being held. They are in the dungeon under the main tower."
+* "I managed to sneak in though some of the old sewer tunnels. I don't think they know about them all"
+* "Your tiefling said that I had an important mission to find the survivors of our tribe. So I left Rebel to guard your portal while I continued with my important mission"
+* I snuck in as a rat. Heavily guarded but I managed to get to the centeral tunnel. Unfortunately there was some sort of magical ward in the tower which forced me back into my normal state.
+* I avoided detection by heading to the lower levels where a patrol forced me into a chute which dropped to the sewers.
+* Leads you to the edge of the river where he bushes aside some undergrowth revealing the enterance to a tunnel. It had been so overgrown that you would never have noticed it.
 
-"Eli come quick. Found where they are holding some of our tribe. South West of the lake. By the old ruins. Meet there"
+####Under the fort
+
+* The enterance has the remains of a metal grate that would have prevented you from entering had it not been so corroded. It has a big enough gap to allow the smaller members through with ease. The larger members can try to get through with an acrobatics or athletics roll inorder to contort themselves through DC10. Or strength roll to pry it open further DC10
+* Although the tunnel was probably at some point the sewer run off that lead to the river it is now totally dry.
+* After about 15 mins you get to the end of the tunnel that appears to be partially blocked by a cave in. Again the small members can crawl through without harm. Others Athletics check to squeeze thorugh DC10 (failed 1d4 damage).
+* Leads to a cave maybe 30x30ft. As you step into the cave you hear a crunching noise under your feet. As you look down you see bones... alot of bones. You look up to see Eldorin heading to the middle of the cave were there appears to be a small mound.. a small mound of bodies. 
+* There is also a dangling rope. Looking up you see the faint outline of a trap door. Maybe 40-50 ft. Up
+
 
 
 
