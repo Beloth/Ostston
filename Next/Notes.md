@@ -2,9 +2,14 @@
 
 ###Last Session
 
-Little Claw searches of mules and they head in that direction. On the way the party find a trail at the end of which they find a group of hell wolves surrounding the body of a dwarf. After defeating the wolves they search the body to find it was clutching a leather pouch hold a normal stone. The decide that this dwarf was obviously trying to act as a decoy and the head back up the trail. They find the original ambush site where several dwarves are fighting a pack master, several wolves and imps.
+* Defeated a Barbed Devil
+* Slept in Angus's magical house. When they walk out they see a small bird waiting for them. When Eli emerges the bird talks to her in her Uncle's voice tell her that he had found some of their tribe at to meet him her the old ruins
+* They find him and he directs them to an old tunnel/sewer. Leading them through you found a cavern under the rebuilt ruin where there appears to ba a mound of bodies and bones. Dangling from the ceiling is a rope from what appears to be a trap door.
+* 2 Carrion Crawlers 
+* Uncle Eldorin leads you up and seems in a hurry to find the members of his tribe. He waits impataintly as Caid scouts ahead and once the all clear is given runs off ahead.
+* The party follows but Eldorin gains a lead over them and vanishes into a room and out of sight. As the party enters the room a solid stone slab drops and blocks the enterance. They try to exit through the door opposite but slam into something solid
+*
 
-They defeat them all with the loss of 2 of the Dwarven guards. The remaining guard points them in the direction where the true Heart Stone had been taken. The party follows the it till they find a a dead body with several cultists, wolves and imps. 1 of the imps grabs a package from the dead body and instantly turns invisible. The party defeats the rest of the opposion but does know where the imp with the package went.
 
 
 ###This Session
