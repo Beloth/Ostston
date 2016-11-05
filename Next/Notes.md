@@ -8,95 +8,40 @@
 * 2 Carrion Crawlers 
 * Uncle Eldorin leads you up and seems in a hurry to find the members of his tribe. He waits impataintly as Caid scouts ahead and once the all clear is given runs off ahead.
 * The party follows but Eldorin gains a lead over them and vanishes into a room and out of sight. As the party enters the room a solid stone slab drops and blocks the enterance. They try to exit through the door opposite but slam into something solid
-*
-
+* A Female half elf appears and monologs at the party. Part way thorugh the speech Uncle Eldorin appears beside her and she starts to pet his hair. The party notices a collar around his neck. She then leaves them with Eldorin following her
+* The runes around the room started to glow and slowly the life starts to drain from the party. You started to inspect the runes to try and find how to escape. Magic didn't seem to work as any spell just fizzed out. Not only that but the mage hand glove that Angus made lost its magic when Cig tried to use it within the room.
+* Destroyed the runes in a certain order to free yoursef and the try to pry the door open as the glowing crystal in the middle start to glow brighter. You hear Tharlin on the other side help you. You manage to raise the slab enough to crawl thorugh before it slams down again and there is an explosion within the room. 
 
 
 ###This Session
 
-####Clearing
-While resting the Dwarven warrior finally catches up with the party. As he enters the clearing he spots the party resting and his eyes falls on the body of the dwarf. Seeing no enemies he drops his weapon and heads towards the body where he drops to his knees, places his hand on the chest of the dwarf and shuts his eyes. After a minute of silent pray over the body where you can see the conflicting emotions on his face he gathers himself. "You will be avenged!"  
+####Outside the ritual room
 
-#####Tharlin Ironhammer
-* Stern
-* Angry at the death of his cousin
-* Oath of Vengance against his killers
-* Suspicious of the Sages of the Arcane
-
-
-It was our contact within the Sages that told us to avoid Ostston. She described the troubles in the city and surrounding countryside and told us that while longer, it would be safer to avoid such areas. They have alot to answer for. When then clan leaders hear about this there will be consequences.
-
-But 1st we must get back the Heart Stone. You seem to know what's going on. Where do you think they will take it?
-If they talk about the south west fort. 
-
-"You mean near the old ruin? You mean they're rebuilding that? I thought it was cursed? That whole area is.. haven't you heard the tales? The lake sits where there used to be a large town which was destoryed ages ago. Some say a mad mage destoryed it when he tried to empower an ancient artifact, others say that it was taken into another dimension. Whatever the actual cause there was a huge magical backlash that destoryed the surrounding area and created a huge crater which eventually filled in to form the lake.
-
-I could join you.... or I could head back to Dar Thak and gather some of the lads.
+* Several bodies of cultists laying around. Looks like Tharlin was ambushed after the slab came down but he dealt with them. 
+* One appears to be still alive but barely.
+* Passive perception 15+ make a perception check DC20.
+  * You see a the walls closest to the room take on a faint glow.
+  * Investigation check dc15+ You see runes starting to appear on the walls.
+* Timer starts 30 mins
 
 
+#####What the alive cultist knows
 
-####Eldorin
+* Chuckles 
+* Ritual hear to power the portal to the temple. Just needed one more boost which the party was going to give
+* Portal room at the top of the tower.
+* Opening the portal will drain the life force of everyone in the tower that is not in the portal room
+* All the alive slaves in the tower will be sent through the portal to the temple.
+* Cultist after a time will kill himself. Passive perception 15+ make a perception check DC15.
+  * Success notice that the cultist is moving his hand and can shout a warning
+  * The cultist swings his arm. If warned the person in front has a reaction
+  * Cultist shouts "In the master's name" and jams a hidden blade into his own throat
+  
+####Journey to the Portal Room
 
-A [Common_Chaffinch] (http://identify.whatbird.com/img/4/63082/image.aspx?x=322) swoops down towards Eli. It lands in front of Eli, open's its beak and the voice of Eldorin speaks
+####Portal Room
 
-"Eli come quick. Found where they are holding some of our tribe. South West of the lake. By the old ruins. Meet there"
-
-####Heading to the South West Fort.
-
-Encounter with a Barbed Devil (1800xp)
-
-####South West Fort
-
-The fort is not temporary structure. You can see the stones buildings being created centering around a multi-storey tower. It all looks incomplete but the tower is already 2 storeys high with a 3rd level being built. There is also the beginings of a stone wall being built around the fort, replacing what seems to be a temporary wooden wall.
-
-* Quite a few sentries. 
-* Mixture of devils and other races (cultists, slaves, tieflings and mages)
-* Be hard to sneak in.
-
-####Meeting Eldorin
-
-* "I've found were some of our tribe are being held. They are in the dungeon under the main tower."
-* "I managed to sneak in though some of the old sewer tunnels. I don't think they know about them all"
-* "Your tiefling said that I had an important mission to find the survivors of our tribe. So I left Rebel to guard your portal while I continued with my important mission"
-* I snuck in as a rat. Heavily guarded but I managed to get to the centeral tunnel. Unfortunately there was some sort of magical ward in the tower which forced me back into my normal state.
-* I avoided detection by heading to the lower levels where a patrol forced me into a chute which dropped to the sewers.
-* Leads you to the edge of the river where he bushes aside some undergrowth revealing the enterance to a tunnel. It had been so overgrown that you would never have noticed it.
-
-####Under the fort
-
-* The enterance has the remains of a metal grate that would have prevented you from entering had it not been so corroded. It has a big enough gap to allow the smaller members through with ease. The larger members can try to get through with an acrobatics or athletics roll inorder to contort themselves through DC10. Or strength roll to pry it open further DC10
-* Although the tunnel was probably at some point the sewer run off that lead to the river it is now totally dry.
-* After about 15 mins you get to the end of the tunnel that appears to be partially blocked by a cave in. Again the small members can crawl through without harm. Others Athletics check to squeeze thorugh DC10 (failed 1d4 damage).
-* Leads to a cave maybe 30x30ft. As you step into the cave you hear a crunching noise under your feet. As you look down you see bones... alot of bones. You look up to see Eldorin heading to the middle of the cave were there appears to be a small mound.. a small mound of bodies. 
-* There is also a dangling rope. Looking up you see the faint outline of a trap door. Maybe 40-50 ft. Up
-
-
-
-
-
-#####Reason for the dwarven trade caravan
-
-They were approached my a member of Sages of the Arcane. They were going to be building a hall at the University and wanted the dwarves to craft them a heartstone to a certain specification. It was suggested the we head though the forrest to avoid Ostston duties.
-
-Arcane check
-
-Nat 20: A heartstone is a powerful magical artifact. It acts as the centre or heart of a warding scheme. The more complex a warding scheme the bigger the heart needs to be. There are several flavours of heartstone, for example dwarven made ones tend to complement a rigid scheme, one achored in stone or earth. Elven made ones are more flexible and better in natural, living enviroments. Powering a heartstone takes time as it generally absorbs some of the surrounding magical energy and slowly gains strength however it is possible to push power in to it but this should be done with great care as if too much power is pushed too quickly there can be unforseen consequences  
-20+ A heartstone is a powerful magical artifact. It acts as the centre or heart of a warding scheme. The more complex a warding scheme the bigger the heart needs to be. There are several flavours of heartstone, for example dwarven made ones tend to complement a rigid scheme, one achored in stone or earth. Elven made ones are more flexible and better in natural, living enviroments.  
-15+ A heartstone is a powerful magical artifact. It acts as the centre or heart of a warding scheme. The more complex a warding scheme the bigger the heart needs to be.  
-10+ A heartstone is a powerful magical artifact. It acts as the centre or heart of a warding scheme.
-
-
-
-| Item | Normal Cost | Minimum Cost |
-|------|-------------|--------------|
-| Adamantine Chain Shirt| 500gp | 350gp |
-| Mithril ring mail | 800gp | 600gp|
-| 40 * Bolts +1 | 25gp | 20gp |
-| *Charged Warhammer | 100gp | 75gp |
-| Warhammer +1 | 1000gp | 800gp |
-| Horn of Blasting | 450gp | 300gp |
-
-
+#####Uncle Eldorin
 
 ####Evening
 
