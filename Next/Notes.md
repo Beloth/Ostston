@@ -75,7 +75,7 @@ As the encounter ends the crystal's glow is dying out and the portal is flickeri
 ####The portal travel.
 
 * the first few through
-  * You've travelled via portal before and that was instantaneously but this one is different you feel like you are travelling fast though a long tunnel (imagine stargate travel). You see an opening which you assume is the exit but instead on passing through you actuall bounce off and vector off through another shorter tunnel and thrown out.
+  * You've travelled via portal before and that was instantaneously but this one is different you feel like you are travelling fast though a long tunnel (imagine stargate travel https://www.youtube.com/watch?v=kcyA1kp_1sA). You see an opening which you assume is the exit but instead on passing through you actuall bounce off and vector off through another shorter tunnel and thrown out.
     * Arobatics or Dex save DC15+ 
       * Failed 1D6 damage as you fall 10ft from the opening and fail to long properly
       * Success half damage
@@ -85,7 +85,28 @@ As the encounter ends the crystal's glow is dying out and the portal is flickeri
     * Arobatics or Dex save DC10+ 
       * Failed 1D4 damage as you fall 10ft from the opening and fail to long properly
       * Success no damage.
-  
+* Arcana check DC15+ You remember that the temple was protected and only the leader of the mages could break through to travel there. Obviously she had come up with a way to get the portal through the protection but with only Eldorin's life force powering it it must of not been enough and the portal exited as close as possible. In fact you're kind of amazed that that actually happened... thinking about it, its was more likely that you would have gone splat against the protection or been lost in the void...
+
+####Temple Cavern
+* Huge cavern. Damp, you can hear the sound of dripping. Large stalagmites and stalagtites would dominate you view if it wasn't for the gigantic building in the distance.
+* Stone building with several towers. There's an odd green glow eminating from the stones work.
+* Pools of brackish water.
+* Maybe an hours travel from the enterance of the temple.
+
+#####Travel to the temple.
+
+* Easy encounter
+
+####Temple Enterance
+
+####Eli's dream during the next long rest
+
+Your dreams are disturbed by visions of Blackpine Forest. You see several trails through the forest that you recognise but many more that you don't. Of long walks trough the forest where you learn of its secrets. You see yourself approching several different beast calmly reaching out to pet, to talk, to embace them. You feel the power of nature course through you as you sit in a peaceful glen.
+
+
+
+
+
 
 ####Evening
 
