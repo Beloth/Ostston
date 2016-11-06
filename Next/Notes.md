@@ -31,7 +31,7 @@
 * Ritual hear to power the portal to the temple. Just needed one more boost which the party was going to give
 * Portal room at the top of the tower.
 * Opening the portal will drain the life force of everyone in the tower that is not in the portal room
-* All the alive slaves in the tower will be sent through the portal to the temple.
+* Some of slaves in the tower will be sent through the portal to the temple other will die to empower the tower.
 * Cultist after a time will kill himself. Passive perception 15+ make a perception check DC15.
   * Success notice that the cultist is moving his hand and can shout a warning
   * The cultist swings his arm. If warned the person in front has a reaction
@@ -39,9 +39,53 @@
   
 ####Journey to the Portal Room
 
+* All the walls are starting to glow. The runes are becoming more noticable.
+* Passive Perception DC10+ hear the sounds of steps in unison.
+* If follow see the end of a column of the slaves marching up the stairs followed by a couple of the cultists.
+
+
 ####Portal Room
 
+4 Altars with bodies on them. Their chests have been opened up and glowing crystals are next to their beating hearts. Eli and anyone with passive perception of 15+ notices that one of the bodies is Uncle Eldorin
+
+Encounter 
+
+2 Cultist, 2 * 150 = 300  
+4 imps, 4 * 100 = 400  
+1 Bearded Devil, 1 * 700 = 700  
+
+Total = 1,400xp  
+
+As the encounter ends the crystal's glow is dying out and the portal is flickering and reducing in size. Eldorin is looking at Eli and trying to reach out with his hand.
+
 #####Uncle Eldorin
+
+* "I'm so sorry little one." You see blood dribbling from his mouth.
+* Any healing spell cast on his causing him to cry out in agony. You see the wounds try to heal but after a second they re-open and the crystal momentarily brighten.
+* "I thought I could protect myself but she was too strong."
+* "Its too late fore me but I saw several of your cousins go though the portal. They will be used in whatever ritual she has planned on the other side. You must rescue them"
+* "I can hold on long enough for you to go though the portal".
+* He reaches up and pushes a stray hair and tucks it over your ear and you are reminded of all the times he had done that in your childhood.
+* "Be strong... I will always be with you." He pulls your head down and places a bloodied kiss upon your forehead. 
+  * Perception check dc12+ As he pulls back you see his eyes glow briefly.
+* "Now go!" He lays back on the stone altar and screws his face in concentration and the crystal begins to glow brighter and the portal aperture grows. 
+* As you approach the portal he screams in rage and the portal opens wide enough to travel though.
+* You spare a brief look back you see him looking at you and smile through the pain. Just as you walk backwards though the portal you see his eyes glaze over as his body begin to disintergrate and turn into ash and the portal begins to shrink again
+
+####The portal travel.
+
+* the first few through
+  * You've travelled via portal before and that was instantaneously but this one is different you feel like you are travelling fast though a long tunnel (imagine stargate travel). You see an opening which you assume is the exit but instead on passing through you actuall bounce off and vector off through another shorter tunnel and thrown out.
+    * Arobatics or Dex save DC15+ 
+      * Failed 1D6 damage as you fall 10ft from the opening and fail to long properly
+      * Success half damage
+    * When you land you see the portal exit flicker and move to the ground 15ft away  
+* Last 3 are thrown out of the portal 
+  * You've travelled via portal before and that was instantaneously but this one is different you feel like you are travelling fast though a long tunnel (imagine stargate travel). You feel as sharp turn and you are thrown out  
+    * Arobatics or Dex save DC10+ 
+      * Failed 1D4 damage as you fall 10ft from the opening and fail to long properly
+      * Success no damage.
+  
 
 ####Evening
 
