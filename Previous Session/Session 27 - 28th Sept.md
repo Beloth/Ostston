@@ -1,0 +1,9 @@
+* Defeated a Barbed Devil
+* Slept in Angus's magical house. When they walk out they see a small bird waiting for them. When Eli emerges the bird talks to her in her Uncle's voice tell her that he had found some of their tribe at to meet him her the old ruins
+* They find him and he directs them to an old tunnel/sewer. Leading them through you found a cavern under the rebuilt ruin where there appears to ba a mound of bodies and bones. Dangling from the ceiling is a rope from what appears to be a trap door.
+* 2 Carrion Crawlers 
+* Uncle Eldorin leads you up and seems in a hurry to find the members of his tribe. He waits impataintly as Caid scouts ahead and once the all clear is given runs off ahead.
+* The party follows but Eldorin gains a lead over them and vanishes into a room and out of sight. As the party enters the room a solid stone slab drops and blocks the enterance. They try to exit through the door opposite but slam into something solid
+* A Female half elf appears and monologs at the party. Part way thorugh the speech Uncle Eldorin appears beside her and she starts to pet his hair. The party notices a collar around his neck. She then leaves them with Eldorin following her
+* The runes around the room started to glow and slowly the life starts to drain from the party. You started to inspect the runes to try and find how to escape. Magic didn't seem to work as any spell just fizzed out. Not only that but the mage hand glove that Angus made lost its magic when Cig tried to use it within the room.
+* Destroyed the runes in a certain order to free yoursef and the try to pry the door open as the glowing crystal in the middle start to glow brighter. You hear Tharlin on the other side help you. You manage to raise the slab enough to crawl thorugh before it slams down again and there is an explosion within the room. 
