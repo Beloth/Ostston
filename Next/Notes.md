@@ -66,14 +66,24 @@
   * If the party waits they will see the same ghost appear and restart their final fight.
 * Passive perception 15+ 
   * You hear low mutterings coming from the ahead of you.
-  * You see a robed female ghostly form walking in front of you. She seems to be trying to comfort the battling ghosts. Moving from ghostly battle to ghostly battle.
-  * Perception check vs stealth. If she hears the party she turns towards them. Her eyes widden as she takes in your alive status. She moves towards you.. "You must leave.. you are not safe here.." 
-    * If the party took the statue from the ruins, she tilts her head and turns to the person holding it. "You are not one of hers yet you hold her symbol... the symbol that was taken from here to continue her worship..." Her eyes
+  * You see a robed female ghostly form walking in front of you. She seems to be trying to comfort the battling ghosts. Moving from ghostly battle to ghostly battle. Closer look she is a woof elf dressed in ornate robes
+  * Perception check vs stealth. If she hears the party she turns towards them. Her eyes widden as she takes in your living status. You can see that is has been crying and the when the tears drip from her face they disappear into the ether. She moves towards you.. "You must leave.. you are not safe here.." 
+    * If the party took the statue from the ruins, she tilts her head and turns to the person holding it. "You are not one of hers yet you hold her symbol... the symbol that was taken from here to continue her worship..." The tears stop and you notice her eyes start to gleam... "That does not belong to you"
+      * Need to pursuade her not to attack. If successful she leads you to her office
+      * If failed she attacks. Before she dies she will flee to her office
   
 
 #####Office of Floryn Fernwood
 
-* Female woof elf dressed in ornate robes.
+* Name is Floryn Fernwood. Head cleric to Mielikki. 
+  * I was the head cleric here when the fall came.
+* We were too prideful... to sure in our favour with her and that was our downfall. We felt that we were uncorruptable
+* We were infiltrated by a cult. A cult of devil worshippers called the Cult of Malchar. They started out in the village outside the temple but slowly they made their way in.
+* Their target was the Orb of Mielikki in the basement of the temple and the source of our power. With that they ripped the temple out and cast it to this plane. 
+* Caused the village to be moved to another plane. One that would be untracable to others.
+
+####Prisoner 
+* Archanist Shaniera
 
 
 
