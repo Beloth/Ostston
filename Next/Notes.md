@@ -30,7 +30,9 @@
   * 10+ find a opening leading to a cellar which is full of mushrooms (farm?)
   * 12+ Water storage system?
   * 14+ Grave site - maybe 40+ graves - religous check DC10+ markings to Mielikki goddess of the forest
-* Investigation of the main building finds a study in the main building. Ornate desk. Remains of a skeleton sitting at the desk. Perception 10+ there is a dagger just under the desk. Several journals on a shelf plus one on the desk.
+* Investigation of the main building. 
+  * main room contains a small altar with a silver statue of a unicorn with a goldern horn and small saphaires for eyes. Religion check DC10+ Statue to Mielikki (my-LEE-kee) - the goddess of autumn, druids, dryads, forests, forest creatures, and rangers. Her symbol is a gold-horned, blue-eyed unicorn's head facing left
+  * A study in the main building. Ornate desk. Remains of a skeleton sitting at the desk. Perception 10+ there is a dagger just under the desk. Several journals on a shelf plus one on the desk.
 
 #####Journal on desk
 * Last entry - May the Goddess forgive me. I cannot go on...
@@ -52,8 +54,27 @@
 * Ghost running away from the temple. When they reach a certain distance from the temple door they fade from view. Several fall before reaching that point.
 
 #####Inside
+* Several statues and images of various animals - especially unicorns. Trees also play an important part.
+* Damaged tapestries adorn the walls. All indicates the wealth of the temple.
+* As you enter you see more of these ghosts
 * More ghost running away. 
-* You see several ghost battling air
+* You see several ghost battling air. The silence is only broken by the movement of the party. The chilled air adds to the disconserting atmosphere.
+* Religion check 
+  * DC10+ temple to Mielikki (my-LEE-kee). You can see various icons to her. 
+  * DC15+ The ornate nature of the temple is at odds with what you know of Mielikki. Her followers tend to worship in a more natural setting.
+* As you go deeper into the temple the temparture drops. You The number of battling ghosts increases and you see several take what appears to be mortal wounds and the ghost disappears.
+  * If the party waits they will see the same ghost appear and restart their final fight.
+* Passive perception 15+ 
+  * You hear low mutterings coming from the ahead of you.
+  * You see a robed female ghostly form walking in front of you. She seems to be trying to comfort the battling ghosts. Moving from ghostly battle to ghostly battle.
+  * Perception check vs stealth. If she hears the party she turns towards them. Her eyes widden as she takes in your alive status. She moves towards you.. "You must leave.. you are not safe here.." 
+    * If the party took the statue from the ruins, she tilts her head and turns to the person holding it. "You are not one of hers yet you hold her symbol... the symbol that was taken from here to continue her worship..." Her eyes
+  
+
+#####Office of Floryn Fernwood
+
+* Female woof elf dressed in ornate robes.
+
 
 
 
