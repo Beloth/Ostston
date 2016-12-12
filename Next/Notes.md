@@ -1,4 +1,4 @@
-#Next Session No 29 
+#Next Session
 
 ###Last Session 28 - Nov 11th
 
@@ -14,7 +14,7 @@
 * some of the party rushes back to try to find him but instead they find signs of a battle and after following a trail they find his remains.
 
 
-###This Session
+###This Session No 29 - 12th Dec
 
 ####Travelling to the temple.
 
