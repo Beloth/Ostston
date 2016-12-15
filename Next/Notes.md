@@ -15,10 +15,58 @@
 
 ###Next Session No 30 - 16th Dec
 
+####Block enterance
+* Athletics check to unblock the stairwell down.
+  * DC 10+ More successes quicker done
+* If Investigation check done 
+  * DC 10+ relatively new, less than a year
 
-####Prisoner 
+####Runes blocking the ghosts
+* The walls have runes carved in the stone that make up the barrier stopping the ghosts from getting through. They are old however and partially hidden by the dirt and moss growth that has occurred. Runes are devilish in nature
+* Perception Check DC 15+ to spot the runes if not looking for them or Investigation check DC 10+ if actively looking
+* Arcana check 
+  * 10+ old runes that appear to be designed to keep things out
+  * 15+ They were designed to keep everything out including you. Must have weaken over time
+  * 20+ Given a few more months, at most a year, they will have degraded enough that the ghost could probably have breached it.
+* In order to break it down completely you need to find the power cluster. 
+  * Investigation check
+    * 10+ You spot a cluster 
+    * 15+ You sport mulitple clusters
+  * Arcana check  
+    
+Power crystal
+Runes - Flow
+        Stability
+        Regulate
+* Breaking 1 power cluster weakens the barrier in that section. Need to break several inorder to alow the ghost through
+
+####Prison section
+
+#####Large prison cell
+* 30+ prisoners
+  * Perception check
+    * 10+ all look to be sitting docilely on the floor
+    * 15+ You notice that they all have those slave collars on.
+
+#####Prisoner 
 * Archanist Shaniera
+  * Chained to the wall. 
+  * Dried blood on the side of her face
+  * Ripped clothes
+* She looks up when you approachs her face full of dispair. Her eyes widen with surprise and you see hope suddenly appear.
+* "I was studing the orb. The lack of activity must have lulled the guards into a snese of security because I received no warning." With tears in her eyes "My apprentices were swiftly killed and I was overwhelmed and bound with these manacle. They seen to surpress any magical ability I have" 
+* I recognised several of the assaliants as members of Lord Tanafrey's household guard. 
 
+######Shaniera's chains
+* No lock.
+* Metal manacles have runes across them feintly glowing
+* Magic inhibiting manacles
+* Need to find the release "key" which on of the fanatics has or could release her by cutting off her hands...
+* Investigation check
+  * 10+ the manacles are also indestructable
+  * 15+ The chains aren't
+  
+  
 
 
 
