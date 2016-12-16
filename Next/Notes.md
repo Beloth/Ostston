@@ -84,7 +84,9 @@ Runes - Flow
 * If Mal gets within 20ft of the centre orb a line of power lances out from it striking him in the chest
   *  Wisdom saving throw 10+. Every round increases difficulty by 1
     * If failed. You are overwhelped by a feeling of ecstasy. You utter a low moan of pleasure and are unable to resist the pull of the power line as it moves you 10 ft into position infront of the closest orb
-    * If successful 
+    * If successful movement reduced to 5ft.
+  * Will continue to try to connect until Mal leaves the room or the mage goes away.  
+  * For every turn attached +1 to wings
   
 
 
