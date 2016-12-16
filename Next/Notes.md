@@ -67,6 +67,26 @@ Runes - Flow
   * 15+ The chains aren't
   
   
+####Armory
+
+* Chain armour, weapons - spears, swords etc
+* Charged Scimatar
+
+####Main Room
+
+* The room is dominated by a large statue of a horned Devil with a large wing span. 4 large eyes glowing eerily.
+* The centre orb is has thick reddish black veins growing up from the base. The parts not covered by the veins is glowing a sickly blue colour.
+* In the Centre you see a large winged fiend slumped to 1 knee surround by some sort of force field. A line of energy connecting it to the center orb.
+* Red lines of power leave the central orb hitting 2 tieflings standing by the orbs. You see their faces twisted in ecstasy. They are visibly vibrating with energy, wings outspread. 
+  * Passive perception 15+ You also see smaller lines of purply blue energy leaving them and hitting the other orbs
+* In front of the statue a rift appears to be forming
+
+* If Mal gets within 20ft of the centre orb a line of power lances out from it striking him in the chest
+  *  Wisdom saving throw 10+. Every round increases difficulty by 1
+    * If failed. You are overwhelped by a feeling of ecstasy. You utter a low moan of pleasure and are unable to resist the pull of the power line as it moves you 10 ft into position infront of the closest orb
+    * If successful 
+  
+
 
 
 
