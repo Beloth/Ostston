@@ -71,3 +71,17 @@ The voice continues.. "Destroy the temple in Blackpine forest or this will occur
 * Pelarna - Rogue sister
 * Pelgara - Fighter sister
 * Melanor - Mage brother
+
+####Mal's Wings
+
+Current Wing level 1, 9 points
+
+| Wing level | Amount | Description | 
+|---|---|---|
+| 0 | 4 | No wings |
+| 1 | 5-9 | Little stubs of wings. Uncomfortable until you get armour to fit around them|
+| 2 | 10-19 | Half wings 3-4 ft wingspan. You can now use them to control your fail. Half damage from falling if you armour allows them to be free. Disadvange when trying to pursuade anyone not used to them |
+| 3 | 20-44| Almost full sized wings but not full strength. 6-10ft wingspan. You can now use them to glide. Height * 2 glide range. Lose Hellish rebuke|
+| 4 | 45+ | Full sized wings. You can now fly at 25 ft|
+
+
