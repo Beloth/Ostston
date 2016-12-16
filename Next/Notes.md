@@ -87,6 +87,7 @@ Runes - Flow
     * If successful movement reduced to 5ft.
   * Will continue to try to connect until Mal leaves the room or the mage goes away.  
   * For every turn attached +1 to wings
+* Ameria has an Ioun Stone Protection, Wand of the War Mage +1, potion of greater healing, Spell Scroll of Clairvoyance  
   
 
 
