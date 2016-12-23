@@ -12,6 +12,9 @@ As the final words fade you glance up to see a visage with 4 eyes and horns at b
 * Contains a spell Magic Circle
 * Contains the location of a ruin mage tower.
 
+#####Magic Items
+* Googles of Night
+
 ###Cig
 
 ####Dreams
@@ -25,6 +28,9 @@ As the final words fade you glance up to see a visage with 4 eyes and horns at b
 ####Ostston Thieves Guild
 * Leader is actually the dress maker/salesman
 * Old Tinkerer is an enemy
+
+#####
+* Vicious Weapon
 
 ###Eli
 
@@ -41,6 +47,9 @@ As the final words fade you glance up to see a visage with 4 eyes and horns at t
 * Is controlled by a hidden collar
 * On his death will grant Eli some of his power
 
+#####Magic items
+* Bracers of Archery
+
 ###Little Claw
 
 ####Dreams
@@ -49,7 +58,12 @@ You find yourself in the middle of a corrupted forrest. The trees withered and w
 
 As you start greeting them back you hear in a whispered voice "I can help you beat back the corruption, help to save the packs that call this forrest home.. all you have to do is to stop the goings on in Blackpine forest. Destory the temple and I will help save them all.
 
-As the final words fade you glance up to see a visage with 4 eyes and horns at the edge of the forrest slowly dissipating. 
+As the final words fade you glance up to see a visage with 4 eyes and horns at the edge of the forrest slowly dissipating.
+
+#####Magic items
+
+* Amulet of Common Speech
+This allows the wearer to speak and understand common no matter what their form.
 
 ###Mal
 ####Dreams
