@@ -74,6 +74,7 @@ Runes - Flow
 
 ####Main Room
 
+? Think about lair actions. Center of Meilikki's power but corrupted. If still corrupted bad actions hurt party. If cleansed good actions help party.
 * The room is dominated by a large statue of a horned Devil with a large wing span. 4 large eyes glowing eerily.
 * The centre orb is has thick reddish black veins growing up from the base. The parts not covered by the veins is glowing a sickly blue colour.
 * In the Centre you see a large winged fiend slumped to 1 knee surround by some sort of force field. A line of energy connecting it to the center orb.
