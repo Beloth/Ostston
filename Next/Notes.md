@@ -1,25 +1,13 @@
-###Last Session 29 - 12th Dec
+###Last Session 30 - 16th Dec
 
-* Party headed back along their trail heading towards the temple
-* They find what appears to be a large field of cultivated mushrooms that has become overgrown
-* They follow a trail from the field that seems to lead towards the temple but it slowly veers away. They discuss following the trail or heading directkt to the temple. They vote 3 to 2 to head to the temple (Cig, Eli and LC) (Angus and Mal)
-* Mal uses message and his actoring skill to message Eli pretending to be her dead Uncle Eldorin who wants her to follow the trail. This caused Eli to change her mind and they party heads down the trail
-* They find an abandoned settlement with a dozon or so building. ELi and Cig sneak in and investigate the largest building. In it was a statue of a unicorn representing Mielikki who Eli says a prayer too
-* The rest of the party also start investigating the building and Angus find several journals which give some information about what happen to the settlement and a few hints about the temple
-* Before they leave there is a discuss on whether to take the statue. Again its a 3 to 2 vote and again Mal uses his whisper and acting combo to make Eli belief that her Uncle wants her to take the statue, which she does without the knowledge if the rest of the party.
-* As they approach the temple they see the fleeing ghosts
-* Inside the temple they see various ghost fighting air as they stand over their own skeletons. LC uses his death tokens over each skeleton which seems to be affecting the ghost. However during one of these prayers he distrubes one of the skeletons which causes the ghost to take notice of him. It possess LC and forces the other to knock him unconscious causing the ghost to resume its endless fight.
-* They continue to explore and come across a ghost that seems to be praying over the skeletons. Unlike the other ghosts this one immediately notice they and turns towards them
-* It recognises that Eli has the statue and demands that she return it. Eventually Eli admits to it and they find out that it belongs in one of the side chapels of the temple. After it is returned the party talks to the ghost who is the high priestess Floryn Fernwood who gives them important information.
+* The party was lead to a stairwell down by the Ghost of the high priestess Floryn Fernwood. As you headed down you ran into a blockage. Using some tools you managed to create enough of a gap to sqeeze through.
+* Once the whole party was through you started your exploration of this level. You avoided several patrols of thugs as well as imps and found one of the secret passage that the High Priestess talked about.
+* This passage lead to several guarded rooms. After defeating the guards you found that one of the rooms had been converted to a prison for Archanist Shaniera. You free her and ask how she came to be captured. She tells you that she and her helpers that were still studying the portal and crystal were surprised and overwhelmed. Her helpers were killed and she was knocked out and brought her. 
+* After continuing to find a larger guarded room which contained several dozen captives, all of whom have a slave collar on and are simpling sitting in the room. You decide that you need to find the slave collar controller before releasing them.
+* You find the next secret passage that the High Priestess told you about but by the exit of the passage was blocked by some guards. You manage to defeat them plus some reinforcments from a nearby room that heard the fighting. The room contained many things including Shaniera's equipment
 
 
-###Next Session No 30 - 16th Dec
-
-####Block enterance
-* Athletics check to unblock the stairwell down.
-  * DC 10+ More successes quicker done
-* If Investigation check done 
-  * DC 10+ relatively new, less than a year
+###Next Session 31 - ?
 
 ####Runes blocking the ghosts
 * The walls have runes carved in the stone that make up the barrier stopping the ghosts from getting through. They are old however and partially hidden by the dirt and moss growth that has occurred. Runes are devilish in nature
@@ -39,38 +27,6 @@ Runes - Flow
         Stability
         Regulate
 * Breaking 1 power cluster weakens the barrier in that section. Need to break several inorder to alow the ghost through
-
-####Prison section
-
-#####Large prison cell
-* 30+ prisoners
-  * Perception check
-    * 10+ all look to be sitting docilely on the floor
-    * 15+ You notice that they all have those slave collars on.
-
-#####Prisoner 
-* Archanist Shaniera
-  * Chained to the wall. 
-  * Dried blood on the side of her face
-  * Ripped clothes
-* She looks up when you approachs her face full of dispair. Her eyes widen with surprise and you see hope suddenly appear.
-* "I was studing the orb. The lack of activity must have lulled the guards into a snese of security because I received no warning." With tears in her eyes "My apprentices were swiftly killed and I was overwhelmed and bound with these manacle. They seen to surpress any magical ability I have" 
-* I recognised several of the assaliants as members of Lord Tanafrey's household guard. 
-
-######Shaniera's chains
-* No lock.
-* Metal manacles have runes across them feintly glowing
-* Magic inhibiting manacles
-* Need to find the release "key" which on of the fanatics has or could release her by cutting off her hands...
-* Investigation check
-  * 10+ the manacles are also indestructable
-  * 15+ The chains aren't
-  
-  
-####Armory
-
-* Chain armour, weapons - spears, swords etc
-* Charged Scimatar
 
 ####Main Room
 
