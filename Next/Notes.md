@@ -10,7 +10,7 @@
 ###Next Session 31 - ?
 
 ####Runes blocking the ghosts
-* The walls have runes carved in the stone that make up the barrier stopping the ghosts from getting through. They are old however and partially hidden by the dirt and moss growth that has occurred. Runes are devilish in nature
+* The walls have runes carved in the stone that make up the barrier stopping the ghosts from getting through. They are old however and partially hidden by the dirt and moss growth that has occurred. Runes are infernal in nature
 * Perception Check DC 15+ to spot the runes if not looking for them or Investigation check DC 10+ if actively looking
 * Arcana check 
   * 10+ old runes that appear to be designed to keep things out
@@ -40,7 +40,9 @@ Runes - Flow
     * Pushing on the door make a strength check. No matter the roll no affect. If high roll (25+) you push so hard you actually do damage to yourself (1D4 damage)
     * Attacking the door physically. Roll attack AC 10+. If hit roll damage - as soon as you make contact with the door an explosion of force erupts. 
       * Everyone within 10 feet of the door make a Dex save closest DC15+, next DC10. Success takes half damage. Damage = 2xDamage rolled.
-    * Attacking the door with magic. As you release the magic you see writing start to light up. Shaniera's eyes widen and she shouts out "RUN". Everyone within 30 feet of the door make a Dex saving room. Closest DC17, next 15, next 13, next 11, etc. Anyone successful manages to scramble out of the way. All that fail take 2D6 magical force damage and are knocked prone.  
+    * Attacking the door with magic. As you release the magic you see writing start to light up. Shaniera's eyes widen and she shouts out "RUN". Everyone within 30 feet of the door make a Dex saving room. Closest DC17, next 15, next 13, next 11, etc. Anyone successful manages to scramble out of the way. All that fail take 2D6 magical force damage and are knocked prone. 
+  
+  * If the writing is spotted and mentioned then Shaniera will have a look. She takes out from a small pouch at her side what looks like a eye monocle. She places it in her eye and takes a close look. "Hmmm obviously magic, recently empowered. Looks like someone doesn't want anyone entering in here." 
       
 
 ####Main Room
