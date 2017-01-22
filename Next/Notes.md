@@ -49,6 +49,22 @@
       * She turns away from the door, hand half way to take off the monocle, then stops and stares at the wall. Her eyes widen and she approaches the wall. "There's more writing here, more faded" She starts tracing her finger along the wall, deep in thought.
       * Investigation DC 10+ to spot the runes. See [above] (#runes-blocking-the-ghosts)
       
+####Cell with Pelarna
+
+You find another room that seem to have been converted into a cell. Within is a female tiefling whose hands have been manacled together above her head, linked to a heavy duty chain that has tied to the ceiling. What was once leather armour lay in tatters against her skin and you can see deep discolouration all over her exposed skin. Her head is bowed and you can't see her face.
+
+As she hears you open the door, with out looking up she says "Back for more are you, you sick bastards. I told you I don't know anything more..."
+
+She raises her head and you she that her face is badly bruised and her eyes have swollen to such and extent that she can barely open them. You can however recognise her as Pelarna, the half sister of Mal.
+
+You hear an odd weezing noise coming from her which after a moment you realise is a fatalistic type of laughter. "Just my luck, I get found by you. Take a good long look at what you have cost me."
+
+As you get closer you catch a glimse of her back. You see deep lacerations (medical check dc10 - whip marks) and most noticably where there were large leathery wings there are now just broken and bleeding stubs.
+
+If released she will collapse (make a dex roll to see if you can catch her before she falls to the ground).
+
+
+
 
 ####Main Room
 
