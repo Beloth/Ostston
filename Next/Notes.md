@@ -87,7 +87,7 @@ If released she will collapse (make a dex roll to see if you can catch her befor
 #####Lair action
 
 * Meilikki's orb of power is corrupted and will hurt the party once a round. Pick a random member and one of the following happens:
-  * They have to make a wisdom saving throw 12+. They are shown is vision one of the realms of the nie hells. If failed they are paralysised with fear for their next turn
+  * They have to make a wisdom saving throw 12+. They are shown is vision one of the realms of the nine hells. If failed they are paralysised with fear for their next turn
   * A jolt of energy rushes from the orb and strikes them. Wisdom saving throw 12+. If successful half damage. 1d8 Psychic damage
   * A line of power reaches out from the orb and connects to the player. Make a dexterity saving throw 15+ to avoid it  
     * If failed. You are overwhelped by a feeling of ecstasy. You utter a low moan of pleasure and are unable to resist the pull of the power line as it moves you 10 ft into position infront of the closest orb and you can make no movement on your next turn. 
