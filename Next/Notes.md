@@ -63,8 +63,20 @@ As you get closer you catch a glimse of her back. You see deep lacerations (medi
 
 If released she will collapse (make a dex roll to see if you can catch her before she falls to the ground).
 
+####Guardroom
+* Guard captain is recognisable as the captain of Lord Tanafrey. He does have the tattoo.
+* Investigation check to find the runic circle 
+  * If checking the bookcases DC20+
+  * If checking the room DC15+
+  * Drudic knowledge - symbols of transportation, leads to a hidden area. Probably not found by the cultists judging from the dust
+  
+####Private Melikki shrine Area
 
-
+* Chest has
+  * Amulet of Common Speech
+  * Bag of Bean - 8 beans. weighs about 4lbs
+  * 750gp art object - Silver Unicorn with sapphire eyes and a goldern horn
+ 
 
 ####Main Room
 
