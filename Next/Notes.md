@@ -57,6 +57,8 @@
   * For every turn attached +1 to wings
 * Ameria has an Ioun Stone Protection, Wand of the War Mage +1, potion of greater healing, Spell Scroll of Clairvoyance  
 
+* Every round 1d6 ghosts will enter the room and float into the orb.
+
 #####Lair action
 
 * Meilikki's orb of power is corrupted and will hurt the party once a round. Pick a random member and one of the following happens:
