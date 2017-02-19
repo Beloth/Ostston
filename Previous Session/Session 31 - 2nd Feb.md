@@ -1,3 +1,5 @@
+##Session 31 - 2nd Feb
+
 
 * The party cotinued to explore the temple. You came across a Large, solid metal door with no visible locks. After investigating the door, Archanist Shaniera spots magical writing that seems to be protecting the door.
 * At the same time she notices that there is similar writing on the walls that are more faded than those on the doors. You think this writing is linked to the shield preventing the ghosts from entering this level of the temple. 
