@@ -15,7 +15,7 @@ Caravan duty. Guard a caravan of goods heading north to the mines. Rewards 50gp 
 
 ###Rival teams
 
-The Wolf Pack. Led by a Half Orc. 
+Thack's Wolf Pack. Led by a Half Orc. 
 
 Signature - each has a piece of wolf pelt as part of their armour. The leader has the head of a Wolf as part of his helmet. 
 
